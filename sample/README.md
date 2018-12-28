@@ -9,7 +9,7 @@ The main shared task data will be provided in two formats: with dependency synta
 ### Treebank format (*.conll)
 
 Files are given in the 10 column, tab delimited CoNLL-U format, with three kinds of lines:
-  * Token lines (10 columns, word form in column 2) - the last column (CoNLL-U MISC field) may include an annotation `BeginSeg=Yes` to indicate the beginning of a discourse unit - this is the annotation systems should predict. *Note*: Other annotations from the original treebanks may also be present in this field, in which case they will be pipe separated.
+  * Token lines (10 columns, word form in column 2) - the last column (CoNLL-U MISC field) may include an annotation `BeginSeg=Yes` to indicate the beginning of a discourse unit - this is the annotation systems should predict. **Note**: Other annotations from the original treebanks may also be present in this field, in which case they will be pipe separated, e.g. `BeginSeg=Yes|SpaceAfter=No`.
   * Blank lines between sentences
   * Comment lines (some optional) - begin with `#` and contain one of three key-value pairs, e.g.:
     * `# newdoc id = GUM_academic_art`  [This is the identifier indicating a new corpus document]
