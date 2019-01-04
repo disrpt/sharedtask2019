@@ -83,7 +83,7 @@ for infile in files:
 							firstdoc = False
 						plain_output.append(line)
 						token_counter = 0
-				output.append(line)
+					output.append(line)
 			elif len(line.strip()) == 0:
 				if last_line.strip() != "":
 					output.append("")
