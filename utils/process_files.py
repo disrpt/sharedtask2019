@@ -20,7 +20,7 @@ If the plain (-p) option is used, a plain version without sentence and tree info
 
 __author__ = "Amir Zeldes"
 __license__ = "Apache 2.0"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 import io, sys, os, re
 from argparse import ArgumentParser
@@ -30,6 +30,7 @@ p = ArgumentParser()
 p.add_argument("files",help="A glob pattern with files to process")
 p.add_argument("-p","--plain",action="store_true",help="Also output plain text version")
 p.add_argument("-s","--sample",action="store_true",help="Set outfile names to sample.tok and sample.conll")
+p.add_argument("-c","--corpus",action="store",help="Corpus name to output",default=None)
 
 opts = p.parse_args()
 
@@ -55,6 +56,16 @@ for infile in files:
 	if opts.sample:
 		outfile = "sample.conll"
 		plainfile = "sample.tok"
+	if opts.corpus is not None:
+		outfile = opts.corpus
+		if "_dev" in infile:
+			outfile += "_dev"
+		elif "_test" in infile:
+			outfile += "_test"
+		else:
+			outfile += "_train"
+		plainfile = outfile + ".tok"
+		outfile += ".conll"
 	lines = io.open(infile,encoding="utf8").read().strip().replace("\r","\n").split("\n")
 	for i, line in enumerate(lines):
 		if "\t" in line:  # Token line
@@ -67,6 +78,10 @@ for infile in files:
 			fields[2:] = ["_"] * 8
 			if "BeginSeg=Yes" in line:
 				fields[9] = "BeginSeg=Yes"
+			elif "Seg=B-Conn" in line:
+				fields[9] = "Seg=B-Conn"
+			if "Seg=I-Conn" in line:
+				fields[9] = "Seg=I-Conn"
 			plain_output.append("\t".join(fields))
 		else:
 			if line.startswith("#"):
