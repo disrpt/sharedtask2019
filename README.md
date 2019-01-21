@@ -1,4 +1,4 @@
-# sharedtask2019
+# DISRPT/sharedtask2019
 
 Repository for the DISRPT2019 shared task on Discourse Unit Segmentation
 
@@ -8,6 +8,12 @@ The DISRPT 2019 workshop introduces the first iteration of a cross-formalism sha
 
 https://sites.google.com/view/disrpt2019/
 
+** Shared task participants are encouraged to follow this repository in case bug are found and need to be fixed ** 
+
+## Types of data
+
+The tasks are oriented towards finding the locus of discourse relations in texts. For frameworks that segment text into non-overlapping spans covering each entire documents (RST and SDRT), the task corresponds to finding the starting point of each discourse unit. For PDTB-style datasets, the task is to identify the spans of discourse connectives that explicitly identify the existence of a discourse relation.
+
 ## Important dates
 
   * Fri, December 28, 2018 - shared task sample data release
@@ -16,11 +22,33 @@ https://sites.google.com/view/disrpt2019/
   * Thu, February 28, 2019 - papers due (shared task & regular workshop papers)
   * Wed, March 27, 2019 - notification of acceptance
   * Fri, April 5, 2019 - camera-ready papers due
-  * June 6/7, 2019 (TBD) - workshop
+  * Thu, June 6, 2019 - workshop
 
 ## Directories
 
 The shared task repository currently comprises the following directories (to be extended as the task progresses):
 
+  * data - individual corpora from various languages and frameworks. Folders are given names in the scheme LANG.FRAMEWORK.CORPUS, e.g. eng.rst.gum is the directory for the GUM corpus, which is in English and annotated in the framework of Rhetorical Structure Theory (RST).
   * sample - sample data to illustrate formats, provided ahead of the release of training data (this data will be included in training data)
-  * utils - scripts for validating, evaluating and generating data formats
+  * utils - scripts for validating, evaluating and generating data formats. The official scorer is `seg_eval.py`.
+
+See the README files in individual data directories for more details on each dataset.
+
+## Statistics
+
+| corpus | lang | framework | train_toks | train_sents | train_docs | dev_toks | dev_sents | dev_docs | total_sents_notest | total_toks_notest | total_docs_notest | seg_style | underscored | SpaceAfter | syntax | has_multitoks |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| deu.rst.pcc | deu | rst | 26,831 | 1,773 | 142 | 3,152 | 207 | 17 | 1,980 | 29,983 | 159 | EDU | no | no | UD | no |
+| eng.pdtb.pdtb | eng | pdtb | 1,061,222 | 44,563 | 1,992 | 39,768 | 1,703 | 79 | 46,266 | 1,100,990 | 2,071 | Conn | yes | no | UD (gold) | no |
+| eng.rst.gum | eng | rst | 67,098 | 3,600 | 78 | 15,593 | 784 | 18 | 4,384 | 82,691 | 96 | EDU | no | yes | UD (gold) | no |
+| eng.rst.rstdt | eng | rst | 166,849 | 6,672 | 309 | 17,309 | 717 | 38 | 7,389 | 184,158 | 347 | EDU | yes | no | UD (gold) | no |
+| eng.sdrt.stac | eng | sdrt | 36,879 | 7,365 | 29 | 4,787 | 941 | 6 | 8,306 | 41,666 | 35 | EDU | no | no | UD | no |
+| eus.rst.ert | eus | rst | 21,125 | 991 | 84 | 7,533 | 350 | 28 | 1,341 | 28,658 | 112 | EDU | no | no | other | no |
+| fra.sdrt.annodis | fra | sdrt | 20,583 | 807 | 64 | 4,467 | 208 | 11 | 1,015 | 25,050 | 75 | EDU | no | no | UD | no |
+| nld.rst.nldt | nld | rst | 17,566 | 1,202 | 56 | 3,789 | 257 | 12 | 1,459 | 21,355 | 68 | EDU | no | no | UD | no |
+| por.rst.cstn | por | rst | 44,808 | 1,595 | 110 | 6,233 | 232 | 14 | 1,827 | 51,041 | 124 | EDU | no | yes | UD | yes |
+| rus.rst.rrt | rus | rst | 214,484 | 9,859 | 140 | 29,412 | 1,327 | 19 | 11,186 | 243,896 | 159 | EDU | no | no | UD | no |
+| spa.rst.rststb | spa | rst | 43,034 | 1,577 | 203 | 7,531 | 256 | 32 | 1,833 | 50,565 | 235 | EDU | no | no | UD | no |
+| spa.rst.sctb | spa | rst | 10,249 | 304 | 32 | 2,450 | 74 | 9 | 378 | 12,699 | 41 | EDU | no | no | UD | no |
+| zho.pdtb.cdtb | zho | pdtb | 52,061 | 2,049 | 125 | 11,178 | 438 | 21 | 2,487 | 63,239 | 146 | Conn | yes | no | other (gold) | no |
+| zho.rst.sctb | zho | rst | 8,963 | 344 | 32 | 2,104 | 87 | 9 | 431 | 11,067 | 41 | EDU | no | no | UD (V1) | no |
