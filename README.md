@@ -8,7 +8,7 @@ The DISRPT 2019 workshop introduces the first iteration of a cross-formalism sha
 
 https://sites.google.com/view/disrpt2019/
 
-** Shared task participants are encouraged to follow this repository in case bug are found and need to be fixed ** 
+**Shared task participants are encouraged to follow this repository in case bugs are found and need to be fixed** 
 
 ## Types of data
 
@@ -28,8 +28,10 @@ The tasks are oriented towards finding the locus of discourse relations in texts
 
 The shared task repository currently comprises the following directories (to be extended as the task progresses):
 
-  * data - individual corpora from various languages and frameworks. Folders are given names in the scheme LANG.FRAMEWORK.CORPUS, e.g. eng.rst.gum is the directory for the GUM corpus, which is in English and annotated in the framework of Rhetorical Structure Theory (RST).
-  * sample - sample data to illustrate formats, provided ahead of the release of training data (this data will be included in training data)
+  * data - individual corpora from various languages and frameworks. 
+    * Folders are given names in the scheme `LANG.FRAMEWORK.CORPUS`, e.g. `eng.rst.gum` is the directory for the GUM corpus, which is in English and annotated in the framework of Rhetorical Structure Theory (RST).
+    * Note that three corpora (eng.rst.rstdt, eng.pdtb.pdtb, zho.pdtb.cdtb) **do not contain text** and text therefore needs to be reconstructed using `utils/process_underscores.py`.
+  * sample - sample data to illustrate formats, provided ahead of the release of training data (this data will be included in training data).
   * utils - scripts for validating, evaluating and generating data formats. The official scorer is `seg_eval.py`.
 
 See the README files in individual data directories for more details on each dataset.
