@@ -4,6 +4,7 @@ The RST Spanish-Chinese Treebank - Chinese section
 
 Citations:
 
+  * Cao Shuyuan, da Cunha Iria, and Iruskieta Mikel. 2018. The RST Spanish-Chinese Treebank. In Proceedings of the Joint Workshop of Linguistic Annotation, Multiword Expression and Constructions (LAW-MWE-CxG-2018), 156-166. 
   * Cao Shuyuan, Xue Nianwen, da Cunha Iria, Iruskieta Mikel, and Wang Chuan. 2017. Discourse Segmentation for Building a RST Chinese Treebank. In Proceedings of 6th Workshop “Recent Advances in RST and Related Formalisms”, 73-81.
   * Cao Shuyuan, da Cunha Iria, Iruskieta Mikel. 2017. Toward the Elaboration of a Spanish-Chinese Parallel Annotated Corpus. EPiC Series of Language and Linguistics, 2: 315-324.
   * Cao Shuyuan, da Cunha Iria, and Iruskieta Mikel. 2016. A Corpus-based Approach for Spanish-Chinese Language Learning. In Proceedings of the 3rd Workshop on Natural Language Processing Techniques for Educational Applications (NLP-TEA3), 97-106. 
