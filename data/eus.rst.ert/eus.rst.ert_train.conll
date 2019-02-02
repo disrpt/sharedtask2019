@@ -20784,7 +20784,7 @@
 13	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 1	Hau	hau	DET	DET	Case=Abs|Number=Sing	2	obl	_	BeginSeg=Yes
-2	dela	izan	VERB	VERB	Aspect=Prog|Mood=Ind	15	advcl	_ _
+2	dela	izan	VERB	VERB	Aspect=Prog|Mood=Ind	15	advcl	_	_
 3	eta	eta	CONJ	CONJ	_	15	punct	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	UPV	UPV	NOUN	NOUN	_	7	nmod	_	_
@@ -20880,7 +20880,7 @@
 31	.	.	PUNCT	PUNCT	_	27	punct	_	_
 
 1	Beraz	beraz	CONJ	CONJ	_	22	advmod	_	BeginSeg=Yes
-2	,	,	PUNCT	PUNCT	_	22	punct	_ _
+2	,	,	PUNCT	PUNCT	_	22	punct	_	_
 3	Urdaibain	Urdaibai	NOUN	NOUN	Case=Ine|Number=Sing	22	obl	_	_
 4	alkilfenolek	alkilfenol	NOUN	NOUN	Case=Erg|Number=Plur	5	obl	_	_
 5	izan	izan	VERB	VERB	_	7	acl	_	_
@@ -20958,7 +20958,7 @@
 21	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
 1	Aipatu	aipatu	VERB	VERB	VerbForm=Part	2	advcl	_	BeginSeg=Yes
-2	azterketa	azterketa	NOUN	NOUN	_	8	obl	_ _
+2	azterketa	azterketa	NOUN	NOUN	_	8	obl	_	_
 3	guztietan	guzti	DET	DET	Case=Ine|Number=Plur	2	det	_	_
 4	,	,	PUNCT	PUNCT	_	8	punct	_	_
 5	biomarkatzaileen	biomarkatzailea	NOUN	NOUN	Case=Gen|Number=Plur	8	nsubj	_	_
@@ -22144,7 +22144,7 @@
 13	ditugu	*edun	AUX	AUX	Mood=Ind	12	aux	_	_
 14	,	,	PUNCT	PUNCT	_	12	punct	_	_
 15	beti	beti	ADV	ADV	_	19	advmod	_	BeginSeg=Yes
-16	ere	ere	CONJ	CONJ	_	19	advmod	_ _
+16	ere	ere	CONJ	CONJ	_	19	advmod	_	_
 17	metodo	metodo	NOUN	NOUN	_	19	obl	_	_
 18	bioinformatikoak	bioinformatikoa	ADJ	ADJ	Case=Abs|Number=Plur	17	amod	_	_
 19	erabiliz	erabili	VERB	VERB	Case=Ins|VerbForm=Part	12	appos	_	_
