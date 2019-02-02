@@ -141,7 +141,7 @@
 140	dira	_	_	_	_	_	_	_	_
 141	.	_	_	_	_	_	_	_	_
 142	Gaur	_	_	_	_	_	_	_	BeginSeg=Yes
-143	egun	_	_	_	_	_	_	_	BeginSeg=Yes
+143	egun	_	_	_	_	_	_	_	_
 144	,	_	_	_	_	_	_	_	_
 145	barne-sistema	_	_	_	_	_	_	_	_
 146	opioide	_	_	_	_	_	_	_	_
@@ -225,7 +225,7 @@
 224	dugu	_	_	_	_	_	_	_	_
 225	;	_	_	_	_	_	_	_	_
 226	immunozitokimika	_	_	_	_	_	_	_	BeginSeg=Yes
-227	proteina	_	_	_	_	_	_	_	BeginSeg=Yes
+227	proteina	_	_	_	_	_	_	_	_
 228	eta	_	_	_	_	_	_	_	_
 229	peptidoen	_	_	_	_	_	_	_	_
 230	kokapena	_	_	_	_	_	_	_	_
@@ -235,7 +235,7 @@
 234	;	_	_	_	_	_	_	_	_
 235	azkenik	_	_	_	_	_	_	_	BeginSeg=Yes
 236	,	_	_	_	_	_	_	_	_
-237	sistema	_	_	_	_	_	_	_	BeginSeg=Yes
+237	sistema	_	_	_	_	_	_	_	_
 238	bakoitzaren	_	_	_	_	_	_	_	_
 239	funtzionalitatea	_	_	_	_	_	_	_	_
 240	aztertzeko	_	_	_	_	_	_	_	_
@@ -343,7 +343,7 @@
 342	.	_	_	_	_	_	_	_	_
 343	Modu	_	_	_	_	_	_	_	BeginSeg=Yes
 344	honetan	_	_	_	_	_	_	_	_
-345	ugalketan	_	_	_	_	_	_	_	BeginSeg=Yes
+345	ugalketan	_	_	_	_	_	_	_	_
 346	parte	_	_	_	_	_	_	_	_
 347	hartzen	_	_	_	_	_	_	_	_
 348	duten	_	_	_	_	_	_	_	_
@@ -476,7 +476,7 @@
 99	.	_	_	_	_	_	_	_	_
 100	Bestalde	_	_	_	_	_	_	_	BeginSeg=Yes
 101	,	_	_	_	_	_	_	_	_
-102	lesioa	_	_	_	_	_	_	_	BeginSeg=Yes
+102	lesioa	_	_	_	_	_	_	_	_
 103	arratoi	_	_	_	_	_	_	_	_
 104	helduetan	_	_	_	_	_	_	_	_
 105	burutzen	_	_	_	_	_	_	_	_
@@ -618,12 +618,12 @@
 # newdoc id = BIZ09-A5_Garbi.RAW.txt.gold
 1	Transesterifikazioak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	.	_	_	_	_	_	_	_	_
-3	Biodieselak	_	_	_	_	_	_	_	_
+3	Biodieselak	_	_	_	_	_	_	_	BeginSeg=Yes
 4	.	_	_	_	_	_	_	_	_
-5	Teknika	_	_	_	_	_	_	_	_
+5	Teknika	_	_	_	_	_	_	_	BeginSeg=Yes
 6	esperimentalak	_	_	_	_	_	_	_	_
 7	.	_	_	_	_	_	_	_	_
-8	(	_	_	_	_	_	_	_	_
+8	(	_	_	_	_	_	_	_	BeginSeg=Yes
 9	UNESCO	_	_	_	_	_	_	_	_
 10	08/05	_	_	_	_	_	_	_	_
 11	)	_	_	_	_	_	_	_	_
@@ -663,7 +663,7 @@
 45	.	_	_	_	_	_	_	_	_
 46	Horretarako	_	_	_	_	_	_	_	BeginSeg=Yes
 47	,	_	_	_	_	_	_	_	_
-48	fritangako	_	_	_	_	_	_	_	BeginSeg=Yes
+48	fritangako	_	_	_	_	_	_	_	_
 49	olioari	_	_	_	_	_	_	_	_
 50	zikinkeria	_	_	_	_	_	_	_	_
 51	solidoak	_	_	_	_	_	_	_	_
@@ -921,8 +921,8 @@
 303	azaltzeko	_	_	_	_	_	_	_	_
 304	.	_	_	_	_	_	_	_	_
 305	Azken	_	_	_	_	_	_	_	BeginSeg=Yes
-306	finean	_	_	_	_	_	_	_	BeginSeg=Yes
-307	gure	_	_	_	_	_	_	_	BeginSeg=Yes
+306	finean	_	_	_	_	_	_	_	_
+307	gure	_	_	_	_	_	_	_	_
 308	ikerkuntzan	_	_	_	_	_	_	_	_
 309	erabili	_	_	_	_	_	_	_	_
 310	ohi	_	_	_	_	_	_	_	_
@@ -1009,7 +1009,7 @@
 391	ditu	_	_	_	_	_	_	_	_
 392	.	_	_	_	_	_	_	_	_
 393	Ezin	_	_	_	_	_	_	_	BeginSeg=Yes
-394	genuke	_	_	_	_	_	_	_	BeginSeg=Yes
+394	genuke	_	_	_	_	_	_	_	_
 395	aipatu	_	_	_	_	_	_	_	_
 396	gabe	_	_	_	_	_	_	_	_
 397	utzi	_	_	_	_	_	_	_	_
@@ -1159,13 +1159,13 @@
 107	espektrometriaz	_	_	_	_	_	_	_	_
 108	lortutako	_	_	_	_	_	_	_	_
 109	datuak	_	_	_	_	_	_	_	_
-110	sekuentzien	_	_	_	_	_	_	_	BeginSeg=Yes
+110	sekuentzien	_	_	_	_	_	_	_	_
 111	datu	_	_	_	_	_	_	_	_
 112	baseetan	_	_	_	_	_	_	_	_
 113	dauden	_	_	_	_	_	_	_	_
 114	proteinak	_	_	_	_	_	_	_	_
 115	identifikatzeko	_	_	_	_	_	_	_	_
-116	erabiltzen	_	_	_	_	_	_	_	BeginSeg=Yes
+116	erabiltzen	_	_	_	_	_	_	_	_
 117	ditu	_	_	_	_	_	_	_	_
 118	bilatzaile	_	_	_	_	_	_	_	_
 119	informatikoak	_	_	_	_	_	_	_	_
@@ -1216,7 +1216,7 @@
 164	identifikatuz	_	_	_	_	_	_	_	_
 165	.	_	_	_	_	_	_	_	_
 166	Hala	_	_	_	_	_	_	_	BeginSeg=Yes
-167	ere	_	_	_	_	_	_	_	BeginSeg=Yes
+167	ere	_	_	_	_	_	_	_	_
 168	,	_	_	_	_	_	_	_	_
 169	gaur	_	_	_	_	_	_	_	_
 170	egun	_	_	_	_	_	_	_	_
@@ -1271,7 +1271,7 @@
 219	.	_	_	_	_	_	_	_	_
 220	Horretarako	_	_	_	_	_	_	_	BeginSeg=Yes
 221	,	_	_	_	_	_	_	_	_
-222	identifikatzeaz	_	_	_	_	_	_	_	BeginSeg=Yes
+222	identifikatzeaz	_	_	_	_	_	_	_	_
 223	gain	_	_	_	_	_	_	_	_
 224	,	_	_	_	_	_	_	_	_
 225	modu	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -1307,7 +1307,7 @@
 255	da	_	_	_	_	_	_	_	_
 256	.	_	_	_	_	_	_	_	_
 257	Hala	_	_	_	_	_	_	_	BeginSeg=Yes
-258	ere	_	_	_	_	_	_	_	BeginSeg=Yes
+258	ere	_	_	_	_	_	_	_	_
 259	,	_	_	_	_	_	_	_	_
 260	azken	_	_	_	_	_	_	_	_
 261	urteotan	_	_	_	_	_	_	_	_
@@ -1703,7 +1703,7 @@
 192	zen	_	_	_	_	_	_	_	_
 193	.	_	_	_	_	_	_	_	_
 194	Gaur	_	_	_	_	_	_	_	BeginSeg=Yes
-195	egun	_	_	_	_	_	_	_	BeginSeg=Yes
+195	egun	_	_	_	_	_	_	_	_
 196	ugaztunetan	_	_	_	_	_	_	_	_
 197	100-dik	_	_	_	_	_	_	_	_
 198	gora	_	_	_	_	_	_	_	_
@@ -1752,7 +1752,7 @@
 241	dena	_	_	_	_	_	_	_	_
 242	.	_	_	_	_	_	_	_	_
 243	Hala	_	_	_	_	_	_	_	BeginSeg=Yes
-244	ere	_	_	_	_	_	_	_	BeginSeg=Yes
+244	ere	_	_	_	_	_	_	_	_
 245	,	_	_	_	_	_	_	_	_
 246	GTPasek	_	_	_	_	_	_	_	_
 247	T	_	_	_	_	_	_	_	_
@@ -1876,9 +1876,9 @@
 365	dugu	_	_	_	_	_	_	_	_
 366	.	_	_	_	_	_	_	_	_
 367	Izan	_	_	_	_	_	_	_	BeginSeg=Yes
-368	ere	_	_	_	_	_	_	_	BeginSeg=Yes
+368	ere	_	_	_	_	_	_	_	_
 369	,	_	_	_	_	_	_	_	_
-370	GParen	_	_	_	_	_	_	_	BeginSeg=Yes
+370	GParen	_	_	_	_	_	_	_	_
 371	inhibitzaile	_	_	_	_	_	_	_	_
 372	baten	_	_	_	_	_	_	_	_
 373	bidez	_	_	_	_	_	_	_	_
@@ -1970,7 +1970,7 @@
 57	.	_	_	_	_	_	_	_	_
 58	Gure	_	_	_	_	_	_	_	BeginSeg=Yes
 59	hipotesia	_	_	_	_	_	_	_	_
-60	familia-enpresetan	_	_	_	_	_	_	_	BeginSeg=Yes
+60	familia-enpresetan	_	_	_	_	_	_	_	_
 61	kudeaketa-funtzioak	_	_	_	_	_	_	_	_
 62	betetzen	_	_	_	_	_	_	_	_
 63	dituzten	_	_	_	_	_	_	_	_
@@ -2080,7 +2080,7 @@
 69	.	_	_	_	_	_	_	_	_
 70	Zehazki	_	_	_	_	_	_	_	BeginSeg=Yes
 71	,	_	_	_	_	_	_	_	_
-72	EFQM	_	_	_	_	_	_	_	BeginSeg=Yes
+72	EFQM	_	_	_	_	_	_	_	_
 73	ereduarekin	_	_	_	_	_	_	_	_
 74	integratuz	_	_	_	_	_	_	_	_
 75	,	_	_	_	_	_	_	_	_
@@ -2158,7 +2158,7 @@
 49	gara	_	_	_	_	_	_	_	_
 50	,	_	_	_	_	_	_	_	_
 51	batik	_	_	_	_	_	_	_	BeginSeg=Yes
-52	bat	_	_	_	_	_	_	_	BeginSeg=Yes
+52	bat	_	_	_	_	_	_	_	_
 53	Mihail	_	_	_	_	_	_	_	_
 54	Csikszentmihalyiren	_	_	_	_	_	_	_	_
 55	lanetan	_	_	_	_	_	_	_	_
@@ -2229,7 +2229,7 @@
 120	dugu	_	_	_	_	_	_	_	_
 121	;	_	_	_	_	_	_	_	_
 122	izan	_	_	_	_	_	_	_	BeginSeg=Yes
-123	ere	_	_	_	_	_	_	_	BeginSeg=Yes
+123	ere	_	_	_	_	_	_	_	_
 124	,	_	_	_	_	_	_	_	_
 125	gure	_	_	_	_	_	_	_	_
 126	iritziz	_	_	_	_	_	_	_	_
@@ -2291,7 +2291,7 @@
 14	bi	_	_	_	_	_	_	_	_
 15	hamarkadetan	_	_	_	_	_	_	_	_
 16	,	_	_	_	_	_	_	_	_
-17	Australiako	_	_	_	_	_	_	_	BeginSeg=Yes
+17	Australiako	_	_	_	_	_	_	_	_
 18	Gobernu	_	_	_	_	_	_	_	_
 19	Federalak	_	_	_	_	_	_	_	_
 20	bere	_	_	_	_	_	_	_	_
@@ -2313,7 +2313,7 @@
 36	dira	_	_	_	_	_	_	_	_
 37	.	_	_	_	_	_	_	_	_
 38	Gaur	_	_	_	_	_	_	_	BeginSeg=Yes
-39	egun	_	_	_	_	_	_	_	BeginSeg=Yes
+39	egun	_	_	_	_	_	_	_	_
 40	,	_	_	_	_	_	_	_	_
 41	berrogeita	_	_	_	_	_	_	_	_
 42	hamar	_	_	_	_	_	_	_	_
@@ -2336,7 +2336,7 @@
 59	da	_	_	_	_	_	_	_	_
 60	,	_	_	_	_	_	_	_	_
 61	nahiz	_	_	_	_	_	_	_	BeginSeg=Yes
-62	eta	_	_	_	_	_	_	_	BeginSeg=Yes
+62	eta	_	_	_	_	_	_	_	_
 63	martxan	_	_	_	_	_	_	_	_
 64	jarri	_	_	_	_	_	_	_	_
 65	orduko	_	_	_	_	_	_	_	_
@@ -2389,7 +2389,7 @@
 112	uzteko	_	_	_	_	_	_	_	_
 113	.	_	_	_	_	_	_	_	_
 114	Horrez	_	_	_	_	_	_	_	BeginSeg=Yes
-115	gain	_	_	_	_	_	_	_	BeginSeg=Yes
+115	gain	_	_	_	_	_	_	_	_
 116	,	_	_	_	_	_	_	_	_
 117	tresna	_	_	_	_	_	_	_	_
 118	horien	_	_	_	_	_	_	_	_
@@ -3297,7 +3297,7 @@
 17	Prostatako	_	_	_	_	_	_	_	BeginSeg=Yes
 18	minbizia	_	_	_	_	_	_	_	_
 19	,	_	_	_	_	_	_	_	_
-20	gizonei	_	_	_	_	_	_	_	BeginSeg=Yes
+20	gizonei	_	_	_	_	_	_	_	_
 21	dagokienez	_	_	_	_	_	_	_	_
 22	,	_	_	_	_	_	_	_	_
 23	lurralde	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -3413,7 +3413,7 @@
 133	du	_	_	_	_	_	_	_	_
 134	.	_	_	_	_	_	_	_	_
 135	Nahiz	_	_	_	_	_	_	_	BeginSeg=Yes
-136	eta	_	_	_	_	_	_	_	BeginSeg=Yes
+136	eta	_	_	_	_	_	_	_	_
 137	bi	_	_	_	_	_	_	_	_
 138	isoformek	_	_	_	_	_	_	_	_
 139	orokorrean	_	_	_	_	_	_	_	_
@@ -3474,7 +3474,7 @@
 194	Era	_	_	_	_	_	_	_	BeginSeg=Yes
 195	honetan	_	_	_	_	_	_	_	_
 196	,	_	_	_	_	_	_	_	_
-197	GSK-3a	_	_	_	_	_	_	_	BeginSeg=Yes
+197	GSK-3a	_	_	_	_	_	_	_	_
 198	azpiadieraztuz	_	_	_	_	_	_	_	_
 199	,	_	_	_	_	_	_	_	_
 200	honen	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -3536,7 +3536,7 @@
 256	dugu	_	_	_	_	_	_	_	_
 257	.	_	_	_	_	_	_	_	_
 258	Aldi	_	_	_	_	_	_	_	BeginSeg=Yes
-259	berean	_	_	_	_	_	_	_	BeginSeg=Yes
+259	berean	_	_	_	_	_	_	_	_
 260	,	_	_	_	_	_	_	_	_
 261	zelula	_	_	_	_	_	_	_	_
 262	horien	_	_	_	_	_	_	_	_
@@ -3624,7 +3624,7 @@
 344	bide	_	_	_	_	_	_	_	_
 345	batez	_	_	_	_	_	_	_	_
 346	,	_	_	_	_	_	_	_	_
-347	GSK-3ren	_	_	_	_	_	_	_	BeginSeg=Yes
+347	GSK-3ren	_	_	_	_	_	_	_	_
 348	ituak	_	_	_	_	_	_	_	_
 349	ezagutuz	_	_	_	_	_	_	_	_
 350	,	_	_	_	_	_	_	_	_
@@ -3674,7 +3674,7 @@
 30	daudela	_	_	_	_	_	_	_	_
 31	,	_	_	_	_	_	_	_	_
 32	hala	_	_	_	_	_	_	_	BeginSeg=Yes
-33	ere	_	_	_	_	_	_	_	BeginSeg=Yes
+33	ere	_	_	_	_	_	_	_	_
 34	erlazio	_	_	_	_	_	_	_	_
 35	hau	_	_	_	_	_	_	_	_
 36	ez	_	_	_	_	_	_	_	_
@@ -3711,8 +3711,8 @@
 67	delarik	_	_	_	_	_	_	_	_
 68	.	_	_	_	_	_	_	_	_
 69	Lehenik	_	_	_	_	_	_	_	BeginSeg=Yes
-70	eta	_	_	_	_	_	_	_	BeginSeg=Yes
-71	behin	_	_	_	_	_	_	_	BeginSeg=Yes
+70	eta	_	_	_	_	_	_	_	_
+71	behin	_	_	_	_	_	_	_	_
 72	,	_	_	_	_	_	_	_	_
 73	A	_	_	_	_	_	_	_	_
 74	?	_	_	_	_	_	_	_	_
@@ -4186,7 +4186,7 @@
 230	lan	_	_	_	_	_	_	_	_
 231	akademikoak	_	_	_	_	_	_	_	_
 232	.	_	_	_	_	_	_	_	_
-233	)	_	_	_	_	_	_	_	_
+233	)	_	_	_	_	_	_	_	BeginSeg=Yes
 234	eta	_	_	_	_	_	_	_	_
 235	mundu	_	_	_	_	_	_	_	_
 236	profesionalean	_	_	_	_	_	_	_	_
@@ -4204,7 +4204,7 @@
 248	artikulu	_	_	_	_	_	_	_	_
 249	zientifikoak	_	_	_	_	_	_	_	_
 250	.	_	_	_	_	_	_	_	_
-251	)	_	_	_	_	_	_	_	_
+251	)	_	_	_	_	_	_	_	BeginSeg=Yes
 252	desberdinak	_	_	_	_	_	_	_	_
 253	direla	_	_	_	_	_	_	_	_
 254	,	_	_	_	_	_	_	_	_
@@ -4439,14 +4439,14 @@
 69	Menpekotasun	_	_	_	_	_	_	_	BeginSeg=Yes
 70	oso	_	_	_	_	_	_	_	_
 71	horrek	_	_	_	_	_	_	_	_
-72	-	_	_	_	_	_	_	_	BeginSeg=Yes
+72	-	_	_	_	_	_	_	_	_
 73	komunitatean	_	_	_	_	_	_	_	_
 74	sortutako	_	_	_	_	_	_	_	_
 75	hiztegi	_	_	_	_	_	_	_	_
 76	terminologikoen	_	_	_	_	_	_	_	_
 77	analisia	_	_	_	_	_	_	_	_
 78	eginez	_	_	_	_	_	_	_	_
-79	ikusia	_	_	_	_	_	_	_	BeginSeg=Yes
+79	ikusia	_	_	_	_	_	_	_	_
 80	-	_	_	_	_	_	_	_	_
 81	Gaz	_	_	_	_	_	_	_	BeginSeg=Yes
 82	(	_	_	_	_	_	_	_	_
@@ -4559,7 +4559,7 @@
 189	munduarekin	_	_	_	_	_	_	_	_
 190	lotu	_	_	_	_	_	_	_	_
 191	beharra	_	_	_	_	_	_	_	_
-192	galizieraren	_	_	_	_	_	_	_	BeginSeg=Yes
+192	galizieraren	_	_	_	_	_	_	_	_
 193	terminologia	_	_	_	_	_	_	_	_
 194	sortzeko	_	_	_	_	_	_	_	_
 195	.	_	_	_	_	_	_	_	_
@@ -4661,9 +4661,9 @@
 71	da	_	_	_	_	_	_	_	_
 72	.	_	_	_	_	_	_	_	_
 73	Hala	_	_	_	_	_	_	_	BeginSeg=Yes
-74	ere	_	_	_	_	_	_	_	BeginSeg=Yes
+74	ere	_	_	_	_	_	_	_	_
 75	,	_	_	_	_	_	_	_	_
-76	hizkuntza	_	_	_	_	_	_	_	BeginSeg=Yes
+76	hizkuntza	_	_	_	_	_	_	_	_
 77	handi	_	_	_	_	_	_	_	_
 78	batek	_	_	_	_	_	_	_	_
 79	ez	_	_	_	_	_	_	_	_
@@ -5272,7 +5272,7 @@
 7	arazoak	_	_	_	_	_	_	_	_
 8	.	_	_	_	_	_	_	_	_
 9	Eusko	_	_	_	_	_	_	_	BeginSeg=Yes
-10	Jaurlaritzako	_	_	_	_	_	_	_	BeginSeg=Yes
+10	Jaurlaritzako	_	_	_	_	_	_	_	_
 11	Hizkuntza	_	_	_	_	_	_	_	_
 12	Politikarako	_	_	_	_	_	_	_	_
 13	Sailordetzako	_	_	_	_	_	_	_	_
@@ -5338,7 +5338,7 @@
 73	normalizatzeko	_	_	_	_	_	_	_	_
 74	lanak	_	_	_	_	_	_	_	_
 75	egitean	_	_	_	_	_	_	_	_
-76	sortu	_	_	_	_	_	_	_	BeginSeg=Yes
+76	sortu	_	_	_	_	_	_	_	_
 77	zen	_	_	_	_	_	_	_	_
 78	,	_	_	_	_	_	_	_	_
 79	azken	_	_	_	_	_	_	_	_
@@ -5376,7 +5376,7 @@
 111	duen	_	_	_	_	_	_	_	_
 112	moduan	_	_	_	_	_	_	_	_
 113	:	_	_	_	_	_	_	_	_
-114	mapak	_	_	_	_	_	_	_	BeginSeg=Yes
+114	mapak	_	_	_	_	_	_	_	_
 115	,	_	_	_	_	_	_	_	_
 116	bideetako	_	_	_	_	_	_	_	_
 117	errotulazioa	_	_	_	_	_	_	_	_
@@ -5409,7 +5409,7 @@
 144	gabea	_	_	_	_	_	_	_	_
 145	.	_	_	_	_	_	_	_	_
 146	Nazio	_	_	_	_	_	_	_	BeginSeg=Yes
-147	Batuek	_	_	_	_	_	_	_	BeginSeg=Yes
+147	Batuek	_	_	_	_	_	_	_	_
 148	geografiako	_	_	_	_	_	_	_	_
 149	izenen	_	_	_	_	_	_	_	_
 150	normalizaziorako	_	_	_	_	_	_	_	_
@@ -5524,7 +5524,7 @@
 259	Entitate	_	_	_	_	_	_	_	BeginSeg=Yes
 260	geografikoaren	_	_	_	_	_	_	_	_
 261	izaera	_	_	_	_	_	_	_	_
-262	orokorrean	_	_	_	_	_	_	_	BeginSeg=Yes
+262	orokorrean	_	_	_	_	_	_	_	_
 263	hartuta	_	_	_	_	_	_	_	_
 264	identifikatzen	_	_	_	_	_	_	_	BeginSeg=Yes
 265	du	_	_	_	_	_	_	_	_
@@ -5545,7 +5545,7 @@
 280	"	_	_	_	_	_	_	_	_
 281	.	_	_	_	_	_	_	_	_
 282	Esate	_	_	_	_	_	_	_	BeginSeg=Yes
-283	baterako	_	_	_	_	_	_	_	BeginSeg=Yes
+283	baterako	_	_	_	_	_	_	_	_
 284	,	_	_	_	_	_	_	_	_
 285	Pena	_	_	_	_	_	_	_	_
 286	de	_	_	_	_	_	_	_	_
@@ -5575,7 +5575,7 @@
 310	diguna	_	_	_	_	_	_	_	_
 311	;	_	_	_	_	_	_	_	_
 312	are	_	_	_	_	_	_	_	BeginSeg=Yes
-313	gehiago	_	_	_	_	_	_	_	BeginSeg=Yes
+313	gehiago	_	_	_	_	_	_	_	_
 314	,	_	_	_	_	_	_	_	_
 315	toponimoen	_	_	_	_	_	_	_	_
 316	normalizazio	_	_	_	_	_	_	_	_
@@ -5748,7 +5748,7 @@
 483	:	_	_	_	_	_	_	_	_
 484	adibidez	_	_	_	_	_	_	_	BeginSeg=Yes
 485	,	_	_	_	_	_	_	_	_
-486	"	_	_	_	_	_	_	_	BeginSeg=Yes
+486	"	_	_	_	_	_	_	_	_
 487	avenida	_	_	_	_	_	_	_	_
 488	"	_	_	_	_	_	_	_	_
 489	terminoa	_	_	_	_	_	_	_	_
@@ -5766,7 +5766,7 @@
 501	"	_	_	_	_	_	_	_	_
 502	etab	_	_	_	_	_	_	_	_
 503	.	_	_	_	_	_	_	_	_
-504	erabiltzen	_	_	_	_	_	_	_	_
+504	erabiltzen	_	_	_	_	_	_	_	BeginSeg=Yes
 505	dira	_	_	_	_	_	_	_	_
 506	,	_	_	_	_	_	_	_	_
 507	udal	_	_	_	_	_	_	_	_
@@ -5865,7 +5865,7 @@
 600	premia	_	_	_	_	_	_	_	_
 601	.	_	_	_	_	_	_	_	_
 602	Nazio	_	_	_	_	_	_	_	BeginSeg=Yes
-603	Batuen	_	_	_	_	_	_	_	BeginSeg=Yes
+603	Batuen	_	_	_	_	_	_	_	_
 604	gomendioak	_	_	_	_	_	_	_	_
 605	eta	_	_	_	_	_	_	_	_
 606	espezialistenak	_	_	_	_	_	_	_	_
@@ -5923,7 +5923,7 @@
 22	estrukturaletarako	_	_	_	_	_	_	_	_
 23	.	_	_	_	_	_	_	_	_
 24	Izan	_	_	_	_	_	_	_	BeginSeg=Yes
-25	ere	_	_	_	_	_	_	_	BeginSeg=Yes
+25	ere	_	_	_	_	_	_	_	_
 26	,	_	_	_	_	_	_	_	_
 27	Audi	_	_	_	_	_	_	_	_
 28	enpresak	_	_	_	_	_	_	_	_
@@ -6039,7 +6039,7 @@
 138	Portamolde	_	_	_	_	_	_	_	BeginSeg=Yes
 139	hori	_	_	_	_	_	_	_	_
 140	,	_	_	_	_	_	_	_	_
-141	duela	_	_	_	_	_	_	_	BeginSeg=Yes
+141	duela	_	_	_	_	_	_	_	_
 142	hainbat	_	_	_	_	_	_	_	_
 143	urte	_	_	_	_	_	_	_	_
 144	lehen	_	_	_	_	_	_	_	_
@@ -6511,7 +6511,7 @@
 291	Iturriei	_	_	_	_	_	_	_	BeginSeg=Yes
 292	zerien	_	_	_	_	_	_	_	_
 293	fluidoak	_	_	_	_	_	_	_	_
-294	hidrokarburotan	_	_	_	_	_	_	_	BeginSeg=Yes
+294	hidrokarburotan	_	_	_	_	_	_	_	_
 295	(	_	_	_	_	_	_	_	_
 296	metano	_	_	_	_	_	_	_	_
 297	eta	_	_	_	_	_	_	_	_
@@ -6593,7 +6593,7 @@
 373	intentsitatea	_	_	_	_	_	_	_	_
 374	.	_	_	_	_	_	_	_	_
 375	Aipatu	_	_	_	_	_	_	_	BeginSeg=Yes
-376	fluxu	_	_	_	_	_	_	_	BeginSeg=Yes
+376	fluxu	_	_	_	_	_	_	_	_
 377	eta	_	_	_	_	_	_	_	_
 378	fluidoen	_	_	_	_	_	_	_	_
 379	ezaugarriak	_	_	_	_	_	_	_	_
@@ -6758,12 +6758,12 @@
 123	BZIT	_	_	_	_	_	_	_	BeginSeg=Yes
 124	taldea	_	_	_	_	_	_	_	_
 125	,	_	_	_	_	_	_	_	_
-126	Ingurumen	_	_	_	_	_	_	_	BeginSeg=Yes
+126	Ingurumen	_	_	_	_	_	_	_	_
 127	Osasunaren	_	_	_	_	_	_	_	_
 128	paradigma	_	_	_	_	_	_	_	_
 129	horren	_	_	_	_	_	_	_	_
 130	aurreratzean	_	_	_	_	_	_	_	_
-131	partehartzaile	_	_	_	_	_	_	_	BeginSeg=Yes
+131	partehartzaile	_	_	_	_	_	_	_	_
 132	aktiboa	_	_	_	_	_	_	_	_
 133	da	_	_	_	_	_	_	_	_
 134	nazioarte	_	_	_	_	_	_	_	_
@@ -6965,7 +6965,7 @@
 330	da	_	_	_	_	_	_	_	_
 331	.	_	_	_	_	_	_	_	_
 332	Are	_	_	_	_	_	_	_	BeginSeg=Yes
-333	gehiago	_	_	_	_	_	_	_	BeginSeg=Yes
+333	gehiago	_	_	_	_	_	_	_	_
 334	,	_	_	_	_	_	_	_	_
 335	jarraipen-kanpainek	_	_	_	_	_	_	_	_
 336	aurrera	_	_	_	_	_	_	_	_
@@ -7242,7 +7242,7 @@
 39	askotan	_	_	_	_	_	_	_	_
 40	,	_	_	_	_	_	_	_	_
 41	batez	_	_	_	_	_	_	_	BeginSeg=Yes
-42	ere	_	_	_	_	_	_	_	BeginSeg=Yes
+42	ere	_	_	_	_	_	_	_	_
 43	gehiegizko	_	_	_	_	_	_	_	_
 44	elikadura	_	_	_	_	_	_	_	_
 45	eta	_	_	_	_	_	_	_	_
@@ -7278,7 +7278,7 @@
 75	da	_	_	_	_	_	_	_	_
 76	.	_	_	_	_	_	_	_	_
 77	Honez	_	_	_	_	_	_	_	BeginSeg=Yes
-78	gain	_	_	_	_	_	_	_	BeginSeg=Yes
+78	gain	_	_	_	_	_	_	_	_
 79	,	_	_	_	_	_	_	_	_
 80	obesitatean	_	_	_	_	_	_	_	_
 81	parte	_	_	_	_	_	_	_	_
@@ -7513,7 +7513,7 @@
 310	.	_	_	_	_	_	_	_	_
 311	Honetarako	_	_	_	_	_	_	_	BeginSeg=Yes
 312	,	_	_	_	_	_	_	_	_
-313	350-400	_	_	_	_	_	_	_	BeginSeg=Yes
+313	350-400	_	_	_	_	_	_	_	_
 314	loci	_	_	_	_	_	_	_	_
 315	mikrosatelite	_	_	_	_	_	_	_	_
 316	genotipatuz	_	_	_	_	_	_	_	_

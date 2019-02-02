@@ -20709,7 +20709,7 @@
 24	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
 1	Azterturiko	aztertu	VERB	VERB	Case=Loc|VerbForm=Part	2	advcl	_	BeginSeg=Yes
-2	konposatuen	konposatu	NOUN	NOUN	Case=Gen|Number=Plur	4	nmod	_ _
+2	konposatuen	konposatu	NOUN	NOUN	Case=Gen|Number=Plur	4	nmod	_	_
 3	artean	arte	NOUN	NOUN	Case=Ine|Number=Sing	4	nmod	_	_
 4	alkilfenolak	alkilfenol	NOUN	NOUN	Case=Abs|Number=Plur	0	root	_	_
 5	,	,	PUNCT	PUNCT	_	6	punct	_	_
