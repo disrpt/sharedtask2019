@@ -2346,13 +2346,13 @@
 2	eerste	eerste	ADJ	TW|rang|prenom|stan	_	3	amod	3:amod	_
 3	Wereld-MS-dag	wereld-ms-dag	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
 4	op	op	ADP	VZ|init	_	5	case	5:case	_
-5	27	27	NUM	TW|hoofd|vrij	_	ERROR_NO_INTERNAL_HEAD	orphan	ERROR_NO_INTERNAL_HEAD:orphan	_
+5	27	27	NUM	TW|hoofd|vrij	_	3	nmod	3:nmod:op	_
 6	mei	mei	PROPN	SPEC|deeleigen	_	5	flat	5:flat	_
 7	a.s.	a.s.	X	SPEC|afk	Abbr=Yes	5	flat	5:flat	_
-8	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	ERROR_NO_INTERNAL_HEAD	cop	ERROR_NO_INTERNAL_HEAD:cop	_
+8	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 9	een	een	DET	LID|onbep|stan|agr	Definite=Ind	11	det	11:det	_
 10	belangrijke	belangrijk	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	11	amod	11:amod	_
-11	stap	stap	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	ERROR_NO_INTERNAL_HEAD	nsubj	ERROR_NO_INTERNAL_HEAD:nsubj	_
+11	stap	stap	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nsubj	3:nsubj	_
 12	naar	naar	ADP	VZ|init	_	14	case	14:case	_
 13	mondiale	mondiaal	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	14	amod	14:amod	_
 14	aandacht	aandacht	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	nmod	11:nmod:naar	_
@@ -2366,7 +2366,7 @@
 22	mensen	mensen	NOUN	N|soort|mv|basis	Number=Plur	21	nmod	21:nmod	_
 23	aan	aan	ADP	VZ|init	_	18	case	18:case	_
 24	lijden	lijden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	17	acl:relcl	17:acl:relcl	_
-25	.	.	PUNCT	LET	_	ERROR_NO_INTERNAL_HEAD	punct	ERROR_NO_INTERNAL_HEAD:punct	_
+25	.	.	PUNCT	LET	_	3	punct	3:punct	_
 
 # sent_id = 14
 # text = In 42 landen wordt op verschillende wijzen tegelijkertijd aandacht gevraagd voor leven met en onderzoek naar multiple sclerose .
@@ -3367,13 +3367,13 @@
 
 # sent_id = 24
 # text = PS Je kunt meebouwen met een gift , maar je kunt ook letterlijk meebouwen .
-1	PS	PS	PROPN	SPEC|deeleigen	_	ERROR_NO_EXTERNAL_HEAD	parataxis	ERROR_NO_EXTERNAL_HEAD:parataxis	BeginSeg=Yes
+1	PS	PS	PROPN	SPEC|deeleigen	_	4	parataxis	4:parataxis	BeginSeg=Yes
 2	Je	je	PRON	VNW|pers|pron|nomin|red|2v|ev	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
 3	kunt	kunnen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	4	conj	4:conj:maar	_
 4	meebouwen	meebouw	VERB	WW|inf|vrij|zonder	VerbForm=Inf	0	root	0:root	_
 5	met	met	ADP	VZ|init	_	7	case	7:case	_
 6	een	een	DET	LID|onbep|stan|agr	Definite=Ind	7	det	7:det	_
-7	gift	gift	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	ERROR_NO_LABEL	4:ERROR_NO_LABEL	_
+7	gift	gift	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl	4:obl:met	_
 8	,	,	PUNCT	LET	_	3	punct	3:punct	_
 9	maar	maar	CCONJ	VG|neven	_	14	cc	14:cc	BeginSeg=Yes
 10	je	je	PRON	VNW|pers|pron|nomin|red|2v|ev	Case=Nom|Person=2|PronType=Prs	14	nsubj	14:nsubj	_

@@ -9351,7 +9351,7 @@
 29	40	40	NUM	TW|hoofd|prenom|stan	_	30	nummod	30:nummod	_
 30	km	km	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	27	advcl	27:advcl:dan	_
 31	,	,	PUNCT	LET	_	12	punct	12:punct	_
-32	en	en	CCONJ	VG|neven	_	ERROR_NO_INTERNAL_HEAD_POSITION_FOUND	cc	ERROR_NO_INTERNAL_HEAD_POSITION_FOUND:cc	BeginSeg=Yes
+32	en	en	CCONJ	VG|neven	_	35	cc	35:cc	BeginSeg=Yes
 33	het	het	DET	LID|bep|stan|evon	Definite=Def	35	det	35:det	_
 34	tweede	tweede	ADJ	TW|rang|prenom|stan	_	35	amod	35:amod	_
 35	deel	deel	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	47	nsubj	47:nsubj	_
@@ -15556,10 +15556,10 @@
 6	een	een	DET	LID|onbep|stan|agr	Definite=Ind	7	det	7:det	_
 7	gewone	gewoon	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	3	conj	3:conj:én	_
 8	school	school	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	conj	3:conj:én	_
-9	én	én	CCONJ	VG|neven	_	ERROR_MORE_THAN_ONE_INTERNAL_HEAD_POSITION_FOUND	cc	3:cc	BeginSeg=Yes
+9	én	én	CCONJ	VG|neven	_	3	cc	3:cc	BeginSeg=Yes
 10	haar	haar	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|PronType=Prs	11	nmod:poss	11:nmod:poss	_
 11	dromen	droom	NOUN	N|soort|mv|basis	Number=Plur	12	obj	12:obj	_
-12	waarmaken	waarmaken	VERB	WW|inf|vrij|zonder	VerbForm=Inf	empty head	conj	3:conj:én	_
+12	waarmaken	waarmaken	VERB	WW|inf|vrij|zonder	VerbForm=Inf	8	conj	3:conj:én	_
 13	!	!	PUNCT	LET	_	3	punct	3:punct	_
 
 # sent_id = 8
@@ -18743,7 +18743,7 @@
 3	dat	dat	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	12	mark	12:mark	_
 4	asteroïde	asteroïde	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	12	nsubj	12:nsubj	_
 5	1999	1999	PROPN	SPEC|deeleigen	_	4	appos	4:appos	_
-6	RQ36	RQ36	PROPN	SPEC|deeleigen	_	ERROR_NO_INTERNAL_HEAD	flat	ERROR_NO_INTERNAL_HEAD:flat	_
+6	RQ36	RQ36	PROPN	SPEC|deeleigen	_	5	flat	5:flat	_
 7	binnen	binnen	ADP	VZ|init	_	9	case	9:case	_
 8	200	200	NUM	TW|hoofd|prenom|stan	_	9	nummod	9:nummod	_
 9	jaar	jaar	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	12	obl	12:obl:binnen	_
@@ -18756,7 +18756,7 @@
 16	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	cop	0:cop	_
 17	één	één	NUM	TW|hoofd|prenom|stan	_	0	root	0:root	_
 18	op	op	ADP	VZ|init	_	19	case	19:case	_
-19	duizend	duizend	NUM	TW|hoofd|vrij	_	17	ERROR_NO_LABEL	17:ERROR_NO_LABEL	_
+19	duizend	duizend	NUM	TW|hoofd|vrij	_	17	nmod	17:nmod:op	_
 20	.	.	PUNCT	LET	_	17	punct	17:punct	_
 
 # sent_id = 3
@@ -20234,7 +20234,7 @@
 4	jaar	jaar	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	nmod	3:nmod	_
 5	geleden	geleden	ADV	BW	_	0	root	0:root	_
 6	,	,	PUNCT	LET	_	5	punct	5:punct	_
-7	toen	toen	SCONJ	VG|onder	_	ERROR_NO_INTERNAL_HEAD	mark	ERROR_NO_INTERNAL_HEAD:mark	BeginSeg=Yes
+7	toen	toen	SCONJ	VG|onder	_	31	mark	31:mark	BeginSeg=Yes
 8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
 9	inslag	inslag	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	31	nsubj	31:nsubj	_
 10	van	van	ADP	VZ|init	_	13	case	13:case	_
@@ -20258,13 +20258,13 @@
 28	265	265	NUM	TW|hoofd|vrij	_	29	nummod	29:nummod	_
 29	kilometer	kilometer	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	26	nmod	26:nmod	_
 30	)	)	PUNCT	LET	_	5	punct	5:punct	_
-31	veroorzaakte	veroorzaken	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	5	ERROR_NO_LABEL_VMOD	5:ERROR_NO_LABEL_VMOD	_
+31	veroorzaakte	veroorzaken	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	5	advcl	5:advcl:toen	_
 32	in	in	ADP	VZ|init	_	33	case	33:case	_
 33	Yucatn	Yucatn	PROPN	SPEC|deeleigen	_	31	obl	31:obl:in	_
 34	,	,	PUNCT	LET	_	5	punct	5:punct	_
 35	Mexico	Mexico	PROPN	SPEC|deeleigen	_	33	flat	33:flat	_
 36	,	,	PUNCT	LET	_	5	punct	5:punct	_
-37	en	en	CCONJ	VG|neven	_	ERROR_NO_INTERNAL_HEAD	cc	ERROR_NO_INTERNAL_HEAD:cc	_
+37	en	en	CCONJ	VG|neven	_	31	cc	31:cc	_
 38	een	een	DET	LID|onbep|stan|agr	Definite=Ind	39	det	39:det	_
 39	einde	einde	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	21	conj	18:nmod:van|21:conj	_
 40	maakte	maken	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	39	parataxis	39:parataxis	_
@@ -20889,7 +20889,7 @@
 12	de	de	DET	LID|bep|stan|rest	Definite=Def	15	det	15:det	_
 13	eerste	eerste	ADJ	TW|rang|prenom|stan	_	15	amod	15:amod	_
 14	zes	zes	NUM	TW|hoofd|prenom|stan	_	15	nummod	15:nummod	_
-15	waarnemingsweken	waarnemingsweek	NOUN	N|soort|mv|basis	Number=Plur	ERROR_NO_INTERNAL_HEAD	advmod	ERROR_NO_INTERNAL_HEAD:advmod	_
+15	waarnemingsweken	waarnemingsweek	NOUN	N|soort|mv|basis	Number=Plur	24	advmod	24:advmod	_
 16	van	van	ADP	VZ|init	_	18	case	18:case	_
 17	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|PronType=Prs	18	nmod:poss	18:nmod:poss	_
 18	missie	missie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	15	nmod	15:nmod:van	_
