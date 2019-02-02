@@ -166,7 +166,7 @@
 
 1	Gainera	gainera	CONJ	CONJ	_	12	advmod	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	_	12	punct	_	_
-3	saguzar	saguzar	NOUN	NOUN	_	5	nmod	_	BeginSeg=Yes
+3	saguzar	saguzar	NOUN	NOUN	_	5	nmod	_	_
 4	gehienak	gehien	DET	DET	Case=Erg|Number=Sing	3	det	_	_
 5	espezie	espezie	NOUN	NOUN	_	7	nmod	_	_
 6	kolonialak	kolonial	ADJ	ADJ	Case=Abs|Number=Plur	5	amod	_	_
@@ -196,7 +196,7 @@
 
 1	Bestalde	bestalde	CONJ	CONJ	_	10	advmod	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	_	10	punct	_	_
-3	espezie	espezie	NOUN	NOUN	_	10	nmod	_	BeginSeg=Yes
+3	espezie	espezie	NOUN	NOUN	_	10	nmod	_	_
 4	gehienen	gehien	ADJ	ADJ	Case=Gen|Number=Plur	3	amod	_	_
 5	nitxo	nitxo	NOUN	NOUN	_	10	obl	_	_
 6	ekologiko	ekologiko	ADJ	ADJ	_	5	amod	_	_
@@ -249,7 +249,7 @@
 10	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 1	Halaz	halaz	ADV	ADV	_	16	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	16	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	16	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	16	punct	_	_
 4	animalia	animalia	NOUN	NOUN	_	16	obl	_	_
 5	txikiak	txiki	ADJ	ADJ	Case=Abs|Number=Plur	4	amod	_	_
@@ -426,7 +426,7 @@
 9	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 1	Euskal	euskal	NOUN	NOUN	_	2	compound	_	BeginSeg=Yes
-2	Herriko	herri	NOUN	NOUN	Case=Loc|Number=Sing	3	nmod	_	BeginSeg=Yes
+2	Herriko	herri	NOUN	NOUN	Case=Loc|Number=Sing	3	nmod	_	_
 3	lur	lur	NOUN	NOUN	Case=Abs	32	obj	_	_
 4	eta	eta	CONJ	CONJ	_	32	cc	_	_
 5	itsas	itsaso	NOUN	NOUN	_	6	nmod	_	_
@@ -557,7 +557,7 @@
 4	teknika	teknika	NOUN	NOUN	_	17	obj	_	_
 5	hauek	hauek	DET	DET	Case=Erg|Number=Plur	4	det	_	_
 6	,	,	PUNCT	PUNCT	_	9	punct	_	_
-7	anfibioen	anfibio	NOUN	NOUN	Case=Gen|Number=Plur	9	obj	_	BeginSeg=Yes
+7	anfibioen	anfibio	NOUN	NOUN	Case=Gen|Number=Plur	9	obj	_	_
 8	gainbehera	gainbehera	NOUN	NOUN	Case=Abs|Number=Sing	9	obl	_	_
 9	eragin	eragin	VERB	VERB	Aspect=Perf|VerbForm=Part	11	acl	_	_
 10	duten	*edun	AUX	AUX	Mood=Ind	9	aux	_	_
@@ -567,7 +567,7 @@
 14	gaixotasunen	gaixotasun	NOUN	NOUN	Case=Gen|Number=Plur	15	nmod	_	_
 15	identifikaziorako	identifikazio	NOUN	NOUN	Case=Abs	17	xcomp	_	_
 16	ere	ere	CONJ	CONJ	_	17	advmod	_	_
-17	erabili	erabili	VERB	VERB	VerbForm=Part	0	root	_	BeginSeg=Yes
+17	erabili	erabili	VERB	VERB	VerbForm=Part	0	root	_	_
 18	izan	izan	VERB	VERB	Aspect=Perf|VerbForm=Part	17	aux	_	_
 19	dira	izan	AUX	AUX	Mood=Ind	17	aux	_	_
 20	.	.	PUNCT	PUNCT	_	17	punct	_	_
@@ -978,7 +978,7 @@
 13	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 1	Izan	izan	VERB	VERB	VerbForm=Part	13	advcl	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	13	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	13	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	13	punct	_	_
 4	gaixotasun	gaixotasun	NOUN	NOUN	_	13	nmod	_	_
 5	psikiatriko	psikiatriko	ADJ	ADJ	_	4	amod	_	_
@@ -1019,7 +1019,7 @@
 
 1	Beraz	beraz	CONJ	CONJ	_	15	advmod	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	_	15	punct	_	_
-3	oraindik	oraindik	ADV	ADV	_	5	advmod	_	BeginSeg=Yes
+3	oraindik	oraindik	ADV	ADV	_	5	advmod	_	_
 4	argitzeke	argitu	VERB	VERB	_	5	xcomp	_	_
 5	dauden	egon	VERB	VERB	Aspect=Prog|Mood=Ind	15	advcl	_	_
 6	gaixotasun	gaixotasun	NOUN	NOUN	_	9	nmod	_	_
@@ -1400,7 +1400,7 @@
 30	.	.	PUNCT	PUNCT	_	22	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	5	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	5	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	5	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	4	punct	_	_
 4	jakina	jakin	VERB	VERB	Case=Abs|Number=Sing|VerbForm=Part	5	advcl	_	_
 5	da	izan	VERB	VERB	Aspect=Prog|Mood=Ind	0	root	_	_
@@ -1527,7 +1527,7 @@
 1	Hurrengo	hurrengo	ADJ	ADJ	_	2	amod	_	BeginSeg=Yes
 2	egunean	egun	NOUN	NOUN	Case=Ine|Number=Sing	11	obl	_	_
 3	,	,	PUNCT	PUNCT	_	11	punct	_	_
-4	behin	behin	ADV	ADV	_	11	advmod	_	BeginSeg=Yes
+4	behin	behin	ADV	ADV	_	11	advmod	_	_
 5	arratoiak	arratoi	NOUN	NOUN	Case=Abs|Number=Plur	7	xcomp	_	_
 6	esna	esna	ADV	ADV	_	7	advmod	_	_
 7	daudenean	egon	VERB	VERB	Aspect=Prog|Mood=Ind	4	fixed	_	_
@@ -1923,7 +1923,7 @@
 
 1	Hala	hala	ADV	ADV	_	41	advmod	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	_	41	punct	_	_
-3	bai	bai	PART	PART	_	41	advmod	_	BeginSeg=Yes
+3	bai	bai	PART	PART	_	41	advmod	_	_
 4	egoera	egoera	NOUN	NOUN	_	41	obj	_	_
 5	fisiologikoan	fisiologiko	ADJ	ADJ	Case=Ine|Number=Sing	4	amod	_	_
 6	ingurune	ingurune	NOUN	NOUN	Case=Abs	7	xcomp	_	_
@@ -2074,7 +2074,7 @@
 14	,	,	PUNCT	PUNCT	_	11	punct	_	_
 15	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
-1	)	)	PUNCT	PUNCT	_	3	punct	_	_
+1	)	)	PUNCT	PUNCT	_	3	punct	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	_	3	punct	_	_
 3	ez-organikoak	ez-organiko	ADJ	ADJ	Case=Abs|Number=Plur	8	amod	_	_
 4	(	(	PUNCT	PUNCT	_	3	punct	_	_
@@ -2186,7 +2186,7 @@
 19	.	.	PUNCT	PUNCT	_	17	punct	_	_
 
 1	Izan	izan	VERB	VERB	VerbForm=Part	8	advcl	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	8	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	8	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	8	punct	_	_
 4	Raman-en	Raman	NOUN	NOUN	Case=Gen|Number=Sing	5	nmod	_	_
 5	kasuan	kasu	NOUN	NOUN	Case=Ine|Number=Sing	8	obl	_	_
@@ -2228,7 +2228,7 @@
 16	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 1	Gaur	gaur	ADV	ADV	_	13	advmod	_	BeginSeg=Yes
-2	egun	egun	ADV	ADV	_	1	fixed	_	BeginSeg=Yes
+2	egun	egun	ADV	ADV	_	1	fixed	_	_
 3	,	,	PUNCT	PUNCT	_	13	punct	_	_
 4	itsasoko	itsaso	NOUN	NOUN	Case=Loc|Number=Sing	5	nmod	_	_
 5	komunitate	komunitate	NOUN	NOUN	_	7	nmod	_	_
@@ -2469,7 +2469,7 @@
 38	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 1	Horrez	hori	DET	DET	Case=Ins|Number=Sing	15	obl	_	BeginSeg=Yes
-2	gain	gain	NOUN	NOUN	Case=Abs	15	obl	_	BeginSeg=Yes
+2	gain	gain	NOUN	NOUN	Case=Abs	15	obl	_	_
 3	,	,	PUNCT	PUNCT	_	6	punct	_	_
 4	materia	materia	NOUN	NOUN	_	6	nmod	_	_
 5	organikoaren	organiko	ADJ	ADJ	Case=Gen|Number=Sing	4	amod	_	_
@@ -2755,7 +2755,7 @@
 13	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 1	Hona	hona	ADV	ADV	_	33	advmod	_	BeginSeg=Yes
-2	hemen	hemen	ADV	ADV	_	33	advmod	_	BeginSeg=Yes
+2	hemen	hemen	ADV	ADV	_	33	advmod	_	_
 3	gaur	gaur	ADV	ADV	_	5	advmod	_	_
 4	egun	egun	ADV	ADV	_	3	fixed	_	_
 5	ikertzen	ikertu	VERB	VERB	Case=Ine	33	advcl	_	_
@@ -2770,7 +2770,7 @@
 14	Proteomen	Proteom	NOUN	NOUN	Case=Gen|Number=Sing	15	nmod	_	BeginSeg=Yes
 15	katalogoak	katalogo	NOUN	NOUN	Case=Abs|Number=Plur	16	nmod	_	_
 16	Gaur	gaur	ADV	ADV	_	33	advmod	_	BeginSeg=Yes
-17	egun	egun	ADV	ADV	_	18	nmod	_	BeginSeg=Yes
+17	egun	egun	ADV	ADV	_	18	nmod	_	_
 18	gorputzeko	gorputz	NOUN	NOUN	Case=Loc|Number=Sing	33	obl	_	_
 19	jariakin	jariakin	NOUN	NOUN	_	33	obl	_	_
 20	desberdinak	desberdin	ADJ	ADJ	Case=Abs|Number=Plur	19	amod	_	_
@@ -2962,8 +2962,6 @@
 35	HIESa	hies	NOUN	NOUN	Case=Abs|Number=Sing	30	conj	_	_
 36	,	,	PUNCT	PUNCT	_	9	punct	_	_
 37	.	.	PUNCT	PUNCT	_	9	punct	_	_
-
-1	.	.	PUNCT	PUNCT	_	0	root	_	_
 
 1	Gene	gene	NOUN	NOUN	_	2	nmod	_	BeginSeg=Yes
 2	terapian	terapia	NOUN	NOUN	Case=Ine|Number=Sing	0	root	_	_
@@ -3277,7 +3275,7 @@
 1	Horren	hori	DET	DET	Case=Gen|Number=Sing	2	nmod	_	BeginSeg=Yes
 2	ondorioz	ondorio	NOUN	NOUN	Case=Ins	14	obl	_	_
 3	,	,	PUNCT	PUNCT	_	12	punct	_	_
-4	transfekzio	transfekzio	NOUN	NOUN	_	5	nmod	_	BeginSeg=Yes
+4	transfekzio	transfekzio	NOUN	NOUN	_	5	nmod	_	_
 5	prozesuan	prozesu	NOUN	NOUN	Case=Ine|Number=Sing	6	obl	_	_
 6	gertatzen	gertatu	VERB	VERB	_	8	acl	_	_
 7	diren	izan	AUX	AUX	Mood=Ind	6	aux	_	_
@@ -3440,7 +3438,7 @@
 24	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	7	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	7	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	7	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	7	punct	_	_
 4	aldaera	aldaera	NOUN	NOUN	_	7	obj	_	_
 5	hori	hori	DET	DET	Case=Abs|Number=Sing	4	det	_	_
@@ -3494,7 +3492,7 @@
 1	Gure	gu	PRON	PRON	Case=Gen|Number=Plur	2	nmod	_	BeginSeg=Yes
 2	taldean	talde	NOUN	NOUN	Case=Ine|Number=Sing	7	obl	_	_
 3	,	,	PUNCT	PUNCT	_	7	punct	_	_
-4	asoziaturiko	asoziaturi	NOUN	NOUN	Case=Loc|Number=Sing	7	obl	_	BeginSeg=Yes
+4	asoziaturiko	asoziaturi	NOUN	NOUN	Case=Loc|Number=Sing	7	obl	_	_
 5	gene	gene	NOUN	NOUN	_	7	obj	_	_
 6	berriak	berri	ADJ	ADJ	Case=Abs|Number=Plur	5	amod	_	_
 7	identifikatu	identifikatu	VERB	VERB	VerbForm=Part	0	root	_	_
@@ -3504,7 +3502,7 @@
 11	eginkizuna	eginkizun	NOUN	NOUN	Case=Abs|Number=Sing	12	obl	_	_
 12	ulertzeko	ulertu	VERB	VERB	Case=Loc	13	advcl	_	_
 13	helburuekin	helburu	NOUN	NOUN	Case=Com|Number=Plur	15	obl	_	_
-14	lanean	lan	NOUN	NOUN	Case=Ine|Number=Sing	15	obj	_	BeginSeg=Yes
+14	lanean	lan	NOUN	NOUN	Case=Ine|Number=Sing	15	obj	_	_
 15	dihardugu	jardun	VERB	VERB	Aspect=Prog|Mood=Ind	7	conj	_	_
 16	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
@@ -3524,7 +3522,7 @@
 14	etab	etab.	X	X	_	10	conj	_	_
 15	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
-1	)	)	PUNCT	PUNCT	_	2	punct	_	_
+1	)	)	PUNCT	PUNCT	_	2	punct	_	BeginSeg=Yes
 2	analizatu	analizatu	VERB	VERB	VerbForm=Part	0	root	_	_
 3	eta	eta	CONJ	CONJ	_	15	cc	_	_
 4	genotipo-fenotipo	genotipo-fenotipo	NOUN	NOUN	_	5	nmod	_	_
@@ -3640,7 +3638,7 @@
 14	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	7	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	1	fixed	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	1	fixed	_	_
 3	,	,	PUNCT	PUNCT	_	7	punct	_	_
 4	oraindik	oraindik	ADV	ADV	_	7	advmod	_	_
 5	eztabaida	eztabaida	NOUN	NOUN	_	7	obj	_	_
@@ -3653,7 +3651,7 @@
 12	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 1	Esate	esan	VERB	VERB	_	7	advcl	_	BeginSeg=Yes
-2	baterako	baterako	ADJ	ADJ	Case=Abs	1	amod	_	BeginSeg=Yes
+2	baterako	baterako	ADJ	ADJ	Case=Abs	1	amod	_	_
 3	,	,	PUNCT	PUNCT	_	7	punct	_	_
 4	oraindik	oraindik	ADV	ADV	_	5	advmod	_	_
 5	zehaztu	zehaztu	VERB	VERB	VerbForm=Part	7	advcl	_	_
@@ -3799,7 +3797,7 @@
 28	hematopoietikoetan	hematopoieti	NOUN	NOUN	Case=Ine|Number=Plur	21	appos	_	_
 29	.	.	PUNCT	PUNCT	_	21	punct	_	BeginSeg=Yes
 
-1	Beraz	beraz	CONJ	CONJ	_	3	advmod	_	_
+1	Beraz	beraz	CONJ	CONJ	_	3	advmod	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	_	3	punct	_	_
 3	E2F1	E2F1	NOUN	NOUN	_	0	root	_	_
 4	eta	eta	CONJ	CONJ	_	12	cc	_	_
@@ -3812,9 +3810,9 @@
 11	direla	izan	VERB	VERB	Aspect=Prog|Mood=Ind	12	advcl	_	_
 12	ondorioztatu	ondorioztatu	VERB	VERB	Aspect=Perf|VerbForm=Part	3	conj	_	_
 13	dugu	*edun	AUX	AUX	Mood=Ind	12	aux	_	_
-14	.	.	PUNCT	PUNCT	_	12	punct	_	BeginSeg=Yes
+14	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
-1	2	2	NOUN	NOUN	Case=Abs	5	nsubj	_	_
+1	2	2	NOUN	NOUN	Case=Abs	5	nsubj	_	BeginSeg=Yes
 2	)	)	PUNCT	PUNCT	_	5	punct	_	_
 3	Bestalde	bestalde	CONJ	CONJ	_	5	advmod	_	_
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
@@ -3832,9 +3830,9 @@
 16	latzak	latz	ADJ	ADJ	Case=Abs|Number=Plur	15	amod	_	_
 17	dakarzkio	ekarri	VERB	VERB	Aspect=Prog|Mood=Ind	5	conj	_	_
 18	zelulari	zelula	NOUN	NOUN	Case=Dat	17	obl	_	_
-19	.	.	PUNCT	PUNCT	_	5	punct	_	BeginSeg=Yes
+19	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
-1	Izan	izan	VERB	VERB	VerbForm=Part	5	advcl	_	_
+1	Izan	izan	VERB	VERB	VerbForm=Part	5	advcl	_	BeginSeg=Yes
 2	ere	ere	CONJ	CONJ	_	1	mark	_	_
 3	,	,	PUNCT	PUNCT	_	5	punct	_	_
 4	DNA	ADN	NOUN	NOUN	_	5	nsubj	_	_
@@ -3843,20 +3841,20 @@
 7	da	izan	AUX	AUX	Mood=Ind	5	aux	_	_
 8	egoera	egoera	NOUN	NOUN	_	5	obl	_	_
 9	hiperreaktibo	hiperreaktibo	ADJ	ADJ	_	8	amod	_	_
-10	honetan	hau	DET	DET	Case=Ine|Number=Sing	8	det	_	BeginSeg=Yes
-11	,	,	PUNCT	PUNCT	_	5	punct	_	_
-12	eta	eta	CONJ	CONJ	_	15	cc	_	_
+10	honetan	hau	DET	DET	Case=Ine|Number=Sing	8	det	_	_
+11	,	,	PUNCT	PUNCT	_	5	punct	_	
+12	eta	eta	CONJ	CONJ	_	15	cc	_	BeginSeg=Yes
 13	p53-ren	p53-	NOUN	NOUN	Case=Gen	14	nmod	_	_
 14	bidezidorra	bidezidor	NOUN	NOUN	Case=Abs|Number=Sing	15	obl	_	_
 15	aktibatzen	aktibatu	VERB	VERB	_	5	conj	_	_
-16	da	izan	AUX	AUX	Mood=Ind	15	aux	_	BeginSeg=Yes
+16	da	izan	AUX	AUX	Mood=Ind	15	aux	_	_
 17	,	,	PUNCT	PUNCT	_	15	punct	_	_
-18	zelula	zelula	NOUN	NOUN	_	20	obj	_	_
+18	zelula	zelula	NOUN	NOUN	_	20	obj	_	BeginSeg=Yes
 19	seneszentziarantz	seneszentziarantz	ADJ	ADJ	Case=Abs	18	amod	_	_
 20	bultzatuz	bultzatu	VERB	VERB	Case=Ins|VerbForm=Part	15	advcl	_	_
-21	.	.	PUNCT	PUNCT	_	15	punct	_	BeginSeg=Yes
+21	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
-1	Emaitza	emaitza	NOUN	NOUN	_	3	nmod	_	_
+1	Emaitza	emaitza	NOUN	NOUN	_	3	nmod	_	BeginSeg=Yes
 2	hauen	hauek	DET	DET	Case=Gen|Number=Plur	1	det	_	_
 3	arabera	arabera	ADV	ADV	_	14	advmod	_	_
 4	,	,	PUNCT	PUNCT	_	14	punct	_	_
@@ -3871,9 +3869,9 @@
 13	dela	izan	VERB	VERB	Aspect=Prog|Mood=Ind	14	ccomp	_	_
 14	ondorioztatzen	ondorioztatu	VERB	VERB	_	0	root	_	_
 15	dugu	*edun	AUX	AUX	Mood=Ind	14	aux	_	_
-16	.	.	PUNCT	PUNCT	_	14	punct	_	BeginSeg=Yes
+16	.	.	PUNCT	PUNCT	_	14	punct	_	_
 
-1	Sistema	sistema	NOUN	NOUN	_	3	nmod	_	_
+1	Sistema	sistema	NOUN	NOUN	_	3	nmod	_	BeginSeg=Yes
 2	horretako	hori	DET	DET	Case=Loc|Number=Sing	1	det	_	_
 3	osagai	osagai	NOUN	NOUN	_	6	nmod	_	_
 4	nagusi	nagusi	ADJ	ADJ	_	3	amod	_	_
@@ -3883,31 +3881,31 @@
 8	faktoreak	faktore	NOUN	NOUN	Case=Abs|Number=Plur	9	obj	_	_
 9	direla	izan	VERB	VERB	Aspect=Prog|Mood=Ind	10	advcl	_	_
 10	aurkitu	aurkitu	VERB	VERB	Aspect=Perf|VerbForm=Part	0	root	_	_
-11	dugu	*edun	AUX	AUX	Mood=Ind	10	aux	_	BeginSeg=Yes
+11	dugu	*edun	AUX	AUX	Mood=Ind	10	aux	_	_
 12	,	,	PUNCT	PUNCT	_	10	punct	_	_
-13	inhibitzaile	inhibitzaile	NOUN	NOUN	_	14	nmod	_	_
+13	inhibitzaile	inhibitzaile	NOUN	NOUN	_	14	nmod	_	BeginSeg=Yes
 14	funtzioa	funtzio	NOUN	NOUN	Case=Abs|Number=Sing	15	obl	_	_
 15	betetzen	bete	VERB	VERB	_	10	advcl	_	_
 16	dutelarik	*edun	AUX	AUX	DENB|Mood=Ind	15	aux	_	_
-17	.	.	PUNCT	PUNCT	_	10	punct	_	BeginSeg=Yes
+17	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
-1	Faktore	faktore	NOUN	NOUN	_	3	obj	_	_
+1	Faktore	faktore	NOUN	NOUN	_	3	obj	_	BeginSeg=Yes
 2	hauek	hauek	DET	DET	Case=Abs|Number=Plur	1	det	_	_
 3	galduko	galdu	VERB	VERB	Aspect=Pro|VerbForm=Part	9	advcl	_	_
-4	balira	izan	AUX	AUX	Mood=Cnd	3	aux	_	BeginSeg=Yes
+4	balira	izan	AUX	AUX	Mood=Cnd	3	aux	_	_
 5	,	,	PUNCT	PUNCT	_	3	punct	_	_
-6	bigarren	bigarren	DET	DET	_	7	nmod	_	_
+6	bigarren	bigarren	DET	DET	_	7	nmod	_	BeginSeg=Yes
 7	sistema	sistema	NOUN	NOUN	_	9	obj	_	_
 8	bat	bat	DET	DET	Case=Abs	7	det	_	_
 9	aktibatuko	aktibatu	VERB	VERB	Aspect=Pro|VerbForm=Part	0	root	_	_
-10	litzateke	izan	AUX	AUX	Mood=Cnd	9	aux	_	BeginSeg=Yes
+10	litzateke	izan	AUX	AUX	Mood=Cnd	9	aux	_	_
 11	,	,	PUNCT	PUNCT	_	9	punct	_	_
 12	p53	p53	NOUN	NOUN	_	13	nmod	_	_
 13	tumore	tumore	NOUN	NOUN	_	14	nmod	_	_
 14	ezabatzaileak	ezabatzaile	NOUN	NOUN	Case=Abs|Number=Plur	15	nmod	_	_
-15	kontrolatutakoa	kontrolatu	VERB	VERB	Case=Abs|Number=Sing|VerbForm=Part	19	conj	_	BeginSeg=Yes
+15	kontrolatutakoa	kontrolatu	VERB	VERB	Case=Abs|Number=Sing|VerbForm=Part	19	conj	_	_
 16	,	,	PUNCT	PUNCT	_	15	punct	_	_
-17	proliferazio	proliferazio	NOUN	NOUN	_	19	obl	_	_
+17	proliferazio	proliferazio	NOUN	NOUN	_	19	obl	_	
 18	aberrantea	aberrante	ADJ	ADJ	Case=Abs|Number=Sing	17	amod	_	_
 19	geldiarazi	geldiaraz	VERB	VERB	VerbForm=Part	9	advcl	_	_
 20	eta	eta	CONJ	CONJ	_	24	cc	_	_
@@ -3933,8 +3931,8 @@
 2	Lankidetza	lankidetza	NOUN	NOUN	Case=Abs|Number=Sing	3	obl	_	_
 3	Deszentralizatuak	deszentralizatu	VERB	VERB	Case=Abs|Number=Plur|VerbForm=Part	22	advcl	_	_
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
-5	gaur	gaur	ADV	ADV	_	22	advmod	_	BeginSeg=Yes
-6	egun	egun	ADV	ADV	_	5	fixed	_	BeginSeg=Yes
+5	gaur	gaur	ADV	ADV	_	22	advmod	_	_
+6	egun	egun	ADV	ADV	_	5	fixed	_	_
 7	leku	leku	NOUN	NOUN	_	22	obl	_	_
 8	askotan	asko	DET	DET	Case=Ine	7	det	_	_
 9	atzerakada	atzerakada	NOUN	NOUN	Case=Abs	10	obj	_	_
@@ -3979,8 +3977,8 @@
 7	izaki	izaki	NOUN	NOUN	_	14	obj	_	_
 8	,	,	PUNCT	PUNCT	_	7	punct	_	_
 9	Euskal	euskal	NOUN	NOUN	_	10	compound	_	BeginSeg=Yes
-10	Autonomia	autonomia	NOUN	NOUN	_	11	nmod	_	BeginSeg=Yes
-11	Erkidegoaren	erkidego	NOUN	NOUN	Case=Gen|Number=Sing	12	nmod	_	BeginSeg=Yes
+10	Autonomia	autonomia	NOUN	NOUN	_	11	nmod	_	_
+11	Erkidegoaren	erkidego	NOUN	NOUN	Case=Gen|Number=Sing	12	nmod	_	_
 12	kasua	kasu	NOUN	NOUN	Case=Abs|Number=Sing	13	nmod	_	_
 13	esanguratsua	esanguratsu	ADJ	ADJ	Case=Abs|Number=Sing	14	obl	_	_
 14	da	izan	VERB	VERB	Aspect=Prog|Mood=Ind	0	root	_	_
@@ -4020,7 +4018,7 @@
 12	alde	alde	NOUN	NOUN	_	6	obl	_	BeginSeg=Yes
 13	batetik	bat	DET	DET	Case=Abl|Number=Sing	12	det	_	_
 14	,	,	PUNCT	PUNCT	_	6	punct	_	_
-15	euskal	euskal	NOUN	NOUN	_	16	nmod	_	BeginSeg=Yes
+15	euskal	euskal	NOUN	NOUN	_	16	nmod	_	_
 16	lankidetzaren	lankidetza	NOUN	NOUN	Case=Gen|Number=Sing	17	nmod	_	_
 17	hastapenetatik	hastapen	NOUN	NOUN	Case=Abl|Number=Plur	22	obl	_	_
 18	gaur	gaur	ADV	ADV	_	22	advmod	_	_
@@ -4039,7 +4037,7 @@
 31	alde	alde	NOUN	NOUN	_	36	obl	_	_
 32	batetik	bat	DET	DET	Case=Abl|Number=Sing	31	det	_	_
 33	,	,	PUNCT	PUNCT	_	36	punct	_	_
-34	1988tik	1988	NOUN	NOUN	Case=Abl|Number=Sing	35	nmod	_	BeginSeg=Yes
+34	1988tik	1988	NOUN	NOUN	Case=Abl|Number=Sing	35	nmod	_	_
 35	2008ra	2008	NOUN	NOUN	Case=All|Number=Sing	36	obl	_	_
 36	doan	joan	VERB	VERB	Aspect=Prog|Mood=Ind	6	advcl	_	_
 37	hogei	hogei	DET	DET	_	38	det	_	_
@@ -4233,7 +4231,7 @@
 
 1	Baina	baina	CONJ	CONJ	_	5	cc	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	_	5	punct	_	_
-3	ingurumen-irizpideak	ingurumen-irizpide	NOUN	NOUN	Case=Abs|Number=Plur	5	nmod	_	BeginSeg=Yes
+3	ingurumen-irizpideak	ingurumen-irizpide	NOUN	NOUN	Case=Abs|Number=Plur	5	nmod	_	_
 4	zein	zein	CONJ	CONJ	_	5	cc	_	_
 5	irizpide	irizpide	NOUN	NOUN	_	0	root	_	_
 6	sozial	sozial	ADJ	ADJ	_	5	amod	_	_
@@ -4309,7 +4307,7 @@
 1	Lan	lan	NOUN	NOUN	_	3	nmod	_	BeginSeg=Yes
 2	honen	hau	DET	DET	Case=Gen|Number=Sing	1	det	_	_
 3	helburua	helburu	NOUN	NOUN	Case=Abs|Number=Sing	8	obl	_	_
-4	herritar	herritar	NOUN	NOUN	_	6	nmod	_	BeginSeg=Yes
+4	herritar	herritar	NOUN	NOUN	_	6	nmod	_	_
 5	bakoitzaren	bakoitz	ADJ	ADJ	Case=Gen|Number=Sing	4	det	_	_
 6	ezaugarriak	ezaugarri	NOUN	NOUN	Case=Abs|Number=Plur	8	obj	_	_
 7	kontuan	kontu	NOUN	NOUN	Case=Ine|Number=Sing	8	compound	_	_
@@ -4655,7 +4653,7 @@
 15	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 1	Horrez	hori	DET	DET	Case=Ins|Number=Sing	11	obl	_	BeginSeg=Yes
-2	gain	gain	NOUN	NOUN	Case=Abs	6	obj	_	BeginSeg=Yes
+2	gain	gain	NOUN	NOUN	Case=Abs	6	obj	_	_
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
 4	emozionalki	emozionalki	ADV	ADV	_	6	advmod	_	_
 5	adimentsuak	adimentsu	ADJ	ADJ	Case=Abs|Number=Plur	6	obl	_	_
@@ -4672,7 +4670,7 @@
 2	,	,	PUNCT	PUNCT	_	12	punct	_	_
 3	azkenik	azkenik	ADV	ADV	_	12	advmod	_	_
 4	,	,	PUNCT	PUNCT	_	12	punct	_	_
-5	Adimen	adimen	NOUN	NOUN	_	7	obl	_	BeginSeg=Yes
+5	Adimen	adimen	NOUN	NOUN	_	7	obl	_	_
 6	Emozionalean	emozional	ADJ	ADJ	Case=Ine|Number=Sing	5	amod	_	_
 7	oinarrituta	oinarritu	VERB	VERB	VerbForm=Part	12	advcl	_	_
 8	,	,	PUNCT	PUNCT	_	12	punct	_	_
@@ -4725,7 +4723,7 @@
 27	.	.	PUNCT	PUNCT	_	26	punct	_	_
 
 1	Nahiz	nahiz	CONJ	CONJ	_	17	punct	_	BeginSeg=Yes
-2	eta	eta	CONJ	CONJ	_	17	cc	_	BeginSeg=Yes
+2	eta	eta	CONJ	CONJ	_	17	cc	_	_
 3	NEBen	neba	NOUN	NOUN	Case=Gen|Number=Plur	4	nmod	_	_
 4	gaineko	gain	NOUN	NOUN	Case=Loc|Number=Sing	9	obl	_	_
 5	balorazio	balorazio	NOUN	NOUN	_	9	nmod	_	_
@@ -4735,7 +4733,7 @@
 9	duen	ukan	VERB	VERB	Aspect=Prog|Mood=Ind	14	acl	_	_
 10	,	,	PUNCT	PUNCT	_	12	punct	_	_
 11	Euskal	euskal	NOUN	NOUN	_	12	compound	_	BeginSeg=Yes
-12	Herriko	herri	NOUN	NOUN	Case=Loc|Number=Sing	14	nmod	_	BeginSeg=Yes
+12	Herriko	herri	NOUN	NOUN	Case=Loc|Number=Sing	14	nmod	_	_
 13	NEBen	neba	NOUN	NOUN	Case=Gen|Number=Plur	14	nmod	_	_
 14	gain	gain	NOUN	NOUN	Case=Abs	15	xcomp	_	_
 15	egindakoak	egin	VERB	VERB	Case=Abs|Number=Plur|VerbForm=Part	17	advcl	_	_
@@ -5028,8 +5026,8 @@
 70	.	.	PUNCT	PUNCT	_	62	punct	_	_
 
 1	Euskal	euskal	NOUN	NOUN	_	2	compound	_	BeginSeg=Yes
-2	Autonomia	autonomia	NOUN	NOUN	_	3	nmod	_	BeginSeg=Yes
-3	Erkidegoko	erkidego	NOUN	NOUN	Case=Loc|Number=Sing	5	nmod	_	BeginSeg=Yes
+2	Autonomia	autonomia	NOUN	NOUN	_	3	nmod	_	_
+3	Erkidegoko	erkidego	NOUN	NOUN	Case=Loc|Number=Sing	5	nmod	_	_
 4	aeronautika	aeronautika	NOUN	NOUN	_	5	nmod	_	_
 5	estatu	estatu	NOUN	NOUN	_	7	nmod	_	_
 6	osoko	oso	ADJ	ADJ	Case=Loc|Number=Sing	5	amod	_	_
@@ -5041,7 +5039,7 @@
 12	da	izan	AUX	AUX	Mood=Ind	11	aux	_	_
 13	,	,	PUNCT	PUNCT	_	17	punct	_	_
 14	nahiz	nahiz	CONJ	CONJ	_	17	punct	_	BeginSeg=Yes
-15	eta	eta	CONJ	CONJ	_	17	cc	_	BeginSeg=Yes
+15	eta	eta	CONJ	CONJ	_	17	cc	_	_
 16	hegazkin-produktorerik	hegazkin-produktore	NOUN	NOUN	Case=Par	17	obj	_	_
 17	izan	izan	VERB	VERB	VerbForm=Part	11	conj	_	_
 18	ez	ez	PART	PART	_	17	advmod	_	_
@@ -5056,7 +5054,7 @@
 7	ere	ere	CONJ	CONJ	_	6	fixed	_	_
 8	,	,	PUNCT	PUNCT	_	4	punct	_	_
 9	nahiz	nahiz	CONJ	CONJ	_	14	punct	_	BeginSeg=Yes
-10	eta	eta	CONJ	CONJ	_	14	cc	_	BeginSeg=Yes
+10	eta	eta	CONJ	CONJ	_	14	cc	_	_
 11	sektoreak	sektore	NOUN	NOUN	Case=Erg|Number=Sing	14	obl	_	_
 12	espazioa	espazio	NOUN	NOUN	Case=Abs|Number=Sing	14	obl	_	_
 13	ere	ere	CONJ	CONJ	_	14	advmod	_	_
@@ -5125,7 +5123,7 @@
 1	Landa-garapeneko	landa-garapen	NOUN	NOUN	Case=Loc|Number=Sing	2	nmod	_	BeginSeg=Yes
 2	politikek	politika	NOUN	NOUN	Case=Erg|Number=Plur	21	obl	_	_
 3	,	,	PUNCT	PUNCT	_	21	punct	_	_
-4	eremu	eremu	NOUN	NOUN	_	21	obj	_	BeginSeg=Yes
+4	eremu	eremu	NOUN	NOUN	_	21	obj	_	_
 5	horietako	horiek	DET	DET	Case=Loc|Number=Plur	4	det	_	_
 6	ohiko	ohiko	ADJ	ADJ	_	7	amod	_	_
 7	jardueren	jarduera	NOUN	NOUN	Case=Gen|Number=Plur	21	nmod	_	_
@@ -5219,7 +5217,7 @@
 12	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 1	Izan	izan	VERB	VERB	VerbForm=Part	4	advcl	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	1	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	1	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	4	punct	_	_
 4	etxebizitzak	etxebizitza	NOUN	NOUN	Case=Erg|Number=Sing	0	root	_	_
 5	eta	eta	CONJ	CONJ	_	9	cc	_	_
@@ -5562,7 +5560,7 @@
 18	hauetatik	hauek	DET	DET	Case=Abl|Number=Plur	17	det	_	_
 19	bostek	bost	NOUN	NOUN	Case=Erg|Number=Plur	10	conj	_	_
 20	,	,	PUNCT	PUNCT	_	19	punct	_	_
-21	VMD	VMD	NOUN	NOUN	Case=Abs|Number=Sing	22	obl	_	BeginSeg=Yes
+21	VMD	VMD	NOUN	NOUN	Case=Abs|Number=Sing	22	obl	_	_
 22	instalatu	instalatu	VERB	VERB	VerbForm=Part	30	advcl	_	_
 23	aurretik	aurre	NOUN	NOUN	Case=Abl|Number=Sing	30	nsubj	_	_
 24	etxeko	etxe	NOUN	NOUN	Case=Loc|Number=Sing	30	nmod	_	BeginSeg=Yes
@@ -5699,7 +5697,7 @@
 
 1	Horrela	horrela	ADV	ADV	_	8	advmod	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	_	8	punct	_	_
-3	bere	bera	DET	DET	Case=Gen	4	nmod	_	BeginSeg=Yes
+3	bere	bera	DET	DET	Case=Gen	4	nmod	_	_
 4	zalantzak	zalantza	NOUN	NOUN	Case=Abs|Number=Plur	5	obj	_	_
 5	argituz	argitu	VERB	VERB	Case=Ins|VerbForm=Part	8	advcl	_	_
 6	,	,	PUNCT	PUNCT	_	8	punct	_	_
@@ -5845,7 +5843,7 @@
 15	dela	izan	AUX	AUX	Mood=Ind	14	aux	_	_
 16	,	,	PUNCT	PUNCT	_	14	punct	_	_
 17	nahiz	nahiz	CONJ	CONJ	_	21	punct	_	BeginSeg=Yes
-18	eta	eta	CONJ	CONJ	_	21	cc	_	BeginSeg=Yes
+18	eta	eta	CONJ	CONJ	_	21	cc	_	_
 19	kantitate	kantitate	NOUN	NOUN	_	21	obl	_	_
 20	urria	urri	ADJ	ADJ	Case=Abs|Number=Sing	19	amod	_	_
 21	izan	izan	VERB	VERB	VerbForm=Part	14	conj	_	_
@@ -6069,7 +6067,7 @@
 13	diagnostikatzeko	diagnostikatu	VERB	VERB	Case=Abs	19	csubj	_	_
 14	orduan	orduan	ADV	ADV	_	19	advmod	_	_
 15	,	,	PUNCT	PUNCT	_	19	punct	_	_
-16	bereziki	bereziki	ADV	ADV	_	17	nmod	_	BeginSeg=Yes
+16	bereziki	bereziki	ADV	ADV	_	17	nmod	_	_
 17	mahukatxo	mahukatxo	NOUN	NOUN	_	19	nmod	_	_
 18	birakariaren	birakari	ADJ	ADJ	Case=Gen|Number=Sing	17	nmod	_	_
 19	lesioetan	lesio	NOUN	NOUN	Case=Ine|Number=Plur	4	obl	_	_
@@ -6327,9 +6325,9 @@
 14	zuten	*edun	AUX	AUX	Mood=Ind	12	aux	_	_
 15	;	;	PUNCT	PUNCT	_	32	punct	_	_
 16	izan	izan	VERB	VERB	VerbForm=Part	17	compound	_	BeginSeg=Yes
-17	ere	ere	CONJ	CONJ	_	32	advmod	_	BeginSeg=Yes
+17	ere	ere	CONJ	CONJ	_	32	advmod	_	_
 18	,	,	PUNCT	PUNCT	_	32	punct	_	_
-19	pisu	pisu	NOUN	NOUN	_	20	nmod	_	BeginSeg=Yes
+19	pisu	pisu	NOUN	NOUN	_	20	nmod	_	_
 20	galera	galera	NOUN	NOUN	_	32	obl	_	_
 21	desegokia	desegoki	ADJ	ADJ	Case=Abs|Number=Sing	20	amod	_	_
 22	eta	eta	CONJ	CONJ	_	32	cc	_	_
@@ -6756,8 +6754,8 @@
 7	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 1	Hona	hona	ADV	ADV	_	5	advmod	_	BeginSeg=Yes
-2	hemen	hemen	ADV	ADV	_	5	advmod	_	BeginSeg=Yes
-3	oin	oin	NOUN	NOUN	_	5	obl	_	BeginSeg=Yes
+2	hemen	hemen	ADV	ADV	_	5	advmod	_	_
+3	oin	oin	NOUN	NOUN	_	5	obl	_	_
 4	malgua	malgu	ADJ	ADJ	Case=Abs|Number=Sing	3	amod	_	_
 5	izateagatik	izan	VERB	VERB	Case=Cau|Number=Sing	0	root	_	_
 6	kalkaneo-stop	kalkaneo-stop	ADJ	ADJ	_	7	amod	_	BeginSeg=Yes
@@ -6795,7 +6793,7 @@
 1	Azterketa	azterketa	NOUN	NOUN	_	16	obl	_	BeginSeg=Yes
 2	medikoetan	mediko	ADJ	ADJ	Case=Ine|Number=Plur	1	amod	_	_
 3	,	,	PUNCT	PUNCT	_	16	punct	_	_
-4	hainbat	hainbat	ADV	ADV	_	5	det	_	BeginSeg=Yes
+4	hainbat	hainbat	ADV	ADV	_	5	det	_	_
 5	arrazoirengatik	arrazoi	NOUN	NOUN	Case=Cau	16	obl	_	_
 6	,	,	PUNCT	PUNCT	_	16	punct	_	_
 7	kasu	kasu	NOUN	NOUN	_	16	obj	_	_
@@ -7018,7 +7016,7 @@
 23	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 1	Horrez	hori	DET	DET	Case=Ins|Number=Sing	2	nmod	_	BeginSeg=Yes
-2	gain	gain	NOUN	NOUN	Case=Abs	0	root	_	BeginSeg=Yes
+2	gain	gain	NOUN	NOUN	Case=Abs	0	root	_	_
 3	,	,	PUNCT	PUNCT	_	8	punct	_	_
 4	item	item	NOUN	NOUN	_	7	obj	_	_
 5	horiek	horiek	DET	DET	Case=Abs|Number=Plur	4	det	_	_
@@ -7359,7 +7357,7 @@
 2	biztanleen	biztanle	NOUN	NOUN	Case=Gen|Number=Plur	3	nmod	_	_
 3	artean	arte	NOUN	NOUN	Case=Ine|Number=Sing	0	root	_	_
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
-5	T1	T1	NOUN	NOUN	_	6	nmod	_	BeginSeg=Yes
+5	T1	T1	NOUN	NOUN	_	6	nmod	_	_
 6	bularreko	bular	NOUN	NOUN	Case=Loc|Number=Sing	7	nmod	_	_
 7	minbizietako	minbizi	NOUN	NOUN	Case=Loc|Number=Plur	9	nmod	_	_
 8	gongoil	gongoil	NOUN	NOUN	_	9	nmod	_	_
@@ -7367,7 +7365,7 @@
 10	aztertzean	aztertu	VERB	VERB	Case=Ine	3	advcl	_	_
 11	,	,	PUNCT	PUNCT	_	20	punct	_	_
 12	oro	oro	DET	DET	Case=Abs	20	nsubj	_	BeginSeg=Yes
-13	har	har	NOUN	NOUN	Case=Abs	20	nsubj	_	BeginSeg=Yes
+13	har	har	NOUN	NOUN	Case=Abs	20	nsubj	_	_
 14	,	,	PUNCT	PUNCT	_	13	punct	_	_
 15	lau	lau	DET	DET	_	16	det	_	_
 16	gaixotik	gaixo	NOUN	NOUN	Case=Abl|Number=Sing	17	nmod	_	_
@@ -7403,7 +7401,7 @@
 6	tumoreetan	tumore	NOUN	NOUN	Case=Ine|Number=Plur	3	nmod	_	_
 7	;	;	PUNCT	PUNCT	_	9	punct	_	_
 8	izan	izan	VERB	VERB	VerbForm=Part	9	compound	_	BeginSeg=Yes
-9	ere	ere	CONJ	CONJ	_	3	conj	_	BeginSeg=Yes
+9	ere	ere	CONJ	CONJ	_	3	conj	_	_
 10	,	,	PUNCT	PUNCT	_	13	punct	_	_
 11	hirutik	hiru	NOUN	NOUN	Case=Abl|Number=Sing	13	nsubj	_	_
 12	bat	bat	DET	DET	Case=Abs	11	nummod	_	_
@@ -7641,7 +7639,7 @@
 25	daiteke	*edin	AUX	AUX	Mood=Pot	24	aux	_	_
 26	,	,	PUNCT	PUNCT	_	24	punct	_	_
 27	nahiz	nahiz	CONJ	CONJ	_	35	punct	_	BeginSeg=Yes
-28	eta	eta	CONJ	CONJ	_	35	cc	_	BeginSeg=Yes
+28	eta	eta	CONJ	CONJ	_	35	cc	_	_
 29	bietan	bi	DET	DET	Case=Ine|Number=Plur	30	obl	_	_
 30	erabilitako	erabili	VERB	VERB	Case=Loc|VerbForm=Part	31	advcl	_	_
 31	hitzak	hitz	NOUN	NOUN	Case=Abs|Number=Plur	35	obj	_	_
@@ -7663,7 +7661,7 @@
 47	baterako	bat	DET	DET	Case=Abs	46	det	_	_
 48	,	,	PUNCT	PUNCT	_	44	punct	_	_
 49	nahiz	nahiz	CONJ	CONJ	_	54	punct	_	BeginSeg=Yes
-50	eta	eta	CONJ	CONJ	_	54	cc	_	BeginSeg=Yes
+50	eta	eta	CONJ	CONJ	_	54	cc	_	_
 51	termino	termino	NOUN	NOUN	_	54	obl	_	_
 52	komun	komun	ADJ	ADJ	_	51	amod	_	_
 53	batzuk	batzuk	DET	DET	Case=Abs|Number=Plur	51	det	_	_
@@ -7755,7 +7753,7 @@
 1	Tresna	tresna	NOUN	NOUN	_	12	obl	_	BeginSeg=Yes
 2	hauek	hauek	DET	DET	Case=Abs|Number=Plur	1	det	_	_
 3	,	,	PUNCT	PUNCT	_	8	punct	_	_
-4	beren	berak	DET	DET	Case=Gen|Number=Plur	5	nmod	_	BeginSeg=Yes
+4	beren	berak	DET	DET	Case=Gen|Number=Plur	5	nmod	_	_
 5	helburua	helburu	NOUN	NOUN	Case=Abs|Number=Sing	8	obl	_	_
 6	bete	bete	VERB	VERB	VerbForm=Part	8	xcomp	_	_
 7	ahal	ahal	PART	PART	_	8	compound	_	_
@@ -8314,7 +8312,7 @@
 1	Horretaz	hori	DET	DET	Case=Ins|Number=Sing	2	nmod	_	BeginSeg=Yes
 2	gain	gain	NOUN	NOUN	Case=Abs	13	nsubj	_	_
 3	,	,	PUNCT	PUNCT	_	9	punct	_	_
-4	irakaskuntzaren	irakaskuntza	NOUN	NOUN	Case=Gen|Number=Sing	5	nmod	_	BeginSeg=Yes
+4	irakaskuntzaren	irakaskuntza	NOUN	NOUN	Case=Gen|Number=Sing	5	nmod	_	_
 5	alorreko	alor	NOUN	NOUN	Case=Loc|Number=Sing	6	nmod	_	_
 6	ataza	ataza	NOUN	NOUN	_	9	obj	_	_
 7	internazional	internazional	ADJ	ADJ	_	6	amod	_	_
@@ -8385,7 +8383,7 @@
 19	,	,	PUNCT	PUNCT	_	24	punct	_	_
 20	baina	baina	CONJ	CONJ	_	24	cc	_	BeginSeg=Yes
 21	,	,	PUNCT	PUNCT	_	24	punct	_	_
-22	euskararen	euskara	NOUN	NOUN	Case=Gen|Number=Sing	23	nmod	_	BeginSeg=Yes
+22	euskararen	euskara	NOUN	NOUN	Case=Gen|Number=Sing	23	nmod	_	_
 23	ezaugarriak	ezaugarri	NOUN	NOUN	Case=Abs|Number=Plur	24	obj	_	_
 24	direla	izan	VERB	VERB	Aspect=Prog|Mood=Ind	11	conj	_	_
 25	eta	eta	CONJ	CONJ	_	28	cc	_	_
@@ -8641,7 +8639,7 @@
 20	erraza	erraz	ADJ	ADJ	Case=Abs|Number=Sing	19	amod	_	_
 21	,	,	PUNCT	PUNCT	_	18	punct	_	_
 22	nahiz	nahiz	CONJ	CONJ	_	27	punct	_	BeginSeg=Yes
-23	eta	eta	CONJ	CONJ	_	27	cc	_	BeginSeg=Yes
+23	eta	eta	CONJ	CONJ	_	27	cc	_	_
 24	guk	gu	PRON	PRON	Case=Erg|Number=Plur	27	nsubj	_	_
 25	era	era	NOUN	NOUN	_	27	obl	_	_
 26	naturalean	natural	ADJ	ADJ	Case=Ine|Number=Sing	25	amod	_	_
@@ -8738,9 +8736,9 @@
 13	adibidez	adibidez	ADV	ADV	_	15	advmod	_	_
 14	,	,	PUNCT	PUNCT	_	15	punct	_	_
 15	izan	izan	VERB	VERB	VerbForm=Part	7	advcl	_	BeginSeg=Yes
-16	ere	ere	CONJ	CONJ	_	15	advcl	_	BeginSeg=Yes
+16	ere	ere	CONJ	CONJ	_	15	advcl	_	_
 17	,	,	PUNCT	PUNCT	_	7	punct	_	_
-18	bai	bai	PART	PART	_	19	cc	_	BeginSeg=Yes
+18	bai	bai	PART	PART	_	19	cc	_	_
 19	polisemia	polisemia	NOUN	NOUN	Case=Abs|Number=Sing	26	obl	_	_
 20	eta	eta	CONJ	CONJ	_	26	cc	_	_
 21	bai	bai	PART	PART	_	26	cc	_	_
@@ -8748,7 +8746,7 @@
 23	arazoak	arazo	NOUN	NOUN	Case=Abs|Number=Plur	25	obj	_	_
 24	automatikoki	automatikoki	ADV	ADV	_	25	advmod	_	_
 25	gainditzeko	gainditu	VERB	VERB	Case=Abs	26	xcomp	_	_
-26	balio	baliotu	VERB	VERB	_	7	conj	_	BeginSeg=Yes
+26	balio	baliotu	VERB	VERB	_	7	conj	_	_
 27	baitezake	*ezan	AUX	AUX	Mood=Pot	26	aux	_	_
 28	.	.	PUNCT	PUNCT	_	26	punct	_	_
 
@@ -8855,7 +8853,7 @@
 6	zergatik	zergatik	ADV	ADV	_	8	advmod	_	_
 7	ez	ez	PART	PART	_	8	advmod	_	_
 8	erabili	erabili	VERB	VERB	VerbForm=Part	9	nmod	_	_
-9	datuetan	datu	NOUN	NOUN	Case=Ine|Number=Plur	17	obj	_	BeginSeg=Yes
+9	datuetan	datu	NOUN	NOUN	Case=Ine|Number=Plur	17	obj	_	_
 10	bertan	bertan	ADV	ADV	_	12	advmod	_	_
 11	ez	ez	PART	PART	_	12	advmod	_	_
 12	dagoen	egon	VERB	VERB	Aspect=Prog|Mood=Ind	14	acl	_	_
@@ -9022,7 +9020,7 @@
 13	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 1	Horrez	hori	DET	DET	Case=Ins|Number=Sing	14	advmod	_	BeginSeg=Yes
-2	gain	gain	NOUN	NOUN	Case=Abs	1	fixed	_	BeginSeg=Yes
+2	gain	gain	NOUN	NOUN	Case=Abs	1	fixed	_	_
 3	,	,	PUNCT	PUNCT	_	6	punct	_	_
 4	tresna	tresna	NOUN	NOUN	_	6	obj	_	_
 5	linguistikoek	linguistiko	ADJ	ADJ	Case=Erg|Number=Plur	4	amod	_	_
@@ -9074,7 +9072,7 @@
 13	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	6	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	1	fixed	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	1	fixed	_	_
 3	,	,	PUNCT	PUNCT	_	6	punct	_	_
 4	farmakoek	farmako	NOUN	NOUN	Case=Erg|Number=Plur	6	obl	_	_
 5	toxizitatea	toxizitate	NOUN	NOUN	Case=Abs|Number=Sing	6	obl	_	_
@@ -9203,12 +9201,12 @@
 
 1	Hauek	hauek	DET	DET	Case=Erg|Number=Plur	4	det	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	_	4	punct	_	_
-3	farmakoen	farmako	NOUN	NOUN	Case=Gen|Number=Plur	4	nmod	_	BeginSeg=Yes
+3	farmakoen	farmako	NOUN	NOUN	Case=Gen|Number=Plur	4	nmod	_	_
 4	metabolismo	metabolismo	NOUN	NOUN	_	0	root	_	_
 5	eta	eta	CONJ	CONJ	_	10	cc	_	_
 6	garraioan	garraio	NOUN	NOUN	Case=Ine|Number=Sing	10	obj	_	_
 7	inplikatuta	inplikatu	VERB	VERB	VerbForm=Part	8	advcl	_	_
-8	dauden	egon	VERB	VERB	Aspect=Prog|Mood=Ind	9	acl	_	BeginSeg=Yes
+8	dauden	egon	VERB	VERB	Aspect=Prog|Mood=Ind	9	acl	_	_
 9	geneak	gene	NOUN	NOUN	Case=Erg|Number=Sing	10	obl	_	_
 10	erregulatzen	erregulatu	VERB	VERB	_	4	conj	_	_
 11	dituzte	*edun	AUX	AUX	Mood=Ind	10	aux	_	_
@@ -9236,7 +9234,7 @@
 20	.	.	PUNCT	PUNCT	_	18	punct	_	_
 
 1	Izan	izan	VERB	VERB	VerbForm=Part	10	advcl	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	1	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	1	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	1	punct	_	_
 4	miRNAtan	mirna	NOUN	NOUN	Case=Ine	5	obl	_	_
 5	dauden	egon	VERB	VERB	Aspect=Prog|Mood=Ind	6	acl	_	_
@@ -9251,7 +9249,7 @@
 14	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	6	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	1	fixed	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	1	fixed	_	_
 3	,	,	PUNCT	PUNCT	_	6	punct	_	_
 4	osteosarkometan	osteosarkom	NOUN	NOUN	Case=Ine|Number=Plur	6	obl	_	_
 5	ez	ez	PART	PART	_	6	advmod	_	_
@@ -9302,7 +9300,7 @@
 24	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 1	Nahiz	nahiz	CONJ	CONJ	_	20	punct	_	BeginSeg=Yes
-2	eta	eta	CONJ	CONJ	_	20	cc	_	BeginSeg=Yes
+2	eta	eta	CONJ	CONJ	_	20	cc	_	_
 3	gure	gu	PRON	PRON	Case=Gen|Number=Plur	4	nmod	_	_
 4	emaitzak	emaitza	NOUN	NOUN	Case=Abs|Number=Plur	7	obl	_	_
 5	behin	behin	ADV	ADV	_	7	advmod	_	_
@@ -9380,7 +9378,7 @@
 17	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 1	Izan	izan	VERB	VERB	VerbForm=Part	23	advcl	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	23	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	23	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	23	punct	_	_
 4	angiotentsina	angiotentsina	NOUN	NOUN	Case=Abs|Number=Sing	5	nmod	_	_
 5	II-ren	Ii	NOUN	NOUN	Case=Gen|Number=Sing	6	nmod	_	_
@@ -9711,7 +9709,7 @@
 2	laborategian	laborategi	NOUN	NOUN	Case=Ine|Number=Sing	16	obl	_	_
 3	entzima	entzima	NOUN	NOUN	_	5	nmod	_	_
 4	hau	hau	DET	DET	Case=Abs|Number=Sing	3	det	_	_
-5	zitoeskeletoaren	zitoeskeletoara	NOUN	NOUN	Case=Gen|Number=Plur	16	nmod	_	BeginSeg=Yes
+5	zitoeskeletoaren	zitoeskeletoara	NOUN	NOUN	Case=Gen|Number=Plur	16	nmod	_	_
 6	mikrofiruetako	mikrofiru	NOUN	NOUN	Case=Loc|Number=Plur	16	obl	_	_
 7	,	,	PUNCT	PUNCT	_	9	punct	_	_
 8	zelularen	zelula	NOUN	NOUN	Case=Gen|Number=Sing	9	nmod	_	_
@@ -9727,7 +9725,7 @@
 18	.	.	PUNCT	PUNCT	_	16	punct	_	_
 
 1	Horrez	hori	DET	DET	Case=Ins|Number=Sing	15	obl	_	BeginSeg=Yes
-2	gain	gain	NOUN	NOUN	Case=Abs	10	xcomp	_	BeginSeg=Yes
+2	gain	gain	NOUN	NOUN	Case=Abs	10	xcomp	_	_
 3	,	,	PUNCT	PUNCT	_	5	punct	_	_
 4	NatB	Natb	NOUN	NOUN	_	5	nmod	_	_
 5	azpiunitate	azpiunitate	NOUN	NOUN	_	8	nmod	_	_
@@ -10039,7 +10037,7 @@
 4	eta	eta	CONJ	CONJ	_	9	cc	_	_
 5	gero	gero	ADV	ADV	_	9	advmod	_	_
 6	,	,	PUNCT	PUNCT	_	9	punct	_	_
-7	itzulpenaren	itzulpen	NOUN	NOUN	Case=Gen|Number=Sing	8	nmod	_	BeginSeg=Yes
+7	itzulpenaren	itzulpen	NOUN	NOUN	Case=Gen|Number=Sing	8	nmod	_	_
 8	elongazioa	elongazio	NOUN	NOUN	Case=Abs|Number=Sing	9	obl	_	_
 9	moteldu	moteldu	VERB	VERB	VerbForm=Part	3	conj	_	_
 10	egiten	egin	VERB	VERB	_	9	aux	_	_
@@ -10393,7 +10391,7 @@
 7	duen	ukan	VERB	VERB	Aspect=Prog|Mood=Ind	8	acl	_	_
 8	neurona-kokapena	neurona-kokapen	NOUN	NOUN	Case=Abs|Number=Sing	10	obl	_	_
 9	helduan	heldu	ADJ	ADJ	Case=Ine|Number=Sing	8	amod	_	_
-10	duenarekin	ukan	VERB	VERB	Aspect=Prog|Case=Com|Mood=Ind|Number=Sing	0	root	_	BeginSeg=Yes
+10	duenarekin	ukan	VERB	VERB	Aspect=Prog|Case=Com|Mood=Ind|Number=Sing	0	root	_	_
 11	alderatuz	alderatu	VERB	VERB	Case=Ins|VerbForm=Part	13	advcl	_	_
 12	desberdina	desberdin	ADJ	ADJ	Case=Abs|Number=Sing	13	obl	_	BeginSeg=Yes
 13	da	izan	VERB	VERB	Aspect=Prog|Mood=Ind	10	conj	_	_
@@ -10702,7 +10700,7 @@
 11	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	9	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	9	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	9	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	9	punct	_	_
 4	gaur-gaurkoz	gaur-gaurk	NOUN	NOUN	Case=Ins	6	obl	_	_
 5	,	,	PUNCT	PUNCT	_	4	punct	_	_
@@ -10713,7 +10711,7 @@
 10	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 1	Izan	izan	VERB	VERB	VerbForm=Part	6	advcl	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	1	mark	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	1	mark	_	_
 3	,	,	PUNCT	PUNCT	_	6	punct	_	_
 4	ez	ez	PART	PART	_	6	advmod	_	_
 5	dugu	*edun	AUX	AUX	Mood=Ind	6	aux	_	_
@@ -10770,7 +10768,7 @@
 41	hobetzea	hobetu	VERB	VERB	Case=Abs	38	csubj	_	_
 42	,	,	PUNCT	PUNCT	_	43	punct	_	_
 43	izan	izan	VERB	VERB	VerbForm=Part	44	xcomp	_	BeginSeg=Yes
-44	ere	ere	CONJ	CONJ	_	61	advmod	_	BeginSeg=Yes
+44	ere	ere	CONJ	CONJ	_	61	advmod	_	_
 45	,	,	PUNCT	PUNCT	_	61	punct	_	_
 46	ugalketa	ugalketa	NOUN	NOUN	_	47	nmod	_	_
 47	klinikan	klinika	NOUN	NOUN	Case=Ine|Number=Sing	53	obl	_	_
@@ -10839,7 +10837,7 @@
 12	besteak	beste	DET	DET	Case=Abs|Number=Plur	5	obl	_	_
 13	beste	beste	ADV	ADV	_	12	fixed	_	_
 14	,	,	PUNCT	PUNCT	_	5	punct	_	_
-15	oozitoaren	oozito	NOUN	NOUN	Case=Gen|Number=Sing	16	nmod	_	BeginSeg=Yes
+15	oozitoaren	oozito	NOUN	NOUN	Case=Gen|Number=Sing	16	nmod	_	_
 16	heltze-prozesuan	heltze-prozesu	NOUN	NOUN	Case=Ine|Number=Sing	5	obl	_	_
 17	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
@@ -10864,8 +10862,8 @@
 19	.	.	PUNCT	PUNCT	_	18	punct	_	_
 
 1	Lehenik	lehenik	ADV	ADV	_	10	advmod	_	BeginSeg=Yes
-2	eta	eta	CONJ	CONJ	_	10	cc	_	BeginSeg=Yes
-3	behin	behin	ADV	ADV	_	10	advmod	_	BeginSeg=Yes
+2	eta	eta	CONJ	CONJ	_	10	cc	_	_
+3	behin	behin	ADV	ADV	_	10	advmod	_	_
 4	,	,	PUNCT	PUNCT	_	10	punct	_	_
 5	CB1	CB1	NOUN	NOUN	_	10	obl	_	_
 6	eta	eta	CONJ	CONJ	_	10	cc	_	_
@@ -10960,8 +10958,8 @@
 2	dela	izan	VERB	VERB	Aspect=Prog|Mood=Ind	13	advcl	_	_
 3	eta	eta	CONJ	CONJ	_	13	punct	_	_
 4	,	,	PUNCT	PUNCT	_	8	punct	_	_
-5	gaur	gaur	ADV	ADV	_	8	advmod	_	BeginSeg=Yes
-6	egun	egun	ADV	ADV	_	5	fixed	_	BeginSeg=Yes
+5	gaur	gaur	ADV	ADV	_	8	advmod	_	_
+6	egun	egun	ADV	ADV	_	5	fixed	_	_
 7	,	,	PUNCT	PUNCT	_	8	punct	_	_
 8	in	egin	VERB	VERB	VerbForm=Part	13	advcl	_	_
 9	vivo	vivo	NOUN	NOUN	_	10	nmod	_	_
@@ -11098,7 +11096,7 @@
 37	.	.	PUNCT	PUNCT	_	36	punct	_	_
 
 1	Aldez	alde	NOUN	NOUN	Case=Ins	5	obl	_	BeginSeg=Yes
-2	aurretik	aurre	NOUN	NOUN	Case=Abl|Number=Sing	5	nsubj	_	BeginSeg=Yes
+2	aurretik	aurre	NOUN	NOUN	Case=Abl|Number=Sing	5	nsubj	_	_
 3	gure	gu	PRON	PRON	Case=Gen|Number=Plur	4	nmod	_	_
 4	lan-taldean	lan-talde	NOUN	NOUN	Case=Ine|Number=Sing	5	obl	_	_
 5	egindako	egin	VERB	VERB	Case=Loc|VerbForm=Part	6	advcl	_	_
@@ -11183,7 +11181,7 @@
 9	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 1	Gaur	gaur	ADV	ADV	_	20	advmod	_	BeginSeg=Yes
-2	egun	egun	ADV	ADV	_	1	fixed	_	BeginSeg=Yes
+2	egun	egun	ADV	ADV	_	1	fixed	_	_
 3	,	,	PUNCT	PUNCT	_	20	punct	_	_
 4	gure	gu	PRON	PRON	Case=Gen|Number=Plur	5	nmod	_	_
 5	lanetan	lan	NOUN	NOUN	Case=Ine|Number=Plur	20	obl	_	_
@@ -11391,7 +11389,7 @@
 16	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
 1	Euskal	euskal	NOUN	NOUN	_	2	compound	_	BeginSeg=Yes
-2	Herriak	herri	NOUN	NOUN	Case=Erg|Number=Sing	0	root	_	BeginSeg=Yes
+2	Herriak	herri	NOUN	NOUN	Case=Erg|Number=Sing	0	root	_	_
 3	,	,	PUNCT	PUNCT	_	8	punct	_	_
 4	herrialde	herrialde	NOUN	NOUN	_	6	obj	_	_
 5	elebiduna	elebidun	ADJ	ADJ	Case=Abs|Number=Sing	4	amod	_	_
@@ -11735,7 +11733,7 @@
 12	ere	ere	CONJ	CONJ	_	11	advmod	_	_
 13	,	,	PUNCT	PUNCT	_	11	punct	_	_
 14	gaur	gaur	ADV	ADV	_	16	advmod	_	BeginSeg=Yes
-15	egun	egun	ADV	ADV	_	14	fixed	_	BeginSeg=Yes
+15	egun	egun	ADV	ADV	_	14	fixed	_	_
 16	badakigu	jakin	VERB	VERB	Aspect=Prog|Mood=Ind	25	xcomp	_	_
 17	gene	gene	NOUN	NOUN	_	18	nmod	_	_
 18	hautagaien	hautagai	NOUN	NOUN	Case=Gen|Number=Plur	19	nmod	_	_
@@ -12058,7 +12056,7 @@
 
 1	Entzumen	entzumen	NOUN	NOUN	_	6	obj	_	BeginSeg=Yes
 2	potentzialak	potentzial	ADJ	ADJ	Case=Erg|Number=Sing	1	amod	_	_
-3	GSI	gsi	NOUN	NOUN	_	4	nmod	_	BeginSeg=Yes
+3	GSI	gsi	NOUN	NOUN	_	4	nmod	_	_
 4	Audera	Aude	NOUN	NOUN	Case=All|Number=Sing	5	nmod	_	_
 5	aparatua	aparatu	NOUN	NOUN	Case=Abs|Number=Sing	6	obl	_	_
 6	erabiliz	erabili	VERB	VERB	Case=Ins|VerbForm=Part	7	advcl	_	_
@@ -12315,9 +12313,9 @@
 37	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
 1	Izan	izan	VERB	VERB	VerbForm=Part	9	advcl	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	1	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	1	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	1	punct	_	_
-4	iritzi	iritzi	NOUN	NOUN	_	9	obl	_	BeginSeg=Yes
+4	iritzi	iritzi	NOUN	NOUN	_	9	obl	_	_
 5	ezberdinetako	ezberdin	ADJ	ADJ	Case=Loc|Number=Plur	4	amod	_	_
 6	zientzialari	zientzialari	NOUN	NOUN	_	9	obl	_	_
 7	serbiarrek	serbiar	ADJ	ADJ	Case=Erg|Number=Plur	6	amod	_	_
@@ -12375,7 +12373,7 @@
 20	egokitu	egokitu	VERB	VERB	Aspect=Perf|VerbForm=Part	15	conj	_	_
 21	dugu	*edun	AUX	AUX	Mood=Ind	20	aux	_	_
 22	eta	eta	CONJ	CONJ	_	42	cc	_	BeginSeg=Yes
-23	zientzia-arlo	zientzia-arlo	NOUN	NOUN	_	42	obl	_	BeginSeg=Yes
+23	zientzia-arlo	zientzia-arlo	NOUN	NOUN	_	42	obl	_	_
 24	askotatik	asko	DET	DET	Case=Abl	23	det	_	_
 25	(	(	PUNCT	PUNCT	_	23	punct	_	_
 26	injinerutzatik	injinerutza	NOUN	NOUN	Case=Abl|Number=Sing	42	obl	_	_
@@ -12592,7 +12590,7 @@
 2	horiek	horiek	DET	DET	Case=Erg|Number=Plur	1	det	_	_
 3	guztiek	guzti	DET	DET	Case=Erg|Number=Plur	1	det	_	_
 4	,	,	PUNCT	PUNCT	_	9	punct	_	_
-5	espezialitateko	espezialitate	NOUN	NOUN	Case=Loc|Number=Sing	7	nmod	_	BeginSeg=Yes
+5	espezialitateko	espezialitate	NOUN	NOUN	Case=Loc|Number=Sing	7	nmod	_	_
 6	terminologiaren	terminologia	NOUN	NOUN	Case=Gen|Number=Sing	7	nmod	_	_
 7	gehikuntza	gehikuntza	NOUN	NOUN	_	9	obl	_	_
 8	kuantitatiboa	kuantitatibo	ADJ	ADJ	Case=Abs|Number=Sing	7	amod	_	_
@@ -12609,7 +12607,7 @@
 19	;	;	PUNCT	PUNCT	_	35	punct	_	_
 20	eta	eta	CONJ	CONJ	_	35	punct	_	BeginSeg=Yes
 21	,	,	PUNCT	PUNCT	_	23	punct	_	_
-22	egia	egia	NOUN	NOUN	Case=Abs|Number=Sing	23	obl	_	BeginSeg=Yes
+22	egia	egia	NOUN	NOUN	Case=Abs|Number=Sing	23	obl	_	_
 23	bada	izan	VERB	VERB	Aspect=Prog|Mood=Ind	35	advcl	_	_
 24	ere	ere	CONJ	CONJ	_	35	advmod	_	_
 25	ikuspegi	ikuspegi	NOUN	NOUN	_	35	obl	_	_
@@ -12645,7 +12643,7 @@
 55	.	.	PUNCT	PUNCT	_	54	punct	_	_
 
 1	Nahiz	nahiz	CONJ	CONJ	_	37	punct	_	BeginSeg=Yes
-2	eta	eta	CONJ	CONJ	_	37	cc	_	BeginSeg=Yes
+2	eta	eta	CONJ	CONJ	_	37	cc	_	_
 3	gaur	gaur	ADV	ADV	_	5	nmod	_	_
 4	egun	egun	ADV	ADV	_	3	fixed	_	_
 5	normalizazioko	normalizazio	NOUN	NOUN	Case=Loc|Number=Sing	37	obl	_	_
@@ -12738,7 +12736,7 @@
 10	izango	izan	VERB	VERB	Aspect=Pro|VerbForm=Part	0	root	_	_
 11	,	,	PUNCT	PUNCT	_	10	punct	_	_
 12	are	are	ADV	ADV	_	10	advmod	_	BeginSeg=Yes
-13	gehiago	gehiago	DET	DET	Case=Abs	12	det	_	BeginSeg=Yes
+13	gehiago	gehiago	DET	DET	Case=Abs	12	det	_	_
 14	,	,	PUNCT	PUNCT	_	10	punct	_	_
 15	bete	bete	VERB	VERB	VerbForm=Part	17	xcomp	_	_
 16	gabe	gabe	ADV	ADV	_	15	advcl	_	_
@@ -12751,7 +12749,7 @@
 1	Komunikazio	komunikazio	NOUN	NOUN	_	10	obl	_	BeginSeg=Yes
 2	honetan	hau	DET	DET	Case=Ine|Number=Sing	1	det	_	_
 3	,	,	PUNCT	PUNCT	_	7	punct	_	_
-4	katalanerako	katalan	NOUN	NOUN	Case=Loc|Number=Sing	5	nmod	_	BeginSeg=Yes
+4	katalanerako	katalan	NOUN	NOUN	Case=Loc|Number=Sing	5	nmod	_	_
 5	terminologia	terminologia	NOUN	NOUN	Case=Abs|Number=Sing	6	obl	_	_
 6	normalizatzeko	normalizatu	VERB	VERB	Case=Loc	7	advcl	_	_
 7	lanetan	lan	NOUN	NOUN	Case=Ine|Number=Plur	8	obl	_	_
@@ -12846,7 +12844,7 @@
 7	TERMCATeko	termcat	NOUN	NOUN	Case=Loc|Number=Sing	8	nmod	_	BeginSeg=Yes
 8	terminologoek	terminologo	NOUN	NOUN	Case=Erg|Number=Plur	17	obl	_	_
 9	,	,	PUNCT	PUNCT	_	17	punct	_	_
-10	agiriak	agiri	NOUN	NOUN	Case=Erg|Number=Sing	12	obj	_	BeginSeg=Yes
+10	agiriak	agiri	NOUN	NOUN	Case=Erg|Number=Sing	12	obj	_	_
 11	zehatz-mehatz	zehatz-mehatz	ADV	ADV	_	12	advmod	_	_
 12	aztertu	aztertu	VERB	VERB	VerbForm=Part	17	advcl	_	_
 13	ondoren	ondoren	ADV	ADV	_	12	advcl	_	_
@@ -12920,7 +12918,7 @@
 1	Komunikazio	komunikazio	NOUN	NOUN	_	6	obl	_	BeginSeg=Yes
 2	honekin	hau	DET	DET	Case=Com|Number=Sing	1	det	_	_
 3	,	,	PUNCT	PUNCT	_	6	punct	_	_
-4	adibide	adibide	NOUN	NOUN	_	6	obj	_	BeginSeg=Yes
+4	adibide	adibide	NOUN	NOUN	_	6	obj	_	_
 5	paraleloak	paralelo	ADJ	ADJ	Case=Abs|Number=Plur	4	amod	_	_
 6	erabiliz	erabili	VERB	VERB	Case=Ins|VerbForm=Part	11	advcl	_	_
 7	,	,	PUNCT	PUNCT	_	6	punct	_	_
@@ -12997,7 +12995,7 @@
 7	erabilera	erabilera	NOUN	NOUN	Case=Abs|Number=Sing	0	root	_	_
 8	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
-1	Azterketa	azterketa	NOUN	NOUN	_	2	nmod	_	_
+1	Azterketa	azterketa	NOUN	NOUN	_	2	nmod	_	BeginSeg=Yes
 2	eremua	eremu	NOUN	NOUN	Case=Abs|Number=Sing	4	nmod	_	_
 3	:	:	PUNCT	PUNCT	_	4	punct	_	_
 4	aldizkari	aldizkari	NOUN	NOUN	_	0	root	_	_
@@ -13033,7 +13031,7 @@
 27	batzuetan	batzuetan	ADV	ADV	_	29	advmod	_	_
 28	,	,	PUNCT	PUNCT	_	29	punct	_	_
 29	baldin	baldin	CONJ	CONJ	_	7	punct	_	BeginSeg=Yes
-30	eta	eta	CONJ	CONJ	_	65	cc	_	BeginSeg=Yes
+30	eta	eta	CONJ	CONJ	_	65	cc	_	_
 31	egitura-kalkora	egitura-kalko	NOUN	NOUN	Case=All|Number=Sing	32	obl	_	_
 32	jotzen	jo	VERB	VERB	_	65	advcl	_	_
 33	ez	ez	PART	PART	_	32	advmod	_	_
@@ -13133,7 +13131,7 @@
 32	"	"	PUNCT	PUNCT	_	34	punct	_	_
 33	,	,	PUNCT	PUNCT	_	34	punct	_	_
 34	izan	izan	VERB	VERB	VerbForm=Part	42	advcl	_	BeginSeg=Yes
-35	ere	ere	CONJ	CONJ	_	34	advcl	_	BeginSeg=Yes
+35	ere	ere	CONJ	CONJ	_	34	advcl	_	_
 36	,	,	PUNCT	PUNCT	_	34	punct	_	_
 37	eguneroko	eguneroko	ADJ	ADJ	_	38	amod	_	_
 38	praktikak	praktika	NOUN	NOUN	Case=Abs|Number=Plur	39	nsubj	_	_
@@ -13215,7 +13213,7 @@
 11	Ensunza	Ensunza	NOUN	NOUN	Case=Abs|Number=Sing	0	root	_	_
 12	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
-1	Euskera	euskara	NOUN	NOUN	_	2	nmod	_	_
+1	Euskera	euskara	NOUN	NOUN	_	2	nmod	_	BeginSeg=Yes
 2	aldizkaria	aldizkari	NOUN	NOUN	Case=Abs|Number=Sing	0	root	_	_
 3	(	(	PUNCT	PUNCT	_	2	punct	_	_
 4	Euskaltzaindia	Euskaltzaindia	NOUN	NOUN	Case=Abs|Number=Sing	2	appos	_	_
@@ -13231,11 +13229,11 @@
 7	"	"	PUNCT	PUNCT	_	6	punct	_	_
 8	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
-1	Miel	Miel	NOUN	NOUN	_	2	nmod	_	_
+1	Miel	Miel	NOUN	NOUN	_	2	nmod	_	BeginSeg=Yes
 2	Loinaz	loina	NOUN	NOUN	Case=Ins	0	root	_	_
 3	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-1	Berba	berba	NOUN	NOUN	_	2	nmod	_	_
+1	Berba	berba	NOUN	NOUN	_	2	nmod	_	BeginSeg=Yes
 2	aldizkaria	aldizkari	NOUN	NOUN	Case=Abs|Number=Sing	0	root	_	_
 3	(	(	PUNCT	PUNCT	_	2	punct	_	_
 4	UZEI	UZEI	NOUN	NOUN	Case=Abs|Number=Sing	2	appos	_	_
@@ -13436,7 +13434,7 @@
 2	eta	eta	CONJ	CONJ	_	14	cc	_	_
 3	ikasleek	ikasle	NOUN	NOUN	Case=Erg|Number=Plur	8	obl	_	_
 4	,	,	PUNCT	PUNCT	_	8	punct	_	_
-5	irlanderazko	irlandera	NOUN	NOUN	Case=Loc	6	nmod	_	BeginSeg=Yes
+5	irlanderazko	irlandera	NOUN	NOUN	Case=Loc	6	nmod	_	_
 6	hiztun	hiztun	NOUN	NOUN	_	8	obj	_	_
 7	trebeak	trebe	ADJ	ADJ	Case=Abs|Number=Plur	6	amod	_	_
 8	izan	izan	VERB	VERB	VerbForm=Part	14	advcl	_	_
@@ -13717,9 +13715,9 @@
 16	primerakoa	primerako	ADJ	ADJ	Case=Abs|Number=Sing	15	obl	_	_
 17	,	,	PUNCT	PUNCT	_	5	punct	_	_
 18	ezta	ezta	CONJ	CONJ	_	20	punct	_	BeginSeg=Yes
-19	hurrik	hur	NOUN	NOUN	Case=Par	20	obj	_	BeginSeg=Yes
-20	eman	eman	VERB	VERB	VerbForm=Part	5	advcl	_	BeginSeg=Yes
-21	ere	ere	CONJ	CONJ	_	20	advmod	_	BeginSeg=Yes
+19	hurrik	hur	NOUN	NOUN	Case=Par	20	obj	_	_
+20	eman	eman	VERB	VERB	VerbForm=Part	5	advcl	_	_
+21	ere	ere	CONJ	CONJ	_	20	advmod	_	_
 22	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 1	Bada	izan	VERB	VERB	Aspect=Prog|Mood=Ind	7	advcl	_	BeginSeg=Yes
@@ -13828,7 +13826,7 @@
 4	zailtasunak	zailtasun	NOUN	NOUN	Case=Abs|Number=Plur	0	root	_	_
 5	eta	eta	CONJ	CONJ	_	15	cc	_	_
 6	,	,	PUNCT	PUNCT	_	15	punct	_	_
-7	halakorik	halako	ADJ	ADJ	Case=Par	8	obj	_	BeginSeg=Yes
+7	halakorik	halako	ADJ	ADJ	Case=Par	8	obj	_	_
 8	izanez	izan	VERB	VERB	Case=Ins|Number=Plur|VerbForm=Part	15	advcl	_	_
 9	gero	gero	ADV	ADV	_	8	advcl	_	_
 10	,	,	PUNCT	PUNCT	_	8	punct	_	_
@@ -13931,7 +13929,7 @@
 19	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
 1	Legeriak	legeria	NOUN	NOUN	Case=Erg|Number=Sing	19	obj	_	BeginSeg=Yes
-2	-	-	PUNCT	PUNCT	_	1	punct	_	BeginSeg=Yes
+2	-	-	PUNCT	PUNCT	_	1	punct	_	_
 3	legea	lege	NOUN	NOUN	Case=Abs|Number=Sing	4	obl	_	_
 4	dagoenez	egon	VERB	VERB	Aspect=Prog|Mood=Ind	1	appos	_	_
 5	zuzenbidearen	zuzenbide	NOUN	NOUN	Case=Gen|Number=Sing	6	nmod	_	_
@@ -13945,7 +13943,7 @@
 13	oinarrituz	oinarritu	VERB	VERB	Case=Ins|VerbForm=Part	1	appos	_	_
 14	,	,	PUNCT	PUNCT	_	1	punct	_	_
 15	Eusko	eusko	NOUN	NOUN	_	16	compound	_	BeginSeg=Yes
-16	Legebiltzarreko	legebiltzar	NOUN	NOUN	Case=Loc|Number=Sing	18	nmod	_	BeginSeg=Yes
+16	Legebiltzarreko	legebiltzar	NOUN	NOUN	Case=Loc|Number=Sing	18	nmod	_	_
 17	legegintza-produkzio	legegintza-produkzio	NOUN	NOUN	_	18	nmod	_	_
 18	osoa	oso	ADJ	ADJ	Case=Abs|Number=Sing	19	obl	_	_
 19	hartu	hartu	VERB	VERB	Aspect=Perf|VerbForm=Part	0	root	_	_
@@ -14169,7 +14167,7 @@
 11	hala	hala	ADV	ADV	_	12	advmod	_	_
 12	dakarkio	ekarri	VERB	VERB	Aspect=Prog|Mood=Ind	14	nmod	_	_
 13	-	-	PUNCT	PUNCT	_	14	punct	_	_
-14	terminologo	terminologo	NOUN	NOUN	_	10	nsubj	_	BeginSeg=Yes
+14	terminologo	terminologo	NOUN	NOUN	_	10	nsubj	_	_
 15	eta	eta	CONJ	CONJ	_	17	cc	_	_
 16	informatikoen	informatiko	ADJ	ADJ	Case=Gen|Number=Plur	17	amod	_	_
 17	elkarlanari	elkarlan	NOUN	NOUN	Case=Dat|Number=Sing	14	conj	_	_
@@ -14463,7 +14461,7 @@
 20	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	6	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	6	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	6	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	6	punct	_	_
 4	gizaki	gizaki	NOUN	NOUN	_	6	obj	_	_
 5	adituek	aditu	ADJ	ADJ	Case=Erg|Number=Plur	4	amod	_	_
@@ -14637,7 +14635,7 @@
 22	datu-bilketak	datu-bilketa	NOUN	NOUN	Case=Abs|Number=Plur	23	obj	_	_
 23	egiten	egin	VERB	VERB	Case=Ine	24	advcl	_	_
 24	hasteko	hasi	VERB	VERB	Case=Abs	20	conj	_	_
-25	inor	inor	PRON	PRON	Case=Abs	26	obj	_	BeginSeg=Yes
+25	inor	inor	PRON	PRON	Case=Abs	26	obj	_	_
 26	konbentzitzea	konbentzitu	VERB	VERB	Case=Abs	24	xcomp	_	_
 27	.	.	PUNCT	PUNCT	_	24	punct	_	_
 
@@ -14691,7 +14689,7 @@
 
 1	Ezagutza-prozesaketa	ezagutza-prozesaketa	NOUN	NOUN	_	2	nmod	_	BeginSeg=Yes
 2	terminoa	termino	NOUN	NOUN	Case=Abs|Number=Sing	3	nmod	_	_
-3	hezkuntza	hezkuntza	NOUN	NOUN	_	7	nmod	_	BeginSeg=Yes
+3	hezkuntza	hezkuntza	NOUN	NOUN	_	7	nmod	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	prestakuntza	prestakuntza	NOUN	NOUN	_	7	nmod	_	_
 6	,	,	PUNCT	PUNCT	_	7	punct	_	_
@@ -14768,7 +14766,7 @@
 44	konpontzeko	konpondu	VERB	VERB	Case=Abs	39	conj	_	_
 45	eta	eta	CONJ	CONJ	_	47	punct	_	_
 46	abarretarako	abar	NOUN	NOUN	Case=Loc|Number=Plur	47	obl	_	_
-47	erabiltzen	erabili	VERB	VERB	_	34	conj	_	BeginSeg=Yes
+47	erabiltzen	erabili	VERB	VERB	_	34	conj	_	_
 48	da	izan	AUX	AUX	Mood=Ind	47	aux	_	_
 49	.	.	PUNCT	PUNCT	_	47	punct	_	_
 
@@ -14847,7 +14845,7 @@
 19	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 1	Aldi	aldi	NOUN	NOUN	_	9	obl	_	BeginSeg=Yes
-2	berean	bera	DET	DET	Case=Ine	1	det	_	BeginSeg=Yes
+2	berean	bera	DET	DET	Case=Ine	1	det	_	_
 3	,	,	PUNCT	PUNCT	_	9	punct	_	_
 4	metodo	metodo	NOUN	NOUN	_	9	nsubj	_	_
 5	horiek	horiek	DET	DET	Case=Abs|Number=Plur	4	det	_	_
@@ -15040,7 +15038,7 @@
 12	adib	adib.	ADV	ADV	_	11	advmod	_	_
 13	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
-1	,	,	PUNCT	PUNCT	_	7	punct	_	_
+1	,	,	PUNCT	PUNCT	_	7	punct	_	BeginSeg=Yes
 2	halako	halako	ADJ	ADJ	_	3	amod	_	_
 3	tresnarik	tresna	NOUN	NOUN	Case=Par	7	obj	_	_
 4	gabe	gabe	ADV	ADV	_	7	advmod	_	_
@@ -15139,7 +15137,7 @@
 3	erabiltzen	erabili	VERB	VERB	_	0	root	_	_
 4	dira	izan	AUX	AUX	Mood=Ind	3	aux	_	_
 5	batez	bat	DET	DET	Case=Ins	3	det	_	BeginSeg=Yes
-6	ere	ere	CONJ	CONJ	_	10	advmod	_	BeginSeg=Yes
+6	ere	ere	CONJ	CONJ	_	10	advmod	_	_
 7	terminoen	termino	NOUN	NOUN	Case=Gen|Number=Plur	10	obl	_	_
 8	hasierako	hasiera	NOUN	NOUN	Case=Loc|Number=Sing	9	nmod	_	_
 9	selekzioa	selekzio	NOUN	NOUN	Case=Abs|Number=Sing	10	obl	_	_
@@ -15148,7 +15146,7 @@
 
 1	Horretarako	hori	DET	DET	Case=Abs	5	advmod	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	_	5	punct	_	_
-3	eredu	eredu	NOUN	NOUN	_	5	obj	_	BeginSeg=Yes
+3	eredu	eredu	NOUN	NOUN	_	5	obj	_	_
 4	morfosintaktikoak	morfosintaktiko	ADJ	ADJ	Case=Abs|Number=Plur	3	amod	_	_
 5	erabili	erabili	VERB	VERB	Aspect=Perf|VerbForm=Part	0	root	_	_
 6	ohi	ohi	X	X	_	5	advmod	_	_
@@ -15181,7 +15179,7 @@
 14	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	7	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	7	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	7	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	7	punct	_	_
 4	proiektu	proiektu	NOUN	NOUN	_	7	obj	_	_
 5	batzuetan	batzuk	DET	DET	Case=Ine|Number=Plur	4	det	_	_
@@ -15399,7 +15397,7 @@
 11	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 1	Horretarako	hori	DET	DET	Case=Loc|Number=Sing	6	obl	_	BeginSeg=Yes
-2	analizatzaile	analizatzaile	NOUN	NOUN	_	6	obl	_	BeginSeg=Yes
+2	analizatzaile	analizatzaile	NOUN	NOUN	_	6	obl	_	_
 3	morfologikoa	morfologiko	ADJ	ADJ	Case=Abs|Number=Sing	2	amod	_	_
 4	jadanik	jadanik	ADV	ADV	_	6	advmod	_	_
 5	prest	prest	ADJ	ADJ	Case=Abs	4	amod	_	_
@@ -15454,7 +15452,7 @@
 21	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 1	Horretarako	hori	DET	DET	Case=Abs	5	nsubj	_	BeginSeg=Yes
-2	dauden	egon	VERB	VERB	Aspect=Prog|Mood=Ind	3	acl	_	BeginSeg=Yes
+2	dauden	egon	VERB	VERB	Aspect=Prog|Mood=Ind	3	acl	_	_
 3	hiztegi	hiztegi	NOUN	NOUN	_	5	obj	_	_
 4	teknikoetan	tekniko	ADJ	ADJ	Case=Ine|Number=Plur	3	amod	_	_
 5	oinarritu	oinarritu	VERB	VERB	VerbForm=Part	0	root	_	_
@@ -15489,7 +15487,7 @@
 1	Beste	beste	DET	DET	_	2	det	_	BeginSeg=Yes
 2	aldetik	alde	NOUN	NOUN	Case=Abl|Number=Sing	10	nsubj	_	_
 3	,	,	PUNCT	PUNCT	_	10	punct	_	_
-4	termino	termino	NOUN	NOUN	_	6	obl	_	BeginSeg=Yes
+4	termino	termino	NOUN	NOUN	_	6	obl	_	_
 5	teknikoak	tekniko	ADJ	ADJ	Case=Abs|Number=Plur	4	amod	_	_
 6	hautatzerakoan	hautatu	VERB	VERB	Case=Ine	10	advcl	_	_
 7	barneko	barne	NOUN	NOUN	Case=Loc|Number=Sing	10	obl	_	BeginSeg=Yes
@@ -15808,7 +15806,7 @@
 33	:	:	PUNCT	PUNCT	_	32	punct	_	_
 34	alde	alde	NOUN	NOUN	_	36	obl	_	BeginSeg=Yes
 35	batetik	bat	DET	DET	Case=Abl|Number=Sing	34	det	_	_
-36	modifikatzen	modifikatu	VERB	VERB	Case=Ine	37	advcl	_	BeginSeg=Yes
+36	modifikatzen	modifikatu	VERB	VERB	Case=Ine	37	advcl	_	_
 37	duten	ukan	VERB	VERB	Aspect=Prog|Mood=Ind	38	acl	_	_
 38	izena	izen	NOUN	NOUN	Case=Abs|Number=Sing	39	nmod	_	_
 39	ekintza	ekintza	NOUN	NOUN	Case=Abs|Number=Sing	32	obl	_	_
@@ -15849,7 +15847,7 @@
 19	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 1	Bistan	bista	NOUN	NOUN	Case=Ine|Number=Sing	2	compound	_	BeginSeg=Yes
-2	da	izan	VERB	VERB	Aspect=Prog|Mood=Ind	0	root	_	BeginSeg=Yes
+2	da	izan	VERB	VERB	Aspect=Prog|Mood=Ind	0	root	_	_
 3	azken	azken	DET	DET	_	4	det	_	_
 4	kasuan	kasu	NOUN	NOUN	Case=Ine|Number=Sing	12	obl	_	_
 5	dental	dental	NOUN	NOUN	_	6	nmod	_	_
@@ -15913,7 +15911,7 @@
 19	?	?	PUNCT	PUNCT	_	25	punct	_	_
 20	Bestetik	beste	DET	DET	Case=Abl|Number=Sing	25	advmod	_	BeginSeg=Yes
 21	,	,	PUNCT	PUNCT	_	25	punct	_	_
-22	izenondo	izenondo	NOUN	NOUN	_	25	obl	_	BeginSeg=Yes
+22	izenondo	izenondo	NOUN	NOUN	_	25	obl	_	_
 23	erreferentzialek	erreferentzial	ADJ	ADJ	Case=Erg|Number=Plur	22	amod	_	_
 24	modifikatzen	modifikatz	ADJ	ADJ	Case=Gen|Number=Plur	22	amod	_	_
 25	dutena	ukan	VERB	VERB	Aspect=Prog|Case=Abs|Mood=Ind|Number=Sing	17	appos	_	_
@@ -16064,7 +16062,7 @@
 25	bidez	bidez	ADV	ADV	_	27	advmod	_	_
 26	e.a.	e.a.	X	X	_	27	obl	_	_
 27	Esate	esan	VERB	VERB	_	6	conj	_	BeginSeg=Yes
-28	baterako	baterako	ADJ	ADJ	Case=Abs	27	amod	_	BeginSeg=Yes
+28	baterako	baterako	ADJ	ADJ	Case=Abs	27	amod	_	_
 29	,	,	PUNCT	PUNCT	_	33	punct	_	_
 30	ingeleseko	ingeles	ADJ	ADJ	Case=Loc|Number=Sing	33	nmod	_	_
 31	marginal	marjinal	ADJ	ADJ	_	32	amod	_	_
@@ -16284,7 +16282,7 @@
 65	?	?	PUNCT	PUNCT	_	67	punct	_	_
 66	Zein	zein	DET	DET	Case=Abs	65	det	_	BeginSeg=Yes
 67	dira	izan	VERB	VERB	Aspect=Prog|Mood=Ind	58	conj	_	_
-68	erdal	erdal	NOUN	NOUN	_	69	nmod	_	BeginSeg=Yes
+68	erdal	erdal	NOUN	NOUN	_	69	nmod	_	_
 69	izenondo	izenondo	NOUN	NOUN	_	73	obj	_	_
 70	erreferentzial	erreferentzial	ADJ	ADJ	_	69	amod	_	_
 71	bat	bat	DET	DET	Case=Abs	69	det	_	_
@@ -16418,7 +16416,7 @@
 18	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 1	Gaur	gaur	ADV	ADV	_	10	advmod	_	BeginSeg=Yes
-2	egun	egun	ADV	ADV	_	1	fixed	_	BeginSeg=Yes
+2	egun	egun	ADV	ADV	_	1	fixed	_	_
 3	,	,	PUNCT	PUNCT	_	10	punct	_	_
 4	base	base	NOUN	NOUN	_	10	obj	_	_
 5	horrek	hori	DET	DET	Case=Erg|Number=Sing	4	det	_	_
@@ -16693,7 +16691,7 @@
 3	azaltzeko	azaldu	VERB	VERB	Case=Abs	8	advcl	_	_
 4	,	,	PUNCT	PUNCT	_	8	punct	_	_
 5	kontutan	kontu	NOUN	NOUN	Case=Ine	6	compound	_	BeginSeg=Yes
-6	hartu	hartu	VERB	VERB	VerbForm=Part	8	xcomp	_	BeginSeg=Yes
+6	hartu	hartu	VERB	VERB	VerbForm=Part	8	xcomp	_	_
 7	behar	behar	NOUN	NOUN	Case=Abs	8	compound	_	_
 8	da	izan	VERB	VERB	Aspect=Prog|Mood=Ind	0	root	_	_
 9	hizkuntza	hizkuntza	NOUN	NOUN	_	11	nmod	_	_
@@ -16799,7 +16797,7 @@
 40	delarik	izan	VERB	VERB	Aspect=Prog|DENB|Mood=Ind	35	conj	_	_
 41	;	;	PUNCT	PUNCT	_	42	punct	_	_
 42	izan	izan	VERB	VERB	VerbForm=Part	35	conj	_	BeginSeg=Yes
-43	ere	ere	CONJ	CONJ	_	42	advmod	_	BeginSeg=Yes
+43	ere	ere	CONJ	CONJ	_	42	advmod	_	_
 44	,	,	PUNCT	PUNCT	_	35	punct	_	_
 45	Prehistoria	prehistoria	NOUN	NOUN	Case=Abs|Number=Sing	47	obl	_	_
 46	ez	ez	PART	PART	_	47	advmod	_	_
@@ -17236,12 +17234,12 @@
 2	frogatu	frogatu	VERB	VERB	Aspect=Perf|VerbForm=Part	15	advcl	_	_
 3	denez	izan	AUX	AUX	Case=Ins|Mood=Ind|Number=Plur	2	aux	_	_
 4	,	,	PUNCT	PUNCT	_	2	punct	_	_
-5	STS	STS	NOUN	NOUN	_	7	nmod	_	_
+5	STS	STS	NOUN	NOUN	_	7	nmod	_	BeginSeg=Yes
 6	tunel	tunel	NOUN	NOUN	_	7	nmod	_	_
 7	espektroskopiarekin	espektroskopia	NOUN	NOUN	Case=Com	12	obl	_	_
 8	adibidez	adibidez	ADV	ADV	_	12	advmod	_	_
 9	,	,	PUNCT	PUNCT	_	12	punct	_	_
-10	garaiera	garaiera	NOUN	NOUN	_	12	obj	_	BeginSeg=Yes
+10	garaiera	garaiera	NOUN	NOUN	_	12	obj	_	_
 11	jakina	jakin	ADJ	ADJ	Case=Abs|Number=Sing	10	amod	_	_
 12	duten	ukan	VERB	VERB	Aspect=Prog|Mood=Ind	13	acl	_	_
 13	irlek	irla	NOUN	NOUN	Case=Erg|Number=Plur	15	nsubj	_	_
@@ -17461,7 +17459,7 @@
 15	and	and.	NOUN	NOUN	_	17	nmod	_	_
 16	stability	stability	ADJ	ADJ	_	17	amod	_	_
 17	of	of	NOUN	NOUN	_	19	nmod	_	_
-18	nanostructuresÃÂ¢EÃÂ	nanostructurese	ADJ	ADJ	_	17	amod	_	_
+18	nanostructures	nanostructurese	ADJ	ADJ	_	17	amod	_	_
 19	,	,	PUNCT	PUNCT	_	20	punct	_	_
 20	bilduta	bildu	VERB	VERB	VerbForm=Part	21	advcl	_	_
 21	daude	egon	VERB	VERB	Aspect=Prog|Mood=Ind	0	root	_	_
@@ -17577,7 +17575,7 @@
 28	direnak	izan	VERB	VERB	Aspect=Prog|Case=Abs|Mood=Ind|Number=Plur	24	conj	_	_
 29	,	,	PUNCT	PUNCT	_	28	punct	_	_
 30	nahiz	nahiz	CONJ	CONJ	_	35	punct	_	BeginSeg=Yes
-31	eta	eta	CONJ	CONJ	_	35	cc	_	BeginSeg=Yes
+31	eta	eta	CONJ	CONJ	_	35	cc	_	_
 32	deformazio-prozesu	deformazio-prozesu	NOUN	NOUN	_	34	obj	_	_
 33	bat	bat	DET	DET	Case=Abs	32	det	_	_
 34	jasan	jasan	VERB	VERB	VerbForm=Part	35	xcomp	_	_
@@ -17606,7 +17604,7 @@
 7	sentsoreak	sentsore	NOUN	NOUN	Case=Abs|Number=Plur	11	obl	_	BeginSeg=Yes
 8	eta	eta	CONJ	CONJ	_	11	cc	_	_
 9	eragingailuak	eragingailu	NOUN	NOUN	Case=Abs|Number=Plur	10	obj	_	_
-10	diseinatzeko	diseinatu	VERB	VERB	Case=Abs	11	xcomp	_	BeginSeg=Yes
+10	diseinatzeko	diseinatu	VERB	VERB	Case=Abs	11	xcomp	_	_
 11	erabil	erabili	VERB	VERB	_	4	conj	_	BeginSeg=Yes
 12	daitezke	*edin	AUX	AUX	Mood=Pot	11	aux	_	_
 13	,	,	PUNCT	PUNCT	_	11	punct	_	_
@@ -17658,9 +17656,9 @@
 30	.	.	PUNCT	PUNCT	_	29	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	21	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	21	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	21	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	8	punct	_	_
-4	material	material	NOUN	NOUN	_	6	nmod	_	BeginSeg=Yes
+4	material	material	NOUN	NOUN	_	6	nmod	_	_
 5	hauen	hauek	DET	DET	Case=Gen|Number=Plur	4	det	_	_
 6	fase-transizioa	fase-trantsizio	NOUN	NOUN	Case=Abs|Number=Sing	8	obl	_	_
 7	histeretikoa	histereti	ADJ	ADJ	Case=Abs|Number=Sing	8	obl	_	_
@@ -17738,7 +17736,7 @@
 15	dute	*edun	AUX	AUX	Mood=Ind	14	aux	_	_
 16	,	,	PUNCT	PUNCT	_	23	punct	_	_
 17	beti	beti	ADV	ADV	_	23	advmod	_	BeginSeg=Yes
-18	ere	ere	CONJ	CONJ	_	23	advmod	_	BeginSeg=Yes
+18	ere	ere	CONJ	CONJ	_	23	advmod	_	_
 19	posizio	posizio	NOUN	NOUN	_	20	nmod	_	_
 20	sentsore	sentsore	NOUN	NOUN	_	22	nmod	_	_
 21	egoki	egoki	ADJ	ADJ	_	20	amod	_	_
@@ -17762,7 +17760,7 @@
 9	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	14	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	14	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	14	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	14	punct	_	_
 4	lehenago	lehenago	ADV	ADV	_	5	advmod	_	_
 5	esan	esan	VERB	VERB	Aspect=Perf|VerbForm=Part	14	advcl	_	_
@@ -17833,7 +17831,7 @@
 1	Alde	alde	NOUN	NOUN	_	15	obl	_	BeginSeg=Yes
 2	batetik	bat	DET	DET	Case=Abl|Number=Sing	1	det	_	_
 3	,	,	PUNCT	PUNCT	_	15	punct	_	_
-4	SMA	SMA	NOUN	NOUN	_	15	obl	_	BeginSeg=Yes
+4	SMA	SMA	NOUN	NOUN	_	15	obl	_	_
 5	materialak	material	ADJ	ADJ	Case=Erg|Number=Sing	4	amod	_	_
 6	mugimendu	mugimendu	NOUN	NOUN	_	15	nsubj	_	_
 7	zorrotza	zorrotz	ADJ	ADJ	Case=Abs|Number=Sing	6	amod	_	_
@@ -17882,9 +17880,9 @@
 1	Eta	eta	CONJ	CONJ	_	12	punct	_	BeginSeg=Yes
 2	bestetik	beste	DET	DET	Case=Abl|Number=Sing	12	nsubj	_	_
 3	,	,	PUNCT	PUNCT	_	12	punct	_	_
-4	eragingailu	eragingailu	NOUN	NOUN	_	8	obj	_	BeginSeg=Yes
+4	eragingailu	eragingailu	NOUN	NOUN	_	8	obj	_	_
 5	hauek	hauek	DET	DET	Case=Erg|Number=Plur	4	det	_	_
-6	elementu	elementu	NOUN	NOUN	_	8	obl	_	BeginSeg=Yes
+6	elementu	elementu	NOUN	NOUN	_	8	obl	_	_
 7	hauskorrak	hauskor	ADJ	ADJ	Case=Abs|Number=Plur	6	amod	_	_
 8	hartzeko	hartu	VERB	VERB	Case=Abs	9	xcomp	_	_
 9	erabil	erabili	VERB	VERB	_	12	advcl	_	BeginSeg=Yes
@@ -18043,7 +18041,7 @@
 18	.	.	PUNCT	PUNCT	_	16	punct	_	_
 
 1	Gaur	gaur	ADV	ADV	_	6	advmod	_	BeginSeg=Yes
-2	egun	egun	ADV	ADV	_	1	fixed	_	BeginSeg=Yes
+2	egun	egun	ADV	ADV	_	1	fixed	_	_
 3	,	,	PUNCT	PUNCT	_	6	punct	_	_
 4	lan	lan	NOUN	NOUN	_	6	obl	_	_
 5	hauei	hauek	DET	DET	Case=Dat|Number=Plur	4	det	_	_
@@ -18457,7 +18455,7 @@
 11	azken	azken	DET	DET	_	12	det	_	_
 12	urteetan	urte	NOUN	NOUN	Case=Ine|Number=Plur	36	nmod	_	_
 13	,	,	PUNCT	PUNCT	_	36	punct	_	_
-14	eta	eta	CONJ	CONJ	_	36	cc	_	BeginSeg=Yes
+14	eta	eta	CONJ	CONJ	_	36	cc	_	_
 15	"	"	PUNCT	PUNCT	_	22	punct	_	_
 16	Flora	Flora	NOUN	NOUN	_	18	nmod	_	_
 17	Micolgica	Micolgica	NOUN	NOUN	_	18	nmod	_	_
@@ -18669,7 +18667,7 @@
 1	Lerro	lerro	NOUN	NOUN	_	0	root	_	BeginSeg=Yes
 2	berean	bera	DET	DET	Case=Ine	1	det	_	_
 3	,	,	PUNCT	PUNCT	_	11	punct	_	_
-4	eta	eta	CONJ	CONJ	_	11	cc	_	BeginSeg=Yes
+4	eta	eta	CONJ	CONJ	_	11	cc	_	_
 5	erabilpen	erabilpen	NOUN	NOUN	_	7	obl	_	_
 6	desberdina	desberdin	ADJ	ADJ	Case=Abs|Number=Sing	5	amod	_	_
 7	duten	ukan	VERB	VERB	Aspect=Prog|Mood=Ind	8	acl	_	_
@@ -18677,27 +18675,25 @@
 9	onddo-komunitateak	onddo-komunitate	NOUN	NOUN	Case=Erg|Number=Sing	10	obl	_	_
 10	aztertzeko	aztertu	VERB	VERB	Case=Loc	11	advcl	_	_
 11	helburuarekin	helburu	NOUN	NOUN	Case=Com|Number=Sing	1	conj	_	_
-12	"	"	PUNCT	PUNCT	_	14	punct	_	BeginSeg=Yes
-13	AnÃÂ	An	NOUN	NOUN	Case=Abs|Number=Sing	14	obl	_	_
-14	Â¡	Â¡	PUNCT	PUNCT	_	11	punct	_	_
-15	lisis	lisis	NOUN	NOUN	_	14	nsubj	_	_
-16	de	de	X	X	_	15	flat	_	_
-17	la	la	NOUN	NOUN	_	19	flat	_	_
-18	biodiversidad	biodiversidad	ADJ	ADJ	_	17	amod	_	_
-19	de	de	X	X	_	16	flat	_	_
-20	los	los	NOUN	NOUN	_	19	flat	_	_
-21	macromicetos	macromicetos	ADJ	ADJ	_	20	amod	_	_
-22	de	de	X	X	_	20	flat	_	_
-23	la	la	NOUN	NOUN	_	22	flat	_	_
-24	Reserva	Reserva	NOUN	NOUN	_	23	flat	_	_
-25	de	de	X	X	_	24	flat	_	_
-26	la	la	NOUN	NOUN	_	27	nmod	_	_
-27	Biosfera	biosfera	NOUN	NOUN	Case=Abs|Number=Sing	29	nmod	_	_
-28	de	de	X	X	_	29	nmod	_	_
-29	Urdaibai	Urdaibai	NOUN	NOUN	Case=Abs|Number=Sing	25	flat	_	_
-30	.	.	PUNCT	PUNCT	_	29	punct	_	_
+12	"	"	PUNCT	PUNCT	_	13	punct	_	BeginSeg=Yes
+13	Analisis	lisis	NOUN	NOUN	_	16	nsubj	_	_
+14	de	de	X	X	_	15	flat	_	_
+15	la	la	NOUN	NOUN	_	17	flat	_	_
+16	biodiversidad	biodiversidad	ADJ	ADJ	_	15	amod	_	_
+17	de	de	X	X	_	14	flat	_	_
+18	los	los	NOUN	NOUN	_	17	flat	_	_
+19	macromicetos	macromicetos	ADJ	ADJ	_	18	amod	_	_
+20	de	de	X	X	_	18	flat	_	_
+21	la	la	NOUN	NOUN	_	20	flat	_	_
+22	Reserva	Reserva	NOUN	NOUN	_	21	flat	_	_
+23	de	de	X	X	_	22	flat	_	_
+24	la	la	NOUN	NOUN	_	25	nmod	_	_
+25	Biosfera	biosfera	NOUN	NOUN	Case=Abs|Number=Sing	27	nmod	_	_
+26	de	de	X	X	_	27	nmod	_	_
+28	Urdaibai	Urdaibai	NOUN	NOUN	Case=Abs|Number=Sing	23	flat	_	_
+29	.	.	PUNCT	PUNCT	_	27	punct	_	_
 
-1	"	"	PUNCT	PUNCT	_	14	punct	_	_
+1	"	"	PUNCT	PUNCT	_	14	punct	_	BeginSeg=Yes
 2	influencia	influenci	ADJ	ADJ	Case=Abs|Number=Sing	14	obl	_	_
 3	de	de	X	X	_	14	cc	_	_
 4	los	los	NOUN	NOUN	_	13	nmod	_	_
@@ -18732,9 +18728,9 @@
 16	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
 1	Azken	azken	DET	DET	_	2	det	_	BeginSeg=Yes
-2	finean	fin	NOUN	NOUN	Case=Ine|Number=Sing	11	obl	_	BeginSeg=Yes
+2	finean	fin	NOUN	NOUN	Case=Ine|Number=Sing	11	obl	_	_
 3	,	,	PUNCT	PUNCT	_	11	punct	_	_
-4	ingurumen-hitzamenetako	ingurumen-hitzamena	ADJ	ADJ	Case=Loc|Number=Plur	11	obl	_	BeginSeg=Yes
+4	ingurumen-hitzamenetako	ingurumen-hitzamena	ADJ	ADJ	Case=Loc|Number=Plur	11	obl	_	_
 5	helburuak	helburu	NOUN	NOUN	Case=Abs|Number=Plur	6	obj	_	_
 6	lortzeko	lortu	VERB	VERB	Case=Loc	8	advcl	_	_
 7	berebiziko	berebiziko	ADJ	ADJ	_	8	amod	_	BeginSeg=Yes
@@ -18745,8 +18741,8 @@
 12	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 1	Euskal	euskal	NOUN	NOUN	_	3	nmod	_	BeginSeg=Yes
-2	Autonomi	autonomia	NOUN	NOUN	_	3	compound	_	BeginSeg=Yes
-3	Erkidegoko	erkidego	NOUN	NOUN	Case=Loc|Number=Sing	4	nmod	_	BeginSeg=Yes
+2	Autonomi	autonomia	NOUN	NOUN	_	3	compound	_	_
+3	Erkidegoko	erkidego	NOUN	NOUN	Case=Loc|Number=Sing	4	nmod	_	_
 4	onddoen	onddo	NOUN	NOUN	Case=Gen|Number=Plur	11	obl	_	_
 5	kontserbazioa	kontserbazio	NOUN	NOUN	Case=Abs|Number=Sing	11	obl	_	_
 6	eta	eta	CONJ	CONJ	_	11	punct	_	_
@@ -18873,7 +18869,7 @@
 19	.	.	PUNCT	PUNCT	_	18	punct	_	_
 
 1	Izan	izan	VERB	VERB	VerbForm=Part	12	advcl	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	1	mark	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	1	mark	_	_
 3	,	,	PUNCT	PUNCT	_	12	punct	_	_
 4	gure	gu	PRON	PRON	Case=Gen|Number=Plur	5	nmod	_	_
 5	talde	talde	NOUN	NOUN	_	7	nmod	_	_
@@ -18997,14 +18993,14 @@
 11	bezala	bezala	ADV	ADV	_	12	advmod	_	_
 12	erabil	erabili	VERB	VERB	_	22	acl	_	_
 13	daitezke	*edin	AUX	AUX	Mood=Pot	12	aux	_	_
-14	:	:	PUNCT	PUNCT	_	22	punct	_	_
+14	:	:	PUNCT	PUNCT	_	22	punct	_	BeginSeg=Yes
 15	gasen	gasa	NOUN	NOUN	Case=Gen|Number=Plur	22	nmod	_	_
 16	banaketa	banaketa	NOUN	NOUN	_	17	nmod	_	_
 17	industri-prozesuetan	industria-prozesu	NOUN	NOUN	Case=Ine|Number=Plur	22	nmod	_	_
 18	,	,	PUNCT	PUNCT	_	20	punct	_	_
-19	molekulak	molekula	NOUN	NOUN	Case=Abs|Number=Plur	20	obj	_	BeginSeg=Yes
+19	molekulak	molekula	NOUN	NOUN	Case=Abs|Number=Plur	20	obj	_	_
 20	hautatzeko	hautatu	VERB	VERB	Case=Abs	17	conj	_	_
-21	edota	edota	CONJ	CONJ	_	22	cc	_	BeginSeg=Yes
+21	edota	edota	CONJ	CONJ	_	22	cc	_	_
 22	prozesu	prozesu	NOUN	NOUN	_	1	conj	_	_
 23	katalitikoetan	katalitiko	ADJ	ADJ	Case=Ine|Number=Plur	22	amod	_	_
 24	.	.	PUNCT	PUNCT	_	22	punct	_	_
@@ -19176,7 +19172,7 @@
 48	murriztera	murriztu	VERB	VERB	Case=All	61	advcl	_	_
 49	;	;	PUNCT	PUNCT	_	50	punct	_	_
 50	izan	izan	VERB	VERB	VerbForm=Part	48	conj	_	BeginSeg=Yes
-51	ere	ere	CONJ	CONJ	_	50	advmod	_	BeginSeg=Yes
+51	ere	ere	CONJ	CONJ	_	50	advmod	_	_
 52	,	,	PUNCT	PUNCT	_	61	punct	_	_
 53	gerora	gerora	ADV	ADV	_	61	advmod	_	_
 54	,	,	PUNCT	PUNCT	_	61	punct	_	_
@@ -19706,11 +19702,11 @@
 2	NP	Np	NOUN	NOUN	_	3	nmod	_	_
 3	funtzionalizatuak	funtzionalizatua	NOUN	NOUN	Case=Erg|Number=Sing	7	nmod	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
-5	eremu	eremu	NOUN	NOUN	_	7	nmod	_	BeginSeg=Yes
-6	magnetikoen	magnetiko	ADJ	ADJ	Case=Gen|Number=Plur	5	amod	_	BeginSeg=Yes
+5	eremu	eremu	NOUN	NOUN	_	7	nmod	_	_
+6	magnetikoen	magnetiko	ADJ	ADJ	Case=Gen|Number=Plur	5	amod	_	_
 7	eraginez	eragin	NOUN	NOUN	Case=Ins|Number=Plur	0	root	_	_
 8	,	,	PUNCT	PUNCT	_	24	punct	_	_
-9	NP	NP	NOUN	NOUN	_	24	obl	_	BeginSeg=Yes
+9	NP	NP	NOUN	NOUN	_	24	obl	_	_
 10	magnetikoen	magnetiko	ADJ	ADJ	Case=Gen|Number=Plur	9	amod	_	_
 11	edo	edo	CONJ	CONJ	_	24	punct	_	_
 12	magnetikoki	magnetikoki	ADV	ADV	_	13	advmod	_	_
@@ -19811,12 +19807,12 @@
 17	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 1	Gaur	gaur	ADV	ADV	_	9	advmod	_	BeginSeg=Yes
-2	egun	egun	ADV	ADV	_	1	fixed	_	BeginSeg=Yes
+2	egun	egun	ADV	ADV	_	1	fixed	_	_
 3	erabiltzen	erabili	VERB	VERB	_	5	acl	_	_
 4	den	izan	AUX	AUX	Mood=Ind	3	aux	_	_
 5	katodoarekin	katodo	NOUN	NOUN	Case=Com|Number=Sing	9	obl	_	_
 6	,	,	PUNCT	PUNCT	_	9	punct	_	_
-7	LiCoO	Licoo	NOUN	NOUN	_	8	nmod	_	BeginSeg=Yes
+7	LiCoO	Licoo	NOUN	NOUN	_	8	nmod	_	_
 8	2-rekin	2	NOUN	NOUN	Case=Com	9	obl	_	_
 9	konparatuta	konparatu	VERB	VERB	VerbForm=Part	15	xcomp	_	_
 10	(	(	PUNCT	PUNCT	_	9	punct	_	_
@@ -19863,7 +19859,7 @@
 13	lortzeko	lortu	VERB	VERB	Case=Abs	9	xcomp	_	_
 14	,	,	PUNCT	PUNCT	_	24	punct	_	_
 15	batez	bat	NOUN	NOUN	Case=Ins|Number=Plur	24	obl	_	BeginSeg=Yes
-16	ere	ere	CONJ	CONJ	_	24	advmod	_	BeginSeg=Yes
+16	ere	ere	CONJ	CONJ	_	24	advmod	_	_
 17	,	,	PUNCT	PUNCT	_	24	punct	_	_
 18	bere	bera	DET	DET	Case=Gen	19	nmod	_	_
 19	eroankortasun	eroankortasun	NOUN	NOUN	_	22	obl	_	_
@@ -20217,7 +20213,7 @@
 18	sortzeko	sortu	VERB	VERB	Case=Abs	11	xcomp	_	_
 19	,	,	PUNCT	PUNCT	_	26	punct	_	_
 20	aldi	aldi	NOUN	NOUN	_	26	obl	_	BeginSeg=Yes
-21	berean	bera	DET	DET	Case=Ine	20	fixed	_	BeginSeg=Yes
+21	berean	bera	DET	DET	Case=Ine	20	fixed	_	_
 22	,	,	PUNCT	PUNCT	_	26	punct	_	_
 23	ura	ur	NOUN	NOUN	Case=Abs|Number=Sing	26	obl	_	_
 24	eta	eta	CONJ	CONJ	_	26	cc	_	_
@@ -20372,7 +20368,7 @@
 9	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 1	Honez	hau	DET	DET	Case=Ins|Number=Sing	2	nmod	_	BeginSeg=Yes
-2	gain	gain	NOUN	NOUN	Case=Abs	8	nsubj	_	BeginSeg=Yes
+2	gain	gain	NOUN	NOUN	Case=Abs	8	nsubj	_	_
 3	,	,	PUNCT	PUNCT	_	8	punct	_	_
 4	beste	beste	DET	DET	_	5	det	_	_
 5	metodo	metodo	NOUN	NOUN	_	8	obl	_	_
@@ -20391,7 +20387,7 @@
 1	Era	era	NOUN	NOUN	_	7	obl	_	BeginSeg=Yes
 2	honetan	hau	DET	DET	Case=Ine|Number=Sing	1	det	_	_
 3	,	,	PUNCT	PUNCT	_	7	punct	_	_
-4	sintesi	sintesi	NOUN	NOUN	_	5	nmod	_	BeginSeg=Yes
+4	sintesi	sintesi	NOUN	NOUN	_	5	nmod	_	_
 5	bide	bide	NOUN	NOUN	_	7	obj	_	_
 6	desberdinak	desberdin	ADJ	ADJ	Case=Abs|Number=Plur	5	amod	_	_
 7	erabiliz	erabili	VERB	VERB	Case=Ins|VerbForm=Part	0	root	_	_
@@ -20616,13 +20612,13 @@
 3	dela	izan	VERB	VERB	Aspect=Prog|Mood=Ind	5	advcl	_	_
 4	bide	bide	NOUN	NOUN	Case=Abs	5	xcomp	_	_
 5	eman	eman	VERB	VERB	_	0	root	_	_
-6	daitezke	*edin	AUX	AUX	Mood=Pot	5	aux	_	BeginSeg=Yes
+6	daitezke	*edin	AUX	AUX	Mood=Pot	5	aux	_	_
 7	efektuak	efektu	NOUN	NOUN	Case=Abs|Number=Plur	8	nmod	_	_
 8	ugalketan	ugalketa	NOUN	NOUN	Case=Ine|Number=Sing	5	obl	_	_
 9	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
-1	Honela	honela	ADV	ADV	_	8	nmod	_	_
-2	,	,	PUNCT	PUNCT	_	8	punct	_	BeginSeg=Yes
+1	Honela	honela	ADV	ADV	_	8	nmod	_	BeginSeg=Yes
+2	,	,	PUNCT	PUNCT	_	8	punct	_	_
 3	ingurumen	ingurumen	NOUN	NOUN	_	5	obl	_	_
 4	urtarrean	urtar	ADJ	ADJ	Case=Ine|Number=Sing	3	amod	_	_
 5	agertzen	agertu	VERB	VERB	_	7	acl	_	_
@@ -20651,8 +20647,8 @@
 28	bidez	bidez	ADV	ADV	_	27	advmod	_	_
 29	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
-1	Horrela	horrela	ADV	ADV	_	33	advmod	_	_
-2	,	,	PUNCT	PUNCT	_	33	punct	_	BeginSeg=Yes
+1	Horrela	horrela	ADV	ADV	_	33	advmod	_	BeginSeg=Yes
+2	,	,	PUNCT	PUNCT	_	33	punct	_	_
 3	sistema	sistema	NOUN	NOUN	_	5	nmod	_	_
 4	endokrinoaren	endokrino	ADJ	ADJ	Case=Gen|Number=Sing	3	nmod	_	_
 5	funtzioan	funtzio	NOUN	NOUN	Case=Ine|Number=Sing	6	obj	_	_
@@ -20687,8 +20683,8 @@
 34	zaie	izan	AUX	AUX	Mood=Ind	33	aux	_	_
 35	.	.	PUNCT	PUNCT	_	33	punct	_	_
 
-1	EB	EB	NOUN	NOUN	_	3	nmod	_	_
-2	k	k	NOUN	NOUN	_	3	nmod	_	BeginSeg=Yes
+1	EB	EB	NOUN	NOUN	_	3	nmod	_	BeginSeg=Yes
+2	k	k	NOUN	NOUN	_	3	nmod	_	_
 3	diruz	diru	NOUN	NOUN	Case=Ins	4	obl	_	_
 4	lagundutako	lagundu	VERB	VERB	Case=Loc|VerbForm=Part	7	advcl	_	_
 5	BEE	bee	NOUN	NOUN	_	7	nmod	_	_
@@ -20712,8 +20708,8 @@
 23	muskuiluetan	muskuilu	NOUN	NOUN	Case=Ine|Number=Plur	21	conj	_	_
 24	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
-1	Azterturiko	aztertu	VERB	VERB	Case=Loc|VerbForm=Part	2	advcl	_	_
-2	konposatuen	konposatu	NOUN	NOUN	Case=Gen|Number=Plur	4	nmod	_	BeginSeg=Yes
+1	Azterturiko	aztertu	VERB	VERB	Case=Loc|VerbForm=Part	2	advcl	_	BeginSeg=Yes
+2	konposatuen	konposatu	NOUN	NOUN	Case=Gen|Number=Plur	4	nmod	_ _
 3	artean	arte	NOUN	NOUN	Case=Ine|Number=Sing	4	nmod	_	_
 4	alkilfenolak	alkilfenol	NOUN	NOUN	Case=Abs|Number=Plur	0	root	_	_
 5	,	,	PUNCT	PUNCT	_	6	punct	_	_
@@ -20732,8 +20728,8 @@
 18	zeuden	egon	VERB	VERB	Aspect=Prog|Mood=Ind	4	conj	_	_
 19	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
-1	Era	era	NOUN	NOUN	_	15	obl	_	_
-2	berean	bera	DET	DET	Case=Ine	1	det	_	BeginSeg=Yes
+1	Era	era	NOUN	NOUN	_	15	obl	_	BeginSeg=Yes
+2	berean	bera	DET	DET	Case=Ine	1	det	_	_
 3	,	,	PUNCT	PUNCT	_	15	punct	_	_
 4	2003tik	2003	NOUN	NOUN	Case=Abl|Number=Sing	15	nsubj	_	_
 5	aurrera	aurrera	ADV	ADV	_	6	nmod	_	_
@@ -20764,8 +20760,8 @@
 30	,	,	PUNCT	PUNCT	_	31	punct	_	_
 31	2003-2007	2003-2007	NOUN	NOUN	Case=Abs	29	conj	_	_
 32	)	)	PUNCT	PUNCT	_	38	punct	_	_
-33	eta	eta	CONJ	CONJ	_	38	cc	_	_
-34	gametoen	gameto	NOUN	NOUN	Case=Gen|Number=Plur	35	nmod	_	BeginSeg=Yes
+33	eta	eta	CONJ	CONJ	_	38	cc	_	BeginSeg=Yes
+34	gametoen	gameto	NOUN	NOUN	Case=Gen|Number=Plur	35	nmod	_	_
 35	garapenean	garapen	NOUN	NOUN	Case=Ine|Number=Sing	38	obl	_	_
 36	zenbait	zenbait	DET	DET	_	37	det	_	_
 37	alterazio	alterazio	NOUN	NOUN	Case=Abs	38	obj	_	_
@@ -20773,8 +20769,8 @@
 39	genituen	*edun	AUX	AUX	Mood=Ind	38	aux	_	_
 40	.	.	PUNCT	PUNCT	_	38	punct	_	_
 
-1	2004.eko	2004.	DET	DET	Case=Loc|Number=Sing	2	nmod	_	_
-2	martxoan	martxo	NOUN	NOUN	Case=Ine|Number=Sing	8	obl	_	BeginSeg=Yes
+1	2004.eko	2004.	DET	DET	Case=Loc|Number=Sing	2	nmod	_	BeginSeg=Yes
+2	martxoan	martxo	NOUN	NOUN	Case=Ine|Number=Sing	8	obl	_	_
 3	muskuilu	muskuilu	NOUN	NOUN	_	6	nmod	_	_
 4	hermafroditen	hermafrodita	ADJ	ADJ	Case=Gen|Number=Plur	3	amod	_	_
 5	ez-ohiko	ez-ohiko	ADJ	ADJ	_	6	amod	_	_
@@ -20787,8 +20783,8 @@
 12	Erreserban	erreserba	NOUN	NOUN	Case=Ine|Number=Sing	8	obl	_	_
 13	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
-1	Hau	hau	DET	DET	Case=Abs|Number=Sing	2	obl	_	_
-2	dela	izan	VERB	VERB	Aspect=Prog|Mood=Ind	15	advcl	_	BeginSeg=Yes
+1	Hau	hau	DET	DET	Case=Abs|Number=Sing	2	obl	_	BeginSeg=Yes
+2	dela	izan	VERB	VERB	Aspect=Prog|Mood=Ind	15	advcl	_ _
 3	eta	eta	CONJ	CONJ	_	15	punct	_	_
 4	,	,	PUNCT	PUNCT	_	7	punct	_	_
 5	UPV	UPV	NOUN	NOUN	_	7	nmod	_	_
@@ -20808,8 +20804,8 @@
 19	)	)	PUNCT	PUNCT	_	15	punct	_	_
 20	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
-1	Bere	bera	DET	DET	Case=Gen	2	nmod	_	_
-2	helburu	helburu	NOUN	NOUN	_	19	obl	_	BeginSeg=Yes
+1	Bere	bera	DET	DET	Case=Gen	2	nmod	_	BeginSeg=Yes
+2	helburu	helburu	NOUN	NOUN	_	19	obl	_	_
 3	nagusia	nagusi	ADJ	ADJ	Case=Abs|Number=Sing	2	amod	_	_
 4	,	,	PUNCT	PUNCT	_	19	punct	_	_
 5	Urdaibain	Urdaibai	NOUN	NOUN	Case=Ine|Number=Sing	19	obl	_	_
@@ -20829,14 +20825,14 @@
 19	zen	izan	VERB	VERB	Aspect=Prog|Mood=Ind	0	root	_	_
 20	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
-1	Proiektuaren	proiektu	NOUN	NOUN	Case=Gen|Number=Sing	2	nmod	_	_
-2	emaitzek	emaitza	NOUN	NOUN	Case=Erg|Number=Plur	3	nmod	_	BeginSeg=Yes
+1	Proiektuaren	proiektu	NOUN	NOUN	Case=Gen|Number=Sing	2	nmod	_	BeginSeg=Yes
+2	emaitzek	emaitza	NOUN	NOUN	Case=Erg|Number=Plur	3	nmod	_	_
 3	muskuiluetan	muskuilu	NOUN	NOUN	Case=Ine|Number=Plur	5	obl	_	_
 4	alterazioak	alterazio	NOUN	NOUN	Case=Abs|Number=Plur	5	obj	_	_
 5	baieztatu	baieztatu	VERB	VERB	Aspect=Perf|VerbForm=Part	0	root	_	_
 6	dituzte	*edun	AUX	AUX	Mood=Ind	5	aux	_	_
-7	eta	eta	CONJ	CONJ	_	19	cc	_	_
-8	Gernikako	Gernika	NOUN	NOUN	Case=Loc|Number=Sing	9	nmod	_	BeginSeg=Yes
+7	eta	eta	CONJ	CONJ	_	19	cc	_	BeginSeg=Yes
+8	Gernikako	Gernika	NOUN	NOUN	Case=Loc|Number=Sing	9	nmod	_	_
 9	hondakin-uren	hondakin-ur	NOUN	NOUN	Case=Gen|Number=Plur	19	obl	_	_
 10	araztegiaren	araztegi	NOUN	NOUN	Case=Gen|Number=Sing	11	nmod	_	_
 11	inguruko	inguru	NOUN	NOUN	Case=Loc|Number=Sing	12	nmod	_	_
@@ -20851,8 +20847,8 @@
 20	dute	*edun	AUX	AUX	Mood=Ind	19	aux	_	_
 21	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
-1	Gainera	gainera	CONJ	CONJ	_	27	advmod	_	_
-2	,	,	PUNCT	PUNCT	_	7	punct	_	BeginSeg=Yes
+1	Gainera	gainera	CONJ	CONJ	_	27	advmod	_	BeginSeg=Yes
+2	,	,	PUNCT	PUNCT	_	7	punct	_	_
 3	Bartzelonako	Bartzelona	NOUN	NOUN	Case=Loc|Number=Sing	4	nmod	_	_
 4	CS	cs	NOUN	NOUN	_	6	obl	_	_
 5	ICak	ic	ADJ	ADJ	Case=Erg|Number=Sing	4	amod	_	_
@@ -20883,8 +20879,8 @@
 30	behazunean	behazun	NOUN	NOUN	Case=Ine|Number=Sing	27	obl	_	_
 31	.	.	PUNCT	PUNCT	_	27	punct	_	_
 
-1	Beraz	beraz	CONJ	CONJ	_	22	advmod	_	_
-2	,	,	PUNCT	PUNCT	_	22	punct	_	BeginSeg=Yes
+1	Beraz	beraz	CONJ	CONJ	_	22	advmod	_	BeginSeg=Yes
+2	,	,	PUNCT	PUNCT	_	22	punct	_ _
 3	Urdaibain	Urdaibai	NOUN	NOUN	Case=Ine|Number=Sing	22	obl	_	_
 4	alkilfenolek	alkilfenol	NOUN	NOUN	Case=Erg|Number=Plur	5	obl	_	_
 5	izan	izan	VERB	VERB	_	7	acl	_	_
@@ -20908,8 +20904,8 @@
 23	du	*edun	AUX	AUX	Mood=Ind	22	aux	_	_
 24	.	.	PUNCT	PUNCT	_	22	punct	_	_
 
-1	Bertan	bertan	ADV	ADV	_	17	advmod	_	_
-2	,	,	PUNCT	PUNCT	_	17	punct	_	BeginSeg=Yes
+1	Bertan	bertan	ADV	ADV	_	17	advmod	_	BeginSeg=Yes
+2	,	,	PUNCT	PUNCT	_	17	punct	_	_
 3	gure	gu	PRON	PRON	Case=Gen|Number=Plur	4	nmod	_	_
 4	taldeak	talde	NOUN	NOUN	Case=Abs|Number=Plur	17	nsubj	_	_
 5	,	,	PUNCT	PUNCT	_	8	punct	_	_
@@ -20928,8 +20924,8 @@
 18	du	*edun	AUX	AUX	Mood=Ind	17	aux	_	_
 19	.	.	PUNCT	PUNCT	_	17	punct	_	_
 
-1	SICAES	SICAES	NOUN	NOUN	_	2	nmod	_	_
-2	proiektuaren	proiektu	NOUN	NOUN	Case=Gen|Number=Sing	3	nmod	_	BeginSeg=Yes
+1	SICAES	SICAES	NOUN	NOUN	_	2	nmod	_	BeginSeg=Yes
+2	proiektuaren	proiektu	NOUN	NOUN	Case=Gen|Number=Sing	3	nmod	_	_
 3	helburua	helburu	NOUN	NOUN	Case=Abs|Number=Sing	8	nmod	_	_
 4	nonilfenol-isomero	nonilfenol-isomero	NOUN	NOUN	_	7	nmod	_	_
 5	berrien	berri	ADJ	ADJ	Case=Gen|Number=Plur	4	amod	_	_
@@ -20939,8 +20935,8 @@
 9	da	izan	VERB	VERB	Aspect=Prog|Mood=Ind	0	root	_	_
 10	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
-1	Honetarako	hau	DET	DET	Case=Abs	19	nsubj	_	_
-2	,	,	PUNCT	PUNCT	_	5	punct	_	BeginSeg=Yes
+1	Honetarako	hau	DET	DET	Case=Abs	19	nsubj	_	BeginSeg=Yes
+2	,	,	PUNCT	PUNCT	_	5	punct	_	_
 3	estrogeno-hartzaileetan	estrogeno-hartzailea	NOUN	NOUN	Case=Ine|Number=Plur	4	obl	_	_
 4	oinarrituriko	oinarritu	VERB	VERB	Case=Loc|VerbForm=Part	5	advcl	_	_
 5	in	egin	VERB	VERB	VerbForm=Part	10	advcl	_	_
@@ -20961,8 +20957,8 @@
 20	dira	izan	AUX	AUX	Mood=Ind	19	aux	_	_
 21	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
-1	Aipatu	aipatu	VERB	VERB	VerbForm=Part	2	advcl	_	_
-2	azterketa	azterketa	NOUN	NOUN	_	8	obl	_	BeginSeg=Yes
+1	Aipatu	aipatu	VERB	VERB	VerbForm=Part	2	advcl	_	BeginSeg=Yes
+2	azterketa	azterketa	NOUN	NOUN	_	8	obl	_ _
 3	guztietan	guzti	DET	DET	Case=Ine|Number=Plur	2	det	_	_
 4	,	,	PUNCT	PUNCT	_	8	punct	_	_
 5	biomarkatzaileen	biomarkatzailea	NOUN	NOUN	Case=Gen|Number=Plur	8	nsubj	_	_
@@ -20971,8 +20967,8 @@
 8	erabiltzen	erabili	VERB	VERB	_	0	root	_	_
 9	dugu	*edun	AUX	AUX	Mood=Ind	8	aux	_	_
 10	,	,	PUNCT	PUNCT	_	8	punct	_	_
-11	tartean	tartean	ADV	ADV	_	8	advmod	_	_
-12	,	,	PUNCT	PUNCT	_	8	punct	_	BeginSeg=Yes
+11	tartean	tartean	ADV	ADV	_	8	advmod	_	BeginSeg=Yes
+12	,	,	PUNCT	PUNCT	_	8	punct	_	_
 13	bitelogenina	bitelogenin	NOUN	NOUN	Case=Abs|Number=Sing	17	obl	_	_
 14	(	(	PUNCT	PUNCT	_	13	punct	_	_
 15	emeen	eme	NOUN	NOUN	Case=Gen|Number=Plur	17	obl	_	_
@@ -21012,8 +21008,8 @@
 49	dira	izan	AUX	AUX	Mood=Ind	48	aux	_	_
 50	.	.	PUNCT	PUNCT	_	48	punct	_	_
 
-1	Gainera	gainera	CONJ	CONJ	_	13	advmod	_	_
-2	,	,	PUNCT	PUNCT	_	13	punct	_	BeginSeg=Yes
+1	Gainera	gainera	CONJ	CONJ	_	13	advmod	_	BeginSeg=Yes
+2	,	,	PUNCT	PUNCT	_	13	punct	_	_
 3	hormona-hartzaileen	hormona-hartzaile	NOUN	NOUN	Case=Gen|Number=Plur	13	nmod	_	_
 4	gene	gene	NOUN	NOUN	_	5	nmod	_	_
 5	reporter	reporter	NOUN	NOUN	_	6	nmod	_	_
@@ -21027,8 +21023,8 @@
 13	vitro	vitro	NOUN	NOUN	Case=Abs	0	root	_	_
 14	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
-1	Tresna	tresna	NOUN	NOUN	_	4	nmod	_	_
-2	hauek	hauek	DET	DET	Case=Abs|Number=Plur	1	det	_	BeginSeg=Yes
+1	Tresna	tresna	NOUN	NOUN	_	4	nmod	_	BeginSeg=Yes
+2	hauek	hauek	DET	DET	Case=Abs|Number=Plur	1	det	_	_
 3	biojarraipen	biojarraip	NOUN	NOUN	Case=Gen|Number=Plur	4	nmod	_	_
 4	programetan	programa	NOUN	NOUN	Case=Ine|Number=Plur	0	root	_	_
 5	eta	eta	CONJ	CONJ	_	24	cc	_	_
@@ -21040,8 +21036,8 @@
 11	erabil	erabili	VERB	VERB	_	24	xcomp	_	_
 12	daitezke	*edin	AUX	AUX	Mood=Pot	11	aux	_	_
 13	,	,	PUNCT	PUNCT	_	11	punct	_	_
-14	EB	EB	NOUN	NOUN	Case=Abs|Number=Sing	17	obl	_	_
-15	k	k	NOUN	NOUN	_	16	nmod	_	BeginSeg=Yes
+14	EB	EB	NOUN	NOUN	Case=Abs|Number=Sing	17	obl	_	BeginSeg=Yes
+15	k	k	NOUN	NOUN	_	16	nmod	_	_
 16	diruz	diru	NOUN	NOUN	Case=Ins	17	obl	_	_
 17	lagundutako	lagundu	VERB	VERB	Case=Loc|VerbForm=Part	20	advcl	_	_
 18	PRAG	praga	NOUN	NOUN	_	20	nmod	_	_
@@ -21055,8 +21051,8 @@
 26	bezala	bezala	ADV	ADV	_	24	mark	_	_
 27	.	.	PUNCT	PUNCT	_	24	punct	_	_
 
-1	Azkenik	azken	DET	DET	Case=Par	2	nsubj	_	_
-2	esan	esan	VERB	VERB	VerbForm=Part	0	root	_	BeginSeg=Yes
+1	Azkenik	azken	DET	DET	Case=Par	2	nsubj	_	BeginSeg=Yes
+2	esan	esan	VERB	VERB	VerbForm=Part	0	root	_	_
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
 4	berriki	berriki	ADV	ADV	_	6	nmod	_	_
 5	Kantabriako	Kantabria	NOUN	NOUN	Case=Loc|Number=Sing	6	nmod	_	_
@@ -21159,7 +21155,7 @@
 1	Hauen	hauek	DET	DET	Case=Gen|Number=Plur	2	det	_	BeginSeg=Yes
 2	artean	arte	NOUN	NOUN	Case=Ine|Number=Sing	16	obl	_	_
 3	,	,	PUNCT	PUNCT	_	12	punct	_	_
-4	karraskariak	karraskari	ADJ	ADJ	Case=Erg|Number=Sing	8	amod	_	BeginSeg=Yes
+4	karraskariak	karraskari	ADJ	ADJ	Case=Erg|Number=Sing	8	amod	_	_
 5	bezalako	bezalako	ADJ	ADJ	_	6	amod	_	_
 6	espezie	espezie	NOUN	NOUN	_	8	nmod	_	_
 7	sentikorretan	sentikor	ADJ	ADJ	Case=Ine|Number=Plur	6	amod	_	_
@@ -21237,7 +21233,7 @@
 21	.	.	PUNCT	PUNCT	_	20	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	11	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	11	advmod	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	11	advmod	_	_
 3	,	,	PUNCT	PUNCT	_	6	punct	_	_
 4	kartzinogenesi	kartzinogenesia	NOUN	NOUN	_	6	obl	_	_
 5	kimikoa	kimiko	ADJ	ADJ	Case=Abs|Number=Sing	4	amod	_	_
@@ -21377,7 +21373,7 @@
 1	Honetaz	hau	DET	DET	Case=Ins|Number=Sing	22	obl	_	BeginSeg=Yes
 2	gain	gain	NOUN	NOUN	Case=Abs	22	compound	_	_
 3	,	,	PUNCT	PUNCT	_	22	punct	_	_
-4	ekosistema	ekosistema	NOUN	NOUN	_	22	nmod	_	BeginSeg=Yes
+4	ekosistema	ekosistema	NOUN	NOUN	_	22	nmod	_	_
 5	itsastar	itsastar	ADJ	ADJ	_	4	amod	_	_
 6	eta	eta	CONJ	CONJ	_	22	cc	_	_
 7	estuarinoetan	estuario	NOUN	NOUN	Case=Ine|Number=Plur	22	obl	_	_
@@ -21421,7 +21417,7 @@
 18	,	,	PUNCT	PUNCT	_	17	punct	_	_
 19	azken	azken	DET	DET	_	20	det	_	BeginSeg=Yes
 20	hauek	hauek	DET	DET	Case=Abs|Number=Plur	21	obj	_	_
-21	OS	ostu	VERB	VERB	_	29	advcl	_	BeginSeg=Yes
+21	OS	ostu	VERB	VERB	_	29	advcl	_	_
 22	PAR	par	NOUN	NOUN	_	23	nmod	_	_
 23	Komisioak	komisio	NOUN	NOUN	Case=Abs|Number=Plur	29	nmod	_	_
 24	zein	zein	CONJ	CONJ	_	29	cc	_	_
@@ -21684,7 +21680,7 @@
 14	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
 1	Hala	hala	ADV	ADV	_	19	advmod	_	BeginSeg=Yes
-2	ere	ere	CONJ	CONJ	_	1	fixed	_	BeginSeg=Yes
+2	ere	ere	CONJ	CONJ	_	1	fixed	_	_
 3	,	,	PUNCT	PUNCT	_	19	punct	_	_
 4	zenbait	zenbait	DET	DET	_	5	det	_	_
 5	ikerketen	ikerketa	NOUN	NOUN	Case=Abs	19	nsubj	_	_
@@ -21831,13 +21827,13 @@
 29	datoz	etorri	VERB	VERB	Aspect=Prog|Mood=Ind	19	conj	_	_
 30	.	.	PUNCT	PUNCT	_	29	punct	_	_
 
-1	Transmisio	transmisio	NOUN	NOUN	_	3	nmod	_	_
-2	genetikoko	genetiko	ADJ	ADJ	Case=Loc|Number=Sing	1	nmod	_	BeginSeg=Yes
+1	Transmisio	transmisio	NOUN	NOUN	_	3	nmod	_	BeginSeg=Yes
+2	genetikoko	genetiko	ADJ	ADJ	Case=Loc|Number=Sing	1	nmod	_	_
 3	azterketak	azterketa	NOUN	NOUN	Case=Abs|Number=Plur	4	obj	_	_
 4	egiteko	egin	VERB	VERB	Case=Abs	14	advcl	_	_
 5	,	,	PUNCT	PUNCT	_	12	punct	_	_
-6	indibiduo	indibiduo	NOUN	NOUN	_	8	obl	_	_
-7	bakoitzean	bakoitz	ADJ	ADJ	Case=Ine|Number=Sing	6	amod	_	BeginSeg=Yes
+6	indibiduo	indibiduo	NOUN	NOUN	_	8	obl	_	BeginSeg=Yes
+7	bakoitzean	bakoitz	ADJ	ADJ	Case=Ine|Number=Sing	6	amod	_	_
 8	agertzen	agertu	VERB	VERB	_	10	acl	_	_
 9	diren	izan	AUX	AUX	Mood=Ind	8	aux	_	_
 10	konbinazio	konbinazio	NOUN	NOUN	_	12	obj	_	_
@@ -21847,8 +21843,8 @@
 14	dira	izan	VERB	VERB	Aspect=Prog|Mood=Ind	0	root	_	_
 15	.	.	PUNCT	PUNCT	_	14	punct	_	_
 
-1	Helburu	helburu	NOUN	NOUN	_	3	obj	_	_
-2	hori	hori	DET	DET	Case=Abs|Number=Sing	1	det	_	BeginSeg=Yes
+1	Helburu	helburu	NOUN	NOUN	_	3	obj	_	BeginSeg=Yes
+2	hori	hori	DET	DET	Case=Abs|Number=Sing	1	det	_	_
 3	betetzeko	bete	VERB	VERB	Case=Loc	4	advcl	_	_
 4	gaixoen	gaixo	NOUN	NOUN	Case=Gen|Number=Plur	20	obl	_	_
 5	eta	eta	CONJ	CONJ	_	20	punct	_	_
@@ -21870,8 +21866,8 @@
 21	da	izan	AUX	AUX	Mood=Ind	20	aux	_	_
 22	.	.	PUNCT	PUNCT	_	20	punct	_	_
 
-1	Gene	gene	NOUN	NOUN	_	2	nmod	_	_
-2	aldatzaileei	aldatzaile	NOUN	NOUN	Case=Dat|Number=Plur	3	obl	_	BeginSeg=Yes
+1	Gene	gene	NOUN	NOUN	_	2	nmod	_	BeginSeg=Yes
+2	aldatzaileei	aldatzaile	NOUN	NOUN	Case=Dat|Number=Plur	3	obl	_	_
 3	dagokionez	egon	VERB	VERB	Aspect=Prog|Case=Ins|Mood=Sub|Number=Plur	17	advcl	_	_
 4	,	,	PUNCT	PUNCT	_	17	punct	_	_
 5	orain	orain	ADV	ADV	_	17	advmod	_	_
@@ -21890,8 +21886,8 @@
 18	ditugu	*edun	AUX	AUX	Mood=Ind	17	aux	_	_
 19	.	.	PUNCT	PUNCT	_	17	punct	_	_
 
-1	Hainbat	hainbat	DET	DET	Case=Abs	2	det	_	_
-2	programa	programa	NOUN	NOUN	_	0	root	_	BeginSeg=Yes
+1	Hainbat	hainbat	DET	DET	Case=Abs	2	det	_	BeginSeg=Yes
+2	programa	programa	NOUN	NOUN	_	0	root	_	_
 3	estatistiko	estatistiko	ADJ	ADJ	Case=Abs	2	amod	_	_
 4	(	(	PUNCT	PUNCT	_	2	punct	_	_
 5	Haploview	Haploview	NOUN	NOUN	_	2	appos	_	_
@@ -21903,11 +21899,11 @@
 11	etab	etab.	X	X	_	5	conj	_	_
 12	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-1	)	)	PUNCT	PUNCT	_	2	punct	_	_
+1	)	)	PUNCT	PUNCT	_	2	punct	_	BeginSeg=Yes
 2	erabili	erabili	VERB	VERB	Aspect=Perf|VerbForm=Part	0	root	_	_
 3	ditugu	*edun	AUX	AUX	Mood=Ind	2	aux	_	_
-4	polimorfismo	polimorfismo	NOUN	NOUN	_	2	obl	_	_
-5	hauen	hauek	DET	DET	Case=Gen|Number=Plur	4	det	_	BeginSeg=Yes
+4	polimorfismo	polimorfismo	NOUN	NOUN	_	2	obl	_	BeginSeg=Yes
+5	hauen	hauek	DET	DET	Case=Gen|Number=Plur	4	det	_	_
 6	eta	eta	CONJ	CONJ	_	12	cc	_	_
 7	gaixotasunaren	gaixotasun	NOUN	NOUN	Case=Gen|Number=Sing	9	nmod	_	_
 8	agerpen	agerpen	NOUN	NOUN	_	9	nmod	_	_
@@ -21917,38 +21913,37 @@
 12	bilatzeko	bilatu	VERB	VERB	Case=Abs	2	conj	_	_
 13	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-1	Lortutako	lortu	VERB	VERB	Case=Loc|VerbForm=Part	2	advcl	_	_
-2	emaitzak	emaitza	NOUN	NOUN	Case=Abs|Number=Plur	4	nmod	_	BeginSeg=Yes
+1	Lortutako	lortu	VERB	VERB	Case=Loc|VerbForm=Part	2	advcl	_	BeginSeg=Yes
+2	emaitzak	emaitza	NOUN	NOUN	Case=Abs|Number=Plur	4	nmod	_	_
 3	etorkizun	etorkizun	NOUN	NOUN	_	4	nmod	_	_
 4	handikoak	handi	NOUN	NOUN	Case=Abs|Number=Plur	5	xcomp	_	_
 5	dira	izan	VERB	VERB	Aspect=Prog|Mood=Ind	0	root	_	_
 6	baina	baina	CONJ	CONJ	_	19	punct	_	_
-7	,	,	PUNCT	PUNCT	_	19	punct	_	BeginSeg=Yes
-8	gaixotasunaren	gaixotasun	NOUN	NOUN	Case=Gen|Number=Sing	9	nmod	_	_
+7	,	,	PUNCT	PUNCT	_	19	punct	_	_
+8	gaixotasunaren	gaixotasun	NOUN	NOUN	Case=Gen|Number=Sing	9	nmod	_	BeginSeg=Yes
 9	agerpen-adinean	agerpen-adin	NOUN	NOUN	Case=Ine|Number=Sing	10	obj	_	_
 10	duten	ukan	VERB	VERB	Aspect=Prog|Mood=Ind	12	acl	_	_
 11	benetako	benetako	ADJ	ADJ	_	12	amod	_	_
 12	ekarpena	ekarpen	NOUN	NOUN	Case=Abs|Number=Sing	13	nmod	_	_
 13	gaixoen	gaixo	NOUN	NOUN	Case=Gen|Number=Plur	14	nmod	_	_
-14	lagin	lagin	NOUN	NOUN	Case=Abs	19	obj	_	BeginSeg=Yes
-15	-	-	PUNCT	PUNCT	_	14	punct	_	_
+14	lagin	lagin	NOUN	NOUN	Case=Abs	19	obj	_	_
+15	-	-	PUNCT	PUNCT	_	14	punct	_	BeginSeg=Yes
 16	kopurua	kopuru	NOUN	NOUN	Case=Abs|Number=Sing	17	obl	_	_
 17	handituz	handitu	VERB	VERB	Case=Ins|VerbForm=Part	19	advcl	_	_
-18	egiaztatu	egiaztatu	VERB	VERB	VerbForm=Part	19	xcomp	_	_
-19	beharko	behar_izan	VERB	VERB	_	5	conj	_	BeginSeg=Yes
+18	egiaztatu	egiaztatu	VERB	VERB	VerbForm=Part	19	xcomp	_	BeginSeg=Yes
+19	beharko	behar_izan	VERB	VERB	_	5	conj	_	_
 20	da	izan	AUX	AUX	Mood=Ind	19	aux	_	_
 21	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
-1	Genomika	Genomika	NOUN	NOUN	_	4	nmod	_	_
-
 # newdoc id = ZTF7-GS_Garbi.RAW.txt.gold
-2	eta	eta	CONJ	CONJ	_	4	cc	_	BeginSeg=Yes
+1	Genomika	Genomika	NOUN	NOUN	_	4	nmod	_	BeginSeg=Yes
+2	eta	eta	CONJ	CONJ	_	4	cc	_	_
 3	animalien	animalia	NOUN	NOUN	Case=Gen|Number=Plur	4	nmod	_	_
 4	osasuna	osasun	NOUN	NOUN	Case=Abs|Number=Sing	0	root	_	_
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
-1	Genetika	genetika	NOUN	NOUN	_	9	nmod	_	_
-2	,	,	PUNCT	PUNCT	_	9	punct	_	BeginSeg=Yes
+1	Genetika	genetika	NOUN	NOUN	_	9	nmod	_	BeginSeg=Yes
+2	,	,	PUNCT	PUNCT	_	9	punct	_	_
 3	Antropologia	antropologia	NOUN	NOUN	_	9	nmod	_	_
 4	Fisikoa	fisiko	ADJ	ADJ	Case=Abs|Number=Sing	3	amod	_	_
 5	eta	eta	CONJ	CONJ	_	9	cc	_	_
@@ -21971,8 +21966,8 @@
 22	da	izan	VERB	VERB	Aspect=Prog|Mood=Ind	9	conj	_	_
 23	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
-1	Gure	gu	PRON	PRON	Case=Gen|Number=Plur	2	nmod	_	_
-2	helburu	helburu	NOUN	NOUN	_	6	nsubj	_	BeginSeg=Yes
+1	Gure	gu	PRON	PRON	Case=Gen|Number=Plur	2	nmod	_	BeginSeg=Yes
+2	helburu	helburu	NOUN	NOUN	_	6	nsubj	_	_
 3	zientifiko	zientifiko	ADJ	ADJ	_	2	amod	_	_
 4	nagusiak	nagusi	ADJ	ADJ	Case=Erg|Number=Sing	2	amod	_	_
 5	bi	bi	DET	DET	Case=Abs	6	obj	_	_
@@ -22000,9 +21995,9 @@
 27	azterketa	azterketa	NOUN	NOUN	Case=Abs|Number=Sing	24	obl	_	_
 28	.	.	PUNCT	PUNCT	_	24	punct	_	_
 
-1	Gaur	gaur	ADV	ADV	_	18	advmod	_	_
-2	egun	egun	ADV	ADV	_	1	fixed	_	BeginSeg=Yes
-3	Ardien	ardi	NOUN	NOUN	Case=Gen|Number=Plur	18	obl	_	BeginSeg=Yes
+1	Gaur	gaur	ADV	ADV	_	18	advmod	_	BeginSeg=Yes
+2	egun	egun	ADV	ADV	_	1	fixed	_	_
+3	Ardien	ardi	NOUN	NOUN	Case=Gen|Number=Plur	18	obl	_	_
 4	Biriki	biriki	NOUN	NOUN	_	5	nmod	_	_
 5	Adenomatosia	Adenomatosia	NOUN	NOUN	_	18	nmod	_	_
 6	eta	eta	CONJ	CONJ	_	18	punct	_	_
@@ -22016,8 +22011,8 @@
 14	zenbait	zenbait	DET	DET	_	15	det	_	_
 15	aspekturen	aspektu	NOUN	NOUN	Case=Abs	16	obj	_	_
 16	argitzean	argitu	VERB	VERB	Case=Ine	17	advcl	_	_
-17	lan	lan	NOUN	NOUN	Case=Abs	18	obj	_	_
-18	egiten	egin	VERB	VERB	_	0	root	_	BeginSeg=Yes
+17	lan	lan	NOUN	NOUN	Case=Abs	18	obj	_	BeginSeg=Yes
+18	egiten	egin	VERB	VERB	_	0	root	_	_
 19	dugu	*edun	AUX	AUX	Mood=Ind	18	aux	_	_
 20	,	,	PUNCT	PUNCT	_	18	punct	_	_
 21	eta	eta	CONJ	CONJ	_	18	cc	_	_
@@ -22033,8 +22028,8 @@
 31	irekieran	irekiera	NOUN	NOUN	Case=Ine|Number=Sing	21	nmod	_	_
 32	.	.	PUNCT	PUNCT	_	18	punct	_	_
 
-1	Ardien	ardi	NOUN	NOUN	Case=Gen|Number=Plur	4	obl	_	_
-2	Biriki	biriki	NOUN	NOUN	Case=Abs	4	obj	_	BeginSeg=Yes
+1	Ardien	ardi	NOUN	NOUN	Case=Gen|Number=Plur	4	obl	_	BeginSeg=Yes
+2	Biriki	biriki	NOUN	NOUN	Case=Abs	4	obj	_	_
 3	Adenomatosiari	Adenomatosiari	NOUN	NOUN	Case=Abs|Number=Sing	4	obl	_	_
 4	dagokiola	egon	VERB	VERB	Aspect=Prog|Mood=Ind	11	advcl	_	_
 5	,	,	PUNCT	PUNCT	_	4	punct	_	_
@@ -22059,26 +22054,26 @@
 24	ahal	ahal	NOUN	NOUN	Case=Abs	25	compound	_	_
 25	ditugun	ukan	VERB	VERB	Aspect=Prog|Mood=Ind	18	advcl	_	_
 26	,	,	PUNCT	PUNCT	_	42	punct	_	_
-27	eta	eta	CONJ	CONJ	_	42	cc	_	_
-28	gene	gene	NOUN	NOUN	_	42	obj	_	BeginSeg=Yes
+27	eta	eta	CONJ	CONJ	_	42	cc	_	BeginSeg=Yes
+28	gene	gene	NOUN	NOUN	_	42	obj	_	_
 29	hauen	hauek	DET	DET	Case=Gen|Number=Plur	28	det	_	_
 30	giza	giza	NOUN	NOUN	_	42	obl	_	_
 31	ortologoek	ortologo	ADJ	ADJ	Case=Erg|Number=Plur	30	amod	_	_
 32	ere	ere	CONJ	CONJ	_	42	advmod	_	_
 33	,	,	PUNCT	PUNCT	_	36	punct	_	_
-34	euren	eurak	PRON	PRON	Case=Gen|Number=Plur	35	nmod	_	_
-35	funtzionaltasuna	funtzionaltasun	NOUN	NOUN	Case=Abs|Number=Sing	36	obl	_	BeginSeg=Yes
+34	euren	eurak	PRON	PRON	Case=Gen|Number=Plur	35	nmod	_	BeginSeg=Yes
+35	funtzionaltasuna	funtzionaltasun	NOUN	NOUN	Case=Abs|Number=Sing	36	obl	_	_
 36	galdu	galdu	VERB	VERB	VerbForm=Part	40	advcl	_	_
 37	ondoren	ondoren	ADV	ADV	_	36	advcl	_	_
 38	,	,	PUNCT	PUNCT	_	40	punct	_	_
-39	tumoreak	tumore	NOUN	NOUN	Case=Abs|Number=Plur	40	obj	_	_
-40	eragin	eragin	VERB	VERB	_	42	acl	_	BeginSeg=Yes
+39	tumoreak	tumore	NOUN	NOUN	Case=Abs|Number=Plur	40	obj	_	BeginSeg=Yes
+40	eragin	eragin	VERB	VERB	_	42	acl	_	_
 41	dezaketen	*ezan	AUX	AUX	Mood=Pot	40	aux	_	_
 42	argitzeko	argitu	VERB	VERB	Case=Abs	11	conj	_	_
 43	.	.	PUNCT	PUNCT	_	42	punct	_	_
 
-1	Gainera	gainera	CONJ	CONJ	_	23	advmod	_	_
-2	,	,	PUNCT	PUNCT	_	14	punct	_	BeginSeg=Yes
+1	Gainera	gainera	CONJ	CONJ	_	23	advmod	_	BeginSeg=Yes
+2	,	,	PUNCT	PUNCT	_	14	punct	_	_
 3	ardien	ardi	NOUN	NOUN	Case=Gen|Number=Plur	4	nmod	_	_
 4	genoman	genoma	NOUN	NOUN	Case=Ine|Number=Sing	14	obl	_	_
 5	Jaagsiekte	Jaagsiekte	NOUN	NOUN	_	7	nmod	_	_
@@ -22103,30 +22098,30 @@
 24	du	*edun	AUX	AUX	Mood=Ind	23	aux	_	_
 25	.	.	PUNCT	PUNCT	_	23	punct	_	_
 
-1	Bestalde	bestalde	CONJ	CONJ	_	21	advmod	_	_
-2	,	,	PUNCT	PUNCT	_	21	punct	_	BeginSeg=Yes
+1	Bestalde	bestalde	CONJ	CONJ	_	21	advmod	_	BeginSeg=Yes
+2	,	,	PUNCT	PUNCT	_	21	punct	_	_
 3	zenbait	zenbait	DET	DET	_	4	det	_	_
-4	genomen	genoma	NOUN	NOUN	Case=Gen|Number=Plur	21	nsubj	_	BeginSeg=Yes
+4	genomen	genoma	NOUN	NOUN	Case=Gen|Number=Plur	21	nsubj	_	_
 5	sekuentziazio	sekuentziazio	NOUN	NOUN	_	6	nmod	_	_
 6	osoa	oso	ADJ	ADJ	Case=Abs|Number=Sing	7	obl	_	_
 7	dela	izan	VERB	VERB	Aspect=Prog|Mood=Ind	21	advcl	_	_
 8	eta	eta	CONJ	CONJ	_	21	punct	_	_
-9	dagoen	egon	VERB	VERB	Aspect=Prog|Mood=Ind	13	advcl	_	_
-10	informazio	informazio	NOUN	NOUN	_	13	obl	_	BeginSeg=Yes
+9	dagoen	egon	VERB	VERB	Aspect=Prog|Mood=Ind	13	advcl	_	BeginSeg=Yes
+10	informazio	informazio	NOUN	NOUN	_	13	obl	_	_
 11	genomiko	genomi	ADJ	ADJ	Case=Loc|Number=Sing	10	nmod	_	_
 12	eskuragarrian	eskuragarri	ADJ	ADJ	Case=Ine|Number=Sing	10	amod	_	_
 13	oinarrituta	oinarritu	VERB	VERB	VerbForm=Part	21	advcl	_	_
 14	,	,	PUNCT	PUNCT	_	13	punct	_	_
-15	zenbai	zenbai	NOUN	NOUN	_	16	nmod	_	_
-16	espezieren	espezie	NOUN	NOUN	Case=Gen	17	nmod	_	BeginSeg=Yes
+15	zenbai	zenbai	NOUN	NOUN	_	16	nmod	_	BeginSeg=Yes
+16	espezieren	espezie	NOUN	NOUN	Case=Gen	17	nmod	_	_
 17	analisi	analisi	NOUN	NOUN	_	19	obl	_	_
 18	genomikoa	genomi	ADJ	ADJ	Case=Abs|Number=Sing	17	amod	_	_
 19	egiten	egin	VERB	VERB	Case=Ine	21	advcl	_	_
 20	ari	ari	_	_	_	21	punct	_	_
 21	gara	izan	VERB	VERB	Aspect=Prog|Mood=Ind	0	root	_	_
 22	,	,	PUNCT	PUNCT	_	21	punct	_	_
-23	genoma	genoma	NOUN	NOUN	_	25	obl	_	_
-24	horietan	horiek	DET	DET	Case=Ine|Number=Plur	23	det	_	BeginSeg=Yes
+23	genoma	genoma	NOUN	NOUN	_	25	obl	_	BeginSeg=Yes
+24	horietan	horiek	DET	DET	Case=Ine|Number=Plur	23	det	_	_
 25	tartekatutako	tartekatu	VERB	VERB	Case=Loc|VerbForm=Part	26	advcl	_	_
 26	elementu	elementu	NOUN	NOUN	_	28	obj	_	_
 27	erretrobirikoak	erretrobiri	ADJ	ADJ	Case=Abs|Number=Plur	26	amod	_	_
@@ -22134,11 +22129,11 @@
 29	asmoz	asmo	NOUN	NOUN	Case=Ins	21	obl	_	_
 30	.	.	PUNCT	PUNCT	_	21	punct	_	_
 
-1	Detektatu	detektatu	VERB	VERB	VerbForm=Part	12	advcl	_	_
-2	ondoren	ondoren	ADV	ADV	_	1	advcl	_	BeginSeg=Yes
+1	Detektatu	detektatu	VERB	VERB	VerbForm=Part	12	advcl	_	BeginSeg=Yes
+2	ondoren	ondoren	ADV	ADV	_	1	advcl	_	_
 3	,	,	PUNCT	PUNCT	_	1	punct	_	_
-4	euren	eurak	PRON	PRON	Case=Gen|Number=Plur	5	nmod	_	_
-5	dinamika	dinamika	NOUN	NOUN	_	12	obl	_	BeginSeg=Yes
+4	euren	eurak	PRON	PRON	Case=Gen|Number=Plur	5	nmod	_	BeginSeg=Yes
+5	dinamika	dinamika	NOUN	NOUN	_	12	obl	_	_
 6	ebolutiboa	ebolutibo	ADJ	ADJ	Case=Abs|Number=Sing	5	amod	_	_
 7	,	,	PUNCT	PUNCT	_	12	punct	_	_
 8	adierazpena	adierazpen	NOUN	NOUN	Case=Abs|Number=Sing	12	obl	_	_
@@ -22148,15 +22143,15 @@
 12	karakterizatuko	karakterizatu	VERB	VERB	Aspect=Pro|VerbForm=Part	0	root	_	_
 13	ditugu	*edun	AUX	AUX	Mood=Ind	12	aux	_	_
 14	,	,	PUNCT	PUNCT	_	12	punct	_	_
-15	beti	beti	ADV	ADV	_	19	advmod	_	_
-16	ere	ere	CONJ	CONJ	_	19	advmod	_	BeginSeg=Yes
-17	metodo	metodo	NOUN	NOUN	_	19	obl	_	BeginSeg=Yes
+15	beti	beti	ADV	ADV	_	19	advmod	_	BeginSeg=Yes
+16	ere	ere	CONJ	CONJ	_	19	advmod	_ _
+17	metodo	metodo	NOUN	NOUN	_	19	obl	_	_
 18	bioinformatikoak	bioinformatikoa	ADJ	ADJ	Case=Abs|Number=Plur	17	amod	_	_
 19	erabiliz	erabili	VERB	VERB	Case=Ins|VerbForm=Part	12	appos	_	_
 20	.	.	PUNCT	PUNCT	_	19	punct	_	_
 
-1	Azkenik	azken	DET	DET	Case=Par	0	root	_	_
-2	,	,	PUNCT	PUNCT	_	3	punct	_	BeginSeg=Yes
+1	Azkenik	azken	DET	DET	Case=Par	0	root	_	BeginSeg=Yes
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
 3	badugu	ukan	VERB	VERB	Aspect=Prog|Mood=Ind	1	conj	_	_
 4	helburu	helburu	NOUN	NOUN	_	3	obj	_	_
 5	teknologiko	teknologiko	ADJ	ADJ	_	4	amod	_	_
@@ -22180,8 +22175,8 @@
 23	ere	ere	CONJ	CONJ	_	16	conj	_	_
 24	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
-1	Atal	atal	NOUN	NOUN	_	7	nmod	_	_
-2	hau	hau	DET	DET	Case=Abs|Number=Sing	1	det	_	BeginSeg=Yes
+1	Atal	atal	NOUN	NOUN	_	7	nmod	_	BeginSeg=Yes
+2	hau	hau	DET	DET	Case=Abs|Number=Sing	1	det	_	_
 3	erreaktibo	erreaktibo	NOUN	NOUN	_	7	nmod	_	_
 4	eta	eta	CONJ	CONJ	_	7	cc	_	_
 5	laborategiko	laborategi	NOUN	NOUN	Case=Loc|Number=Sing	6	nmod	_	_
