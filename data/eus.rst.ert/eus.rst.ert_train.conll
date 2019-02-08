@@ -17493,7 +17493,7 @@
 10	Centro	zentro	NOUN	NOUN	_	19	nmod	_	_
 11	Mixto	misto	ADJ	ADJ	Case=Abs	10	amod	_	_
 12	CS	Cs	NOUN	NOUN	_	13	nmod	_	_
-13	ICÃÂ¢E	ICÃÂ¢E	NOUN	NOUN	_	19	nmod	_	_
+13	IC	IC	NOUN	NOUN	_	19	nmod	_	_
 14	"	"	PUNCT	PUNCT	_	19	punct	_	_
 15	UPV	UPV	NOUN	NOUN	_	16	nmod	_	_
 16	erakundeetako	erakunde	NOUN	NOUN	Case=Loc|Number=Plur	19	nmod	_	_
@@ -18675,23 +18675,23 @@
 9	onddo-komunitateak	onddo-komunitate	NOUN	NOUN	Case=Erg|Number=Sing	10	obl	_	_
 10	aztertzeko	aztertu	VERB	VERB	Case=Loc	11	advcl	_	_
 11	helburuarekin	helburu	NOUN	NOUN	Case=Com|Number=Sing	1	conj	_	_
-12	"	"	PUNCT	PUNCT	_	13	punct	_	BeginSeg=Yes
-13	Analisis	lisis	NOUN	NOUN	_	16	nsubj	_	_
-14	de	de	X	X	_	15	flat	_	_
-15	la	la	NOUN	NOUN	_	17	flat	_	_
+12	"	"	PUNCT	PUNCT	_	11	punct	_	BeginSeg=Yes
+13	Analisis	analisis	NOUN	NOUN	_	12	nsubj	_	_
+14	de	de	X	X	_	13	flat	_	_
+15	la	la	NOUN	NOUN	_	14	flat	_	_
 16	biodiversidad	biodiversidad	ADJ	ADJ	_	15	amod	_	_
-17	de	de	X	X	_	14	flat	_	_
+17	de	de	X	X	_	16	flat	_	_
 18	los	los	NOUN	NOUN	_	17	flat	_	_
 19	macromicetos	macromicetos	ADJ	ADJ	_	18	amod	_	_
-20	de	de	X	X	_	18	flat	_	_
+20	de	de	X	X	_	19	flat	_	_
 21	la	la	NOUN	NOUN	_	20	flat	_	_
 22	Reserva	Reserva	NOUN	NOUN	_	21	flat	_	_
 23	de	de	X	X	_	22	flat	_	_
-24	la	la	NOUN	NOUN	_	25	nmod	_	_
-25	Biosfera	biosfera	NOUN	NOUN	Case=Abs|Number=Sing	27	nmod	_	_
-26	de	de	X	X	_	27	nmod	_	_
-28	Urdaibai	Urdaibai	NOUN	NOUN	Case=Abs|Number=Sing	23	flat	_	_
-29	.	.	PUNCT	PUNCT	_	27	punct	_	_
+24	la	la	NOUN	NOUN	_	23	nmod	_	_
+25	Biosfera	biosfera	NOUN	NOUN	Case=Abs|Number=Sing	24	nmod	_	_
+26	de	de	X	X	_	25	nmod	_	_
+27	Urdaibai	Urdaibai	NOUN	NOUN	Case=Abs|Number=Sing	26	flat	_	_
+28	.	.	PUNCT	PUNCT	_	27	punct	_	_
 
 1	"	"	PUNCT	PUNCT	_	14	punct	_	BeginSeg=Yes
 2	influencia	influenci	ADJ	ADJ	Case=Abs|Number=Sing	14	obl	_	_
@@ -22193,3 +22193,4 @@
 16	oinarritzen	oinarritu	VERB	VERB	_	10	conj	_	_
 17	da	izan	AUX	AUX	Mood=Ind	16	aux	_	_
 18	.	.	PUNCT	PUNCT	_	16	punct	_	_
+
