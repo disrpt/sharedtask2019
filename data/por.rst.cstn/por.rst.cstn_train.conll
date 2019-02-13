@@ -2188,7 +2188,7 @@
 7	de	de	ADP	_	_	9	case	_	_
 8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	TJ	TJ	PROPN	_	Gender=Masc|Number=Sing	6	nmod	_	_
-10	(	(	PUNCT	_	_	11	punct	_	BeginSeg=Yes|BeginSeg=Yes|SpaceAfter=No
+10	(	(	PUNCT	_	_	11	punct	_	BeginSeg=Yes|SpaceAfter=No
 11	Tribunal	Tribunal	PROPN	_	Gender=Masc|Number=Sing	9	appos	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	Justiça	Justiça	PROPN	_	Number=Sing	11	nmod	_	SpaceAfter=No
@@ -5245,7 +5245,7 @@
 18	Supremo	Supremo	PROPN	_	Gender=Masc|Number=Sing	12	obl	_	_
 19	Tribunal	Tribunal	PROPN	_	Number=Sing	18	flat:name	_	_
 20	Federal	Federal	PROPN	_	Number=Sing	18	flat:name	_	_
-21	(	(	PUNCT	_	_	22	punct	_	BeginSeg=Yes|BeginSeg=Yes|SpaceAfter=No
+21	(	(	PUNCT	_	_	22	punct	_	BeginSeg=Yes|SpaceAfter=No
 22	STF	STF	PROPN	_	Gender=Masc|Number=Sing	18	appos	_	SpaceAfter=No
 23	)	)	PUNCT	_	_	22	punct	_	_
 24	para	para	ADP	_	_	25	mark	_	BeginSeg=Yes
@@ -5537,7 +5537,7 @@
 47	de	de	ADP	_	_	49	case	_	_
 48	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	49	det	_	_
 49	lobista	lobista	NOUN	_	Gender=Masc|Number=Sing	46	nmod	_	_
-50	para	para	ADP	_	_	51	mark	_	BeginSeg=Yes|BeginSeg=Yes
+50	para	para	ADP	_	_	51	mark	_	BeginSeg=Yes
 51	pagar	pagar	VERB	_	VerbForm=Inf	49	acl	_	_
 52	despesas	despesa	NOUN	_	Gender=Fem|Number=Plur	51	obj	_	_
 53	pessoais	pessoal	ADJ	_	Gender=Fem|Number=Plur	52	amod	_	SpaceAfter=No
@@ -8226,7 +8226,7 @@
 
 # sent_id = 2
 # text = A explosão, cujas causas ainda são desconhecidas, aconteceu às 10h40 (3h40 em Brasília) no mercado Cherkizov, localizado no nordeste da capital russa.
-1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes|BeginSeg=Yes
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	explosão	explosão	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	cujas	cujo	DET	_	Gender=Fem|Number=Plur|PronType=Rel	5	det	_	BeginSeg=Yes
@@ -13550,7 +13550,7 @@
 
 # sent_id = 2
 # text = Lula disse que, na próxima semana, quando voltar da viagem que está fazendo pela América Central, irá começar a anunciar as obras de infra-estrutura em transporte como estradas, ferrovias, gasodutos a portos e aeroportos.
-1	Lula	Lula	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	BeginSeg=Yes|BeginSeg=Yes|BeginSeg=Yes
+1	Lula	Lula	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	BeginSeg=Yes|BeginSeg=Yes
 2	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	_	_	26	mark	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	_
@@ -15293,7 +15293,7 @@
 
 # sent_id = 3
 # text = Lula disse que irá definir quais áreas serão destinadas à produção de etanol no País.
-1	Lula	Lula	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	BeginSeg=Yes|BeginSeg=Yes
+1	Lula	Lula	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	BeginSeg=Yes
 2	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	_	_	5	mark	_	_
 4	irá	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	BeginSeg=Yes
@@ -15353,7 +15353,7 @@
 
 # sent_id = 5
 # text = Segundo Lula, o mundo precisa urgentemente de uma nova matriz energética.
-1	Segundo	segundo	ADP	_	_	2	case	_	BeginSeg=Yes|BeginSeg=Yes
+1	Segundo	segundo	ADP	_	_	2	case	_	BeginSeg=Yes
 2	Lula	Lula	PROPN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	BeginSeg=Yes
@@ -15427,7 +15427,7 @@
 34	crianças	criança	NOUN	_	Gender=Fem|Number=Plur	30	conj	_	SpaceAfter=No
 35	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
 36	,	,	PUNCT	_	_	25	punct	_	_
-37	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	BeginSeg=Yes|BeginSeg=Yes|SpaceAfter=No
+37	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	BeginSeg=Yes|SpaceAfter=No
 38	.	.	PUNCT	_	_	37	punct	_	_
 
 # sent_id = 8
@@ -16049,7 +16049,7 @@
 19	Bissau	Bissau	PROPN	_	Number=Sing	18	flat:name	_	SpaceAfter=No
 20	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	3	punct	_	_
-22	emendou	emendar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	BeginSeg=Yes|BeginSeg=Yes|SpaceAfter=No
+22	emendou	emendar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	BeginSeg=Yes|SpaceAfter=No
 23	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # sent_id = 28
@@ -21258,7 +21258,7 @@
 36	Emenda	emenda	PROPN	_	Number=Sing	34	nmod	_	_
 37	Constitucional	Constitucional	PROPN	_	Number=Sing	36	flat:name	_	SpaceAfter=No
 38	)	)	PUNCT	_	_	34	punct	_	_
-39	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	40	nsubj	_	BeginSeg=Yes|BeginSeg=Yes
+39	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	40	nsubj	_	BeginSeg=Yes
 40	prorroga	prorrogar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	acl:relcl	_	_
 41	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	_
 42	cobrança	cobrança	NOUN	_	Gender=Fem|Number=Sing	40	obj	_	_
@@ -24087,7 +24087,7 @@
 24	pista	pista	NOUN	_	Gender=Fem|Number=Sing	21	obl	_	_
 25	de	de	ADP	_	_	26	case	_	_
 26	Congonhas	Congonhas	PROPN	_	Gender=Fem|Number=Plur	24	nmod	_	_
-27	(	(	PUNCT	_	_	28	punct	_	BeginSeg=Yes|BeginSeg=Yes|SpaceAfter=No
+27	(	(	PUNCT	_	_	28	punct	_	BeginSeg=Yes|SpaceAfter=No
 28	zona	zona	NOUN	_	Gender=Fem|Number=Sing	26	appos	_	_
 29	sul	sul	ADJ	_	Gender=Fem|Number=Sing	28	amod	_	_
 30	de	de	ADP	_	_	31	case	_	_
@@ -31406,7 +31406,7 @@
 3	em	em	ADP	_	_	4	case	_	_
 4	Osasco	Osasco	PROPN	_	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	_
-6	Lula	Lula	PROPN	_	Gender=Masc|Number=Sing	7	nsubj	_	BeginSeg=Yes|BeginSeg=Yes
+6	Lula	Lula	PROPN	_	Gender=Masc|Number=Sing	7	nsubj	_	BeginSeg=Yes
 7	disse	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	que	que	SCONJ	_	_	11	mark	_	_
 9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	BeginSeg=Yes
@@ -36677,7 +36677,7 @@
 2	senador	senador	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	_
 3	João	João	PROPN	_	Gender=Masc|Number=Sing	2	appos	_	_
 4	Pedro	Pedro	PROPN	_	Number=Sing	3	flat:name	_	_
-5	(	(	PUNCT	_	_	6	punct	_	BeginSeg=Yes|BeginSeg=Yes|SpaceAfter=No
+5	(	(	PUNCT	_	_	6	punct	_	BeginSeg=Yes|SpaceAfter=No
 6	PT-AM	PT-AM	PROPN	_	Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No
 7	)	)	PUNCT	_	_	6	punct	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
@@ -36836,7 +36836,7 @@
 18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	Seguro	seguro	PROPN	_	Gender=Masc|Number=Sing	15	nmod	_	_
 20	Social	Social	PROPN	_	Number=Sing	19	flat:name	_	_
-21	(	(	PUNCT	_	_	22	punct	_	BeginSeg=Yes|BeginSeg=Yes|SpaceAfter=No
+21	(	(	PUNCT	_	_	22	punct	_	BeginSeg=Yes|SpaceAfter=No
 22	INSS	INSS	PROPN	_	Gender=Masc|Number=Sing	15	appos	_	SpaceAfter=No
 23	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	5	punct	_	_
@@ -37293,7 +37293,7 @@
 
 # sent_id = 21
 # text = A posição de Quintanilha tem o apoio de alguns senadores, mas não é bem vista pela oposição.
-1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes|BeginSeg=Yes
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	posição	posição	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Quintanilha	Quintanilha	PROPN	_	Gender=Masc|Number=Sing	2	nmod	_	_
@@ -37304,7 +37304,7 @@
 9	alguns	algum	DET	_	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
 10	senadores	senador	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	16	punct	_	_
-12	mas	mas	CCONJ	_	_	16	cc	_	BeginSeg=Yes|BeginSeg=Yes
+12	mas	mas	CCONJ	_	_	16	cc	_	BeginSeg=Yes
 13	não	não	ADV	_	Polarity=Neg	16	advmod	_	_
 14	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	_	_
 15	bem	bem	ADV	_	_	16	advmod	_	_
@@ -42428,7 +42428,7 @@
 
 # sent_id = 15
 # text = Um minuto depois, o craque do Braça deu um lindo drible no equatoriano e levou a torcida ao delírio.
-1	Um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes|BeginSeg=Yes
+1	Um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	minuto	minuto	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
 3	depois	depois	ADV	_	_	2	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_
@@ -44977,7 +44977,7 @@
 
 # sent_id = 4
 # text = O PSDB e o DEM, por exemplo, já apresentaram requerimentos pedindo o adiamento da discussão sobre a proposta de prorrogação da CPMF por dez e nove sessões, respectivamente.
-1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes|BeginSeg=Yes
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	PSDB	PSDB	PROPN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
 3	e	e	CCONJ	_	_	5	cc	_	_
 4	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_

@@ -464,7 +464,7 @@
 10	a	a	ADP	_	_	12	case	_	_
 11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	PDS	PDS	PROPN	_	Gender=Masc|Number=Sing	8	obl	_	_
-13	e	e	CCONJ	_	_	21	cc	_	BeginSeg=Yes|BeginSeg=Yes|SpaceAfter=No
+13	e	e	CCONJ	_	_	21	cc	_	BeginSeg=Yes|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	_
 15	em	em	ADP	_	_	16	case	_	_
 16	1984	1984	NUM	_	NumType=Card	21	obl	_	SpaceAfter=No
@@ -1540,7 +1540,7 @@
 15	Antônio	Antônio	PROPN	_	Gender=Masc|Number=Sing	14	appos	_	_
 16	Carlos	Carlos	PROPN	_	Number=Sing	15	flat:name	_	_
 17	Magalhães	Magalhães	PROPN	_	Number=Sing	15	flat:name	_	_
-18	(	(	PUNCT	_	_	19	punct	_	BeginSeg=Yes|BeginSeg=Yes|SpaceAfter=No
+18	(	(	PUNCT	_	_	19	punct	_	BeginSeg=Yes|SpaceAfter=No
 19	DEM-BA	DEM-BA	PROPN	_	Gender=Fem|Number=Sing	14	appos	_	SpaceAfter=No
 20	)	)	PUNCT	_	_	19	punct	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	_
@@ -6136,7 +6136,7 @@
 12	de	de	ADP	_	_	14	case	_	_
 13	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_
 14	terça-feira	terça-feira	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
-15	(	(	PUNCT	_	_	16	punct	_	BeginSeg=Yes|BeginSeg=Yes|SpaceAfter=No
+15	(	(	PUNCT	_	_	16	punct	_	BeginSeg=Yes|SpaceAfter=No
 16	24	24	NUM	_	NumType=Card	14	appos	_	SpaceAfter=No
 17	)	)	PUNCT	_	_	16	punct	_	_
 18-19	no	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -6631,7 +6631,7 @@
 44	de	de	ADP	_	_	45	case	_	_
 45	São	São	PROPN	_	Number=Sing	42	nmod	_	_
 46	Paulo	Paulo	PROPN	_	Number=Sing	45	flat:name	_	_
-47	(	(	PUNCT	_	_	48	punct	_	BeginSeg=Yes|BeginSeg=Yes|SpaceAfter=No
+47	(	(	PUNCT	_	_	48	punct	_	BeginSeg=Yes|SpaceAfter=No
 48	Cumbica	Cumbica	PROPN	_	Gender=Fem|Number=Sing	42	appos	_	SpaceAfter=No
 49	)	)	PUNCT	_	_	48	punct	_	SpaceAfter=No
 50	,	,	PUNCT	_	_	52	punct	_	_
