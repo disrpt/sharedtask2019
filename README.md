@@ -44,9 +44,9 @@ See the README files in individual data directories for more details on each dat
 | eng.pdtb.pdtb | eng | pdtb | 1,061,222 | 44,563 | 1,992 | 39,768 | 1,703 | 79 | 46,266 | 1,100,990 | 2,071 | Conn | yes | no | UD (gold) | no |
 | eng.rst.gum | eng | rst | 67,098 | 3,600 | 78 | 15,593 | 784 | 18 | 4,384 | 82,691 | 96 | EDU | no | yes | UD (gold) | no |
 | eng.rst.rstdt | eng | rst | 166,849 | 6,672 | 309 | 17,309 | 717 | 38 | 7,389 | 184,158 | 347 | EDU | yes | no | UD (gold) | no |
-| eng.sdrt.stac | eng | sdrt | 36,879 | 7,365 | 29 | 4,787 | 941 | 6 | 8,306 | 41,666 | 35 | EDU | no | no | UD | no |
-| eus.rst.ert | eus | rst | 21,125 | 991 | 84 | 7,533 | 350 | 28 | 1,341 | 28,658 | 112 | EDU | no | no | other | no |
-| fra.sdrt.annodis | fra | sdrt | 20,583 | 807 | 64 | 4,467 | 208 | 11 | 1,015 | 25,050 | 75 | EDU | no | no | UD | no |
+| eng.sdrt.stac | eng | sdrt | 36,445 | 7,689 | 29 | 4,747 | 981 | 6 | 8,670 | 41,192 | 35 | EDU | no | no | UD | no |
+| eus.rst.ert | eus | rst | 21,122 | 990 | 84 | 7,533 | 350 | 28 | 1,340 | 28,655 | 112 | EDU | no | no | other | no |
+| fra.sdrt.annodis | fra | sdrt | 22,278 | 880 | 64 | 4,987 | 227 | 11 | 1,107 | 27,265 | 75 | EDU | no | no | UD | no |
 | nld.rst.nldt | nld | rst | 17,566 | 1,202 | 56 | 3,789 | 257 | 12 | 1,459 | 21,355 | 68 | EDU | no | no | UD | no |
 | por.rst.cstn | por | rst | 44,808 | 1,595 | 110 | 6,233 | 232 | 14 | 1,827 | 51,041 | 124 | EDU | no | yes | UD | yes |
 | rus.rst.rrt | rus | rst | 214,484 | 9,859 | 140 | 29,412 | 1,327 | 19 | 11,186 | 243,896 | 159 | EDU | no | no | UD | no |
