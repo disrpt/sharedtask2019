@@ -123,19 +123,18 @@
 5	too	too	ADV	RB	_	4	advmod	_	_
 6	soon	soon	ADV	RB	Degree=Pos	4	advmod	_	_
 
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	BeginSeg=Yes
-2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	BeginSeg=Yes
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	all	all	ADV	RB	_	5	advmod	_	_
 4	,	,	PUNCT	,	_	5	punct	_	_
-5	good	good	ADJ	JJ	Degree=Pos	0	root	_	BeginSeg=Yes
+5	good	good	ADJ	JJ	Degree=Pos	7	advcl	_	BeginSeg=Yes
 6	,	,	PUNCT	,	_	7	punct	_	_
-7	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	5	parataxis	_	BeginSeg=Yes
+7	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	BeginSeg=Yes
 8	's	's	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	obj	_	_
 9	get	get	VERB	VB	VerbForm=Inf	7	xcomp	_	_
-10	rolling	rolling	NOUN	NN	Number=Sing	9	obj	_	_
-11	!	!	PUNCT	.	_	5	punct	_	_
-12	:	:	PUNCT	:	_	5	punct	_	BeginSeg=Yes
-13	)	)	PUNCT	-RRB-	_	5	punct	_	_
+10	rolling	roll	VERB	VBG	VerbForm=Ger	9	xcomp	_	_
+11	!	!	PUNCT	.	_	7	punct	_	_
+12	:)	:)	SYM	NFP	_	7	discourse	_	BeginSeg=Yes
 
 1	Remember	remember	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	BeginSeg=Yes
 2	that	that	SCONJ	IN	_	8	mark	_	_
@@ -156,8 +155,7 @@
 4	about	about	ADP	IN	_	5	case	_	_
 5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obl	_	_
 6	.	.	PUNCT	.	_	1	punct	_	_
-7	:*	:*	PUNCT	.	_	1	punct	_	BeginSeg=Yes
-8	)	)	PUNCT	-RRB-	_	1	punct	_	_
+7	:*)	:*)	PUNCT	.	_	1	punct	_	BeginSeg=Yes
 
 1	ok	ok	ADJ	JJ	Degree=Pos	0	root	_	BeginSeg=Yes
 
@@ -2230,8 +2228,7 @@
 7	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	5	ccomp	_	_
 
-1	:	:	PUNCT	:	_	0	root	_	BeginSeg=Yes
-2	)	)	PUNCT	-RRB-	_	1	punct	_	_
+1	:)	:)	SYM	NFP	_	0	root	_	BeginSeg=Yes
 
 1	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	BeginSeg=Yes
 2	anyone	anyone	PRON	NN	Number=Sing	3	nsubj	_	_
@@ -3194,8 +3191,7 @@
 1	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	BeginSeg=Yes
 2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	_
 3	swap	swap	VERB	VB	VerbForm=Inf	0	root	_	_
-4	;	;	PUNCT	,	_	3	punct	_	_
-5	)	)	PUNCT	-RRB-	_	3	punct	_	_
+4	;)	;)	PUNCT	-RRB-	_	3	punct	_	_
 
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	BeginSeg=Yes
 2	'll	will	AUX	MD	VerbForm=Fin	4	aux	_	_
@@ -3285,11 +3281,10 @@
 6	last	last	ADJ	JJ	Degree=Pos	7	amod	_	_
 7	seat	seat	NOUN	NN	Number=Sing	4	obj	_	_
 
-1	alright	alright	ADJ	JJ	Degree=Pos	3	amod	_	BeginSeg=Yes
+1	alright	alright	ADJ	JJ	Degree=Pos	0	root	_	BeginSeg=Yes
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	thanks	thanks	NOUN	NN	Number=Sing	0	root	_	BeginSeg=Yes
-4	:	:	PUNCT	:	_	3	punct	_	_
-5	)	)	PUNCT	-RRB-	_	3	punct	_	_
+3	thanks	thanks	NOUN	NN	Number=Sing	1	discourse	_	BeginSeg=Yes
+4	:)	:)	SYM	NFP	_	1	discourse	_	_
 
 1	the	the	DET	DT	Definite=Def|PronType=Art	2	det	_	BeginSeg=Yes
 2	name	name	NOUN	NN	Number=Sing	3	nsubj	_	_
@@ -3699,8 +3694,7 @@
 4	not	not	PART	RB	_	6	advmod	_	_
 5	that	that	ADV	RB	_	6	advmod	_	_
 6	clever	clever	ADV	RB	_	0	root	_	_
-7	;	;	PUNCT	,	_	6	punct	_	_
-8	)	)	PUNCT	-RRB-	_	6	punct	_	_
+7	;)	;)	SYM	NFP	_	6	discourse	_	_
 
 1	anyone	anyone	PRON	NN	Number=Sing	2	nsubj	_	BeginSeg=Yes
 2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -3776,8 +3770,7 @@
 3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	both	both	ADV	RB	_	5	advmod	_	_
 5	enemies	enemy	NOUN	NNS	Number=Plur	0	root	_	_
-6	;	;	PUNCT	,	_	5	punct	_	_
-7	)	)	PUNCT	-RRB-	_	5	punct	_	_
+6	;)	;)	PUNCT	-RRB-	_	5	punct	_	_
 
 1	frenemies	frenemy	NOUN	NNS	Number=Plur	0	root	_	BeginSeg=Yes
 2	:D	:d	SYM	NFP	_	1	discourse	_	_
@@ -3937,8 +3930,7 @@
 
 1	sorry	sorry	ADJ	JJ	Degree=Pos	2	amod	_	BeginSeg=Yes
 2	guys	guy	NOUN	NNS	Number=Plur	0	root	_	_
-3	;	;	PUNCT	,	_	2	punct	_	_
-4	)	)	PUNCT	-RRB-	_	2	punct	_	_
+3	;)	;)	PUNCT	-RRB-	_	2	punct	_	_
 
 1	thieving*	thieving*	SYM	NFP	_	0	root	_	BeginSeg=Yes
 
@@ -4301,8 +4293,7 @@
 5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obl	_	_
 
 1	wonderful	wonderful	ADJ	JJ	Degree=Pos	0	root	_	BeginSeg=Yes
-2	:	:	PUNCT	:	_	1	punct	_	_
-3	)	)	PUNCT	-RRB-	_	1	punct	_	_
+2	:)	:)	SYM	NFP	_	1	discourse	_	_
 
 1	ahh	ahh	ADV	RB	_	2	advmod	_	BeginSeg=Yes
 2	7	7	NUM	CD	NumType=Card	0	root	_	_
@@ -4450,10 +4441,9 @@
 2	nooo	nooo	NOUN	NN	Number=Sing	0	root	_	_
 3	!	!	PUNCT	.	_	2	punct	_	_
 
-1	4	4	NUM	CD	NumType=Card	2	nsubj	_	BeginSeg=Yes
+1	4	4	NUM	CD	NumType=Card	2	nummod	_	BeginSeg=Yes
 2	better	better	ADJ	JJR	Degree=Cmp	0	root	_	_
-3	:	:	PUNCT	:	_	2	punct	_	_
-4	)	)	PUNCT	-RRB-	_	2	punct	_	_
+3	:)	:)	SYM	NFP	_	2	discourse	_	_
 
 1	any	any	DET	DT	_	2	det	_	BeginSeg=Yes
 2	ore	ore	NOUN	NN	Number=Sing	10	nsubj	_	_
@@ -4705,9 +4695,8 @@
 4	'd	would	AUX	MD	VerbForm=Fin	5	aux	_	_
 5	trade	trade	VERB	VB	VerbForm=Inf	1	ccomp	_	_
 6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
-7	for	for	ADP	IN	_	5	obl	_	_
-8	;	;	PUNCT	,	_	1	punct	_	_
-9	)	)	PUNCT	-RRB-	_	1	punct	_	_
+7	for	for	ADP	IN	_	5	case	_	_
+8	;)	;)	PUNCT	-RRB-	_	1	punct	_	_
 
 1	clay	clay	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	BeginSeg=Yes
 2	?	?	PUNCT	.	_	1	punct	_	_
@@ -4739,8 +4728,7 @@
 
 1	well	well	ADV	RB	Degree=Pos	2	advmod	_	BeginSeg=Yes
 2	done	do	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-3	:	:	PUNCT	:	_	2	punct	_	_
-4	)	)	PUNCT	-RRB-	_	2	punct	_	_
+3	:)	:)	SYM	NFP	_	2	discourse	_	_
 
 1	how	how	ADV	WRB	PronType=Int	2	advmod	_	BeginSeg=Yes
 2	many	many	ADJ	JJ	Degree=Pos	6	advmod	_	_
@@ -4828,8 +4816,7 @@
 10	well	well	ADV	RB	Degree=Pos	11	advmod	_	_
 11	done	do	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	_
 12	all	all	DET	DT	_	11	obj	_	_
-13	:	:	PUNCT	:	_	4	punct	_	_
-14	)	)	PUNCT	-RRB-	_	4	punct	_	_
+13	:)	:)	SYM	NFP	_	4	discourse	_	_
 
 1	when	when	ADV	WRB	PronType=Int	4	advmod	_	BeginSeg=Yes
 2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	_
@@ -4898,8 +4885,7 @@
 
 1	sound	sound	ADV	RB	_	2	advmod	_	BeginSeg=Yes
 2	good	good	ADJ	JJ	Degree=Pos	0	root	_	_
-3	:	:	PUNCT	:	_	2	punct	_	_
-4	)	)	PUNCT	-RRB-	_	2	punct	_	_
+3	:)	:)	SYM	NFP	_	2	discourse	_	_
 
 1	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	BeginSeg=Yes
 2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	_
@@ -4917,8 +4903,7 @@
 1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	BeginSeg=Yes
 2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	_	_
 3	sly	sly	ADV	RB	_	0	root	_	_
-4	;	;	PUNCT	,	_	3	punct	_	_
-5	)	)	PUNCT	-RRB-	_	3	punct	_	_
+4	;)	;)	SYM	NFP	_	3	discourse	_	_
 
 1	haha	haha	INTJ	UH	_	4	discourse	_	BeginSeg=Yes
 2	,	,	PUNCT	,	_	4	punct	_	_
@@ -4941,8 +4926,7 @@
 4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	_
 5	next	next	ADJ	JJ	Degree=Pos	6	amod	_	_
 6	time	time	NOUN	NN	Number=Sing	3	obl:tmod	_	_
-7	;	;	PUNCT	,	_	3	punct	_	_
-8	)	)	PUNCT	-RRB-	_	3	punct	_	_
+7	;)	;)	PUNCT	-RRB-	_	3	punct	_	_
 
 1	just	just	ADV	RB	_	2	advmod	_	BeginSeg=Yes
 2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -4959,9 +4943,8 @@
 1	haha	haha	INTJ	UH	_	3	discourse	_	BeginSeg=Yes
 2	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	so	so	ADV	RB	_	3	advmod	_	_
-5	;	;	PUNCT	,	_	3	punct	_	_
-6	)	)	PUNCT	-RRB-	_	3	punct	_	_
+4	so	so	ADV	RB	_	5	advmod	_	_
+5	;)	;)	SYM	NFP	_	3	discourse	_	_
 
 1	ok	ok	ADV	RB	_	2	advmod	_	BeginSeg=Yes
 2	well	well	ADV	RB	Degree=Pos	4	advmod	_	_
@@ -4984,11 +4967,9 @@
 3	off	off	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	6	mark	_	_
 5	not	not	PART	RB	_	6	advmod	_	_
-6	type	type	VERB	VB	VerbForm=Inf	3	xcomp	_	_
-7	anything	anything	PRON	NN	Number=Sing	8	compound	_	_
-8	gt	gt	NOUN	NN	Number=Sing	6	obj	_	BeginSeg=Yes
-9	;	;	PUNCT	,	_	3	punct	_	_
-10	:(	:(	SYM	NFP	_	3	discourse	_	_
+6	type	type	VERB	VB	VerbForm=Inf	3	parataxis	_	_
+7	anything	anything	PRON	NN	Number=Sing	6	obj	_	_
+8	>:(	>:(	SYM	NFP	_	3	discourse	_	_
 
 1	haha	haha	INTJ	UH	_	0	root	_	BeginSeg=Yes
 
@@ -5011,12 +4992,11 @@
 6	:D	:d	SYM	NFP	_	1	discourse	_	_
 
 1	will	will	AUX	MD	VerbForm=Fin	2	aux	_	BeginSeg=Yes
-2	do	do	VERB	VB	VerbForm=Inf	5	parataxis	_	_
-3	:	:	PUNCT	:	_	2	punct	_	_
-4	)	)	PUNCT	-RRB-	_	2	punct	_	_
-5	cheers	cheer	NOUN	NNS	Number=Plur	0	root	_	_
-6	for	for	ADP	IN	_	7	case	_	_
-7	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nmod	_	_
+2	do	do	VERB	VB	VerbForm=Inf	0	root	_	_
+3	:)	:)	SYM	NFP	_	4	discourse	_	_
+4	cheers	cheer	NOUN	NNS	Number=Plur	2	obj	_	_
+5	for	for	ADP	IN	_	6	case	_	_
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	2	obl	_	_
 
 1	no	no	DET	DT	_	2	det	_	BeginSeg=Yes
 2	worries	worry	NOUN	NNS	Number=Plur	0	root	_	_
@@ -5073,16 +5053,14 @@
 19	sheep	sheep	NOUN	NNS	Number=Plur	18	obj	_	_
 20	for	for	ADP	IN	_	21	case	_	_
 21	wood	wood	NOUN	NN	Number=Sing	18	obl	_	_
-22	:	:	PUNCT	:	_	5	punct	_	_
-23	)	)	PUNCT	-RRB-	_	5	punct	_	_
+22	:)	:)	SYM	NFP	_	5	discourse	_	_
 
 1	Ah	ah	INTJ	UH	_	5	discourse	_	BeginSeg=Yes
 2	,	,	PUNCT	,	_	5	punct	_	_
 3	then	then	ADV	RB	PronType=Dem	5	advmod	_	BeginSeg=Yes
 4	no	no	DET	DT	_	5	det	_	_
 5	thanks	thanks	NOUN	NN	Number=Sing	0	root	_	_
-6	:	:	PUNCT	:	_	5	punct	_	_
-7	)	)	PUNCT	-RRB-	_	5	punct	_	_
+6	:)	:)	SYM	NFP	_	5	discourse	_	_
 
 1	sheep	sheep	NOUN	NNS	Number=Plur	4	nsubj	_	BeginSeg=Yes
 2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	_
@@ -5160,8 +5138,7 @@
 7	for	for	ADP	IN	_	9	case	_	_
 8	free	free	ADJ	JJ	Degree=Pos	9	amod	_	_
 9	/hindsight	/hindsight	NOUN	NN	Number=Sing	4	obl	_	BeginSeg=Yes
-10	:	:	PUNCT	:	_	4	punct	_	_
-11	)	)	PUNCT	-RRB-	_	4	punct	_	_
+10	:)	:)	SYM	NFP	_	4	discourse	_	_
 
 1	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	BeginSeg=Yes
 2	wood	wood	NOUN	NN	Number=Sing	0	root	_	_
@@ -5288,8 +5265,7 @@
 1	Kersti	Kersti	PROPN	NNP	Number=Sing	3	nsubj	_	BeginSeg=Yes
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 3	first	first	ADV	RB	_	0	root	_	_
-4	:	:	PUNCT	:	_	3	punct	_	_
-5	)	)	PUNCT	-RRB-	_	3	punct	_	_
+4	:)	:)	SYM	NFP	_	3	discourse	_	_
 
 1	anyone	anyone	PRON	NN	Number=Sing	2	nsubj	_	BeginSeg=Yes
 2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -5391,8 +5367,7 @@
 7	?	?	PUNCT	.	_	2	punct	_	_
 
 1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	BeginSeg=Yes
-2	:	:	PUNCT	:	_	1	punct	_	_
-3	)	)	PUNCT	-RRB-	_	1	punct	_	_
+2	:)	:)	SYM	NFP	_	1	discourse	_	_
 
 1	sorry	sorry	INTJ	UH	_	6	discourse	_	BeginSeg=Yes
 2	kersti	kersto	INTJ	UH	_	1	discourse	_	_
@@ -5431,9 +5406,8 @@
 
 1	sorry	sorry	INTJ	UH	_	0	root	_	BeginSeg=Yes
 
-1	precisely	precisely	ADV	RB	_	0	root	_	BeginSeg=Yes
-2	;	;	PUNCT	,	_	1	punct	_	_
-3	)	)	PUNCT	-RRB-	_	1	punct	_	_
+1	precisely	precisely	ADV	RB	_	2	advmod	_	BeginSeg=Yes
+2	;)	;)	SYM	NFP	_	0	root	_	_
 
 1	none	none	NOUN	NN	Number=Sing	2	nsubj	_	BeginSeg=Yes
 2	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	BeginSeg=Yes
@@ -5501,8 +5475,7 @@
 3	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	BeginSeg=Yes
 4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	fine	fine	ADJ	JJ	Degree=Pos	0	root	_	_
-6	:	:	PUNCT	:	_	5	punct	_	_
-7	)	)	PUNCT	-RRB-	_	5	punct	_	_
+6	:)	:)	SYM	NFP	_	5	discourse	_	_
 
 1	Anyone	anyone	PRON	NN	Number=Sing	2	nsubj	_	BeginSeg=Yes
 2	want	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -5563,8 +5536,7 @@
 5	wood	wood	NOUN	NN	Number=Sing	3	obj	_	_
 6	,	,	PUNCT	,	_	3	punct	_	_
 7	sorry	sorry	INTJ	UH	_	3	discourse	_	BeginSeg=Yes
-8	:	:	PUNCT	:	_	3	punct	_	_
-9	)	)	PUNCT	-RRB-	_	3	punct	_	_
+8	:)	:)	SYM	NFP	_	3	discourse	_	_
 
 1	fair	fair	ADJ	JJ	Degree=Pos	0	root	_	BeginSeg=Yes
 
@@ -5645,8 +5617,7 @@
 1	nope	nope	INTJ	UH	_	0	root	_	BeginSeg=Yes
 
 1	thanks	thanks	NOUN	NN	Number=Sing	0	root	_	BeginSeg=Yes
-2	:	:	PUNCT	:	_	1	punct	_	_
-3	)	)	PUNCT	-RRB-	_	1	punct	_	_
+2	:)	:)	SYM	NFP	_	1	discourse	_	_
 
 1	anyone	anyone	PRON	NN	Number=Sing	2	nsubj	_	BeginSeg=Yes
 2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -5719,11 +5690,10 @@
 5	7	7	NUM	CD	NumType=Card	3	obj	_	_
 6	there	there	ADV	RB	PronType=Dem	3	advmod	_	_
 
-1	good	good	ADJ	JJ	Degree=Pos	2	amod	_	BeginSeg=Yes
-2	game	game	NOUN	NN	Number=Sing	0	root	_	_
-3	guys	guy	NOUN	NNS	Number=Plur	2	appos	_	_
-4	:	:	PUNCT	:	_	2	punct	_	_
-5	)	)	PUNCT	-RRB-	_	2	punct	_	_
+1	good	good	ADJ	JJ	Degree=Pos	3	amod	_	BeginSeg=Yes
+2	game	game	NOUN	NN	Number=Sing	3	compound	_	_
+3	guys	guy	NOUN	NNS	Number=Plur	0	root	_	_
+4	:)	:)	SYM	NFP	_	3	discourse	_	_
 
 1	gg	gg	NOUN	NN	Number=Sing	0	root	_	BeginSeg=Yes
 
