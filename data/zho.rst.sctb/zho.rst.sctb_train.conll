@@ -1,5 +1,5 @@
 # newdoc id = BMCS_CHN1-GS
-1	﻿米	_	AD	AD	_	2	advmod	_	BeginSeg=Yes
+1	米	_	AD	AD	_	2	advmod	_	BeginSeg=Yes
 2	盖尔	_	VV	VV	_	0	root	_	_
 3	•	_	NR	NR	_	5	name	_	_
 4	德	_	NR	NR	_	5	name	_	_
@@ -255,7 +255,7 @@
 19	培训	_	NN	NN	_	16	dobj	_	_
 
 # newdoc id = BMCS_CHN2-GS
-1	﻿教师	_	NN	NN	_	4	conj	_	BeginSeg=Yes
+1	教师	_	NN	NN	_	4	conj	_	BeginSeg=Yes
 2	和	_	CC	CC	_	4	cc	_	_
 3	教学	_	NN	NN	_	4	compound:nn	_	_
 4	方法	_	NN	NN	_	0	root	_	_
@@ -494,7 +494,7 @@
 17	。	_	PU	PU	_	3	punct	_	_
 
 # newdoc id = BMCS_CHN3-GS
-1	﻿课程	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1	课程	_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	种类	_	NN	NN	_	1	dobj	_	_
 
 1	我们	_	PN	PN	_	3	nmod:assmod	_	BeginSeg=Yes
@@ -800,7 +800,7 @@
 26	。	_	PU	PU	_	6	punct	_	_
 
 # newdoc id = CCICE_CHN1-GS
-1	﻿北美	_	NN	NN	_	2	nsubj	_	BeginSeg=Yes
+1	北美	_	NN	NN	_	2	nsubj	_	BeginSeg=Yes
 2	上升	_	VV	VV	_	0	root	_	_
 3	为	_	P	P	_	6	case	_	_
 4	西班牙	_	NR	NR	_	6	nmod:assmod	_	_
@@ -916,7 +916,7 @@
 22	。	_	PU	PU	_	19	punct	_	_
 
 # newdoc id = CCICE_CHN2-GS
-1	﻿西班牙	_	NR	NR	_	2	nsubj	_	BeginSeg=Yes
+1	西班牙	_	NR	NR	_	2	nsubj	_	BeginSeg=Yes
 2	跻身	_	VV	VV	_	0	root	_	_
 3	第六	_	OD	OD	_	4	dep	_	_
 4	大	_	JJ	JJ	_	7	amod	_	_
@@ -1072,7 +1072,7 @@
 40	。	_	PU	PU	_	11	punct	_	_
 
 # newdoc id = CCICE_CHN3-GS
-1	﻿西班牙	_	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
+1	西班牙	_	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
 2	财政部	_	NN	NN	_	3	nsubj	_	_
 3	拟	_	VV	VV	_	0	root	_	_
 4	拍卖	_	NN	NN	_	6	nsubj	_	_
@@ -1205,7 +1205,7 @@
 16	。	_	PU	PU	_	7	punct	_	_
 
 # newdoc id = EEP_CHN1-GS
-1	﻿西班牙	_	NR	NR	_	3	nmod:assmod	_	BeginSeg=Yes
+1	西班牙	_	NR	NR	_	3	nmod:assmod	_	BeginSeg=Yes
 2	Aritex	_	NN	NN	_	3	compound:nn	_	_
 3	公司	_	NN	NN	_	4	nsubj	_	_
 4	参与	_	VV	VV	_	0	root	_	_
@@ -1273,7 +1273,7 @@
 19	。	_	PU	PU	_	10	punct	_	_
 
 # newdoc id = EEP_CHN2-GS
-1	﻿西班牙	_	NR	NR	_	3	nmod	_	BeginSeg=Yes
+1	西班牙	_	NR	NR	_	3	nmod	_	BeginSeg=Yes
 2	驻华	_	JJ	JJ	_	3	amod	_	_
 3	大使	_	NN	NN	_	20	nsubj	_	_
 4	在	_	P	P	_	9	case	_	_
@@ -1717,7 +1717,7 @@
 36	。	_	PU	PU	_	5	punct	_	_
 
 # newdoc id = EEP_CHN4-GS
-1	﻿	_	NR	NR	_	9	nmod	_	BeginSeg=Yes
+1		_	NR	NR	_	9	nmod	_	BeginSeg=Yes
 2	第二	_	OD	OD	_	9	nummod	_	_
 3	届	_	M	M	_	2	mark:clf	_	_
 4	“	_	PU	PU	_	9	punct	_	_
@@ -1917,7 +1917,7 @@
 33	。	_	PU	PU	_	25	punct	_	_
 
 # newdoc id = EEP_CHN5-GS
-1	﻿	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1		_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	第一	_	OD	OD	_	6	nummod	_	_
 3	届	_	M	M	_	2	mark:clf	_	_
 4	中西	_	NN	NN	_	6	compound:nn	_	_
@@ -2053,7 +2053,7 @@
 36	。	_	PU	PU	_	22	punct	_	_
 
 # newdoc id = EEP_CHN6-GS
-1	﻿西班牙	_	NR	NR	_	3	nmod	_	BeginSeg=Yes
+1	西班牙	_	NR	NR	_	3	nmod	_	BeginSeg=Yes
 2	女	_	JJ	JJ	_	3	amod	_	_
 3	摄影师	_	NN	NN	_	4	appos	_	_
 4	马尔塔	_	NR	NR	_	6	compound:nn	_	_
@@ -2229,7 +2229,7 @@
 17	。	_	PU	PU	_	9	punct	_	_
 
 # newdoc id = FICB_CHN1-GS
-1	﻿巴塞罗那	_	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
+1	巴塞罗那	_	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	孔子学院	_	NN	NN	_	3	compound:nn	_	_
 3	院长	_	NN	NN	_	4	nsubj	_	_
 4	访问	_	VV	VV	_	0	root	_	_
@@ -2368,7 +2368,7 @@
 24	。	_	PU	PU	_	10	punct	_	_
 
 # newdoc id = FICB_CHN2-GS
-1	﻿巴塞罗那	_	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
+1	巴塞罗那	_	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	孔子学院	_	NN	NN	_	4	nsubj	_	_
 3	成功	_	AD	AD	_	4	advmod	_	_
 4	举办	_	VV	VV	_	0	root	_	_
@@ -2647,7 +2647,7 @@
 26	。	_	PU	PU	_	13	punct	_	_
 
 # newdoc id = FICB_CHN3-GS
-1	﻿巴塞罗那	_	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
+1	巴塞罗那	_	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
 2	地区	_	NN	NN	_	4	compound:nn	_	_
 3	汉语	_	NN	NN	_	4	compound:nn	_	_
 4	桥	_	NN	NN	_	5	compound:nn	_	_
@@ -2777,7 +2777,7 @@
 25	。	_	PU	PU	_	2	punct	_	_
 
 # newdoc id = ICEG_CHN1-GS
-1	﻿学院	_	VA	VA	_	3	advmod:dvp	_	BeginSeg=Yes
+1	学院	_	VA	VA	_	3	advmod:dvp	_	BeginSeg=Yes
 2	的	_	DEV	DEV	_	1	mark	_	_
 3	具体	_	VA	VA	_	0	root	_	_
 
@@ -3121,7 +3121,7 @@
 28	。	_	PU	PU	_	4	punct	_	_
 
 # newdoc id = ICEG_CHN2-GS
-1	﻿讲习	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1	讲习	_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	课程	_	NN	NN	_	1	dobj	_	_
 
 1	格拉纳达	_	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
@@ -3230,7 +3230,7 @@
 21	。	_	PU	PU	_	1	punct	_	_
 
 # newdoc id = ICP_CHN1-GS
-1	﻿学院	_	NR	NR	_	2	nsubj	_	BeginSeg=Yes
+1	学院	_	NR	NR	_	2	nsubj	_	BeginSeg=Yes
 2	介绍	_	VV	VV	_	0	root	_	_
 
 1	塞万提斯	_	CD	CD	_	2	dep	_	BeginSeg=Yes
@@ -3421,7 +3421,7 @@
 24	。	_	PU	PU	_	22	punct	_	_
 
 # newdoc id = ICP_CHN2-GS
-1	﻿潮流	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1	潮流	_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	猎人	_	NN	NN	_	1	dobj	_	_
 3	？	_	PU	PU	_	1	punct	_	_
 4	西班牙	_	NR	NR	_	5	nmod:assmod	_	_
@@ -3900,7 +3900,7 @@
 39	。	_	PU	PU	_	13	punct	_	_
 
 # newdoc id = ICP_CHN3-GS
-1	﻿	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1		_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	文化	_	NN	NN	_	3	compound:nn	_	_
 3	活动	_	NN	NN	_	1	dobj	_	_
 
@@ -4157,7 +4157,7 @@
 37	。	_	PU	PU	_	12	punct	_	_
 
 # newdoc id = ICP_CHN4-GS
-1	﻿用	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1	用	_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	西班牙语	_	NN	NN	_	3	compound:nn	_	_
 3	工作	_	NN	NN	_	1	dobj	_	_
 
@@ -4325,7 +4325,7 @@
 6	+861058799670	_	CD	CD	_	0	root	_	_
 
 # newdoc id = TERM18_CHN-GS
-1	﻿塞尔维亚语	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1	塞尔维亚语	_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	科技类	_	NN	NN	_	4	compound:nn	_	_
 3	术语	_	NN	NN	_	4	compound:nn	_	_
 4	标准化	_	NN	NN	_	7	nmod:assmod	_	_
@@ -4610,7 +4610,7 @@
 47	。	_	PU	PU	_	19	punct	_	_
 
 # newdoc id = TERM19_CHN-GS
-1	﻿术语	_	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
+1	术语	_	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	标准化	_	NN	NN	_	3	nsubj	_	_
 3	受	_	VV	VV	_	0	root	_	_
 4	社会	_	NN	NN	_	5	compound:nn	_	_
@@ -4929,7 +4929,7 @@
 42	。	_	PU	PU	_	2	punct	_	_
 
 # newdoc id = TERM23_CHN-GS
-1	﻿大学	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1	大学	_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	教育	_	NN	NN	_	5	conj	_	_
 3	和	_	CC	CC	_	5	cc	_	_
 4	专业	_	NN	NN	_	5	compound:nn	_	_
@@ -5226,7 +5226,7 @@
 37	。	_	PU	PU	_	4	punct	_	_
 
 # newdoc id = TERM25_CHN-GS
-1	﻿从	_	NN	NN	_	3	nsubj	_	BeginSeg=Yes
+1	从	_	NN	NN	_	3	nsubj	_	BeginSeg=Yes
 2	巴斯克语	_	AD	AD	_	3	advmod	_	_
 3	看	_	VV	VV	_	0	root	_	_
 4	术语	_	NN	NN	_	9	conj	_	_
@@ -5448,7 +5448,7 @@
 44	。	_	PU	PU	_	4	punct	_	_
 
 # newdoc id = TERM28_CHN-GS
-1	﻿法律	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1	法律	_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	翻译	_	NN	NN	_	3	compound:nn	_	_
 3	文件	_	NN	NN	_	6	dep	_	_
 4	中	_	LC	LC	_	3	case	_	_
@@ -5735,7 +5735,7 @@
 21	。	_	PU	PU	_	6	punct	_	_
 
 # newdoc id = TERM29_CHN-GS
-1	﻿术语	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1	术语	_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	数据库	_	NN	NN	_	6	nmod:assmod	_	_
 3	的	_	DEG	DEG	_	2	case	_	_
 4	设计	_	NN	NN	_	6	conj	_	_
@@ -6675,7 +6675,7 @@
 20	。	_	PU	PU	_	19	punct	_	_
 
 # newdoc id = TERM31_CHN-GS
-1	﻿巴斯克语	_	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
+1	巴斯克语	_	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	术语	_	NN	NN	_	4	nsubj	_	_
 3	自动	_	AD	AD	_	4	advmod	_	_
 4	构建	_	VV	VV	_	0	root	_	_
@@ -7403,7 +7403,7 @@
 13	。	_	PU	PU	_	12	punct	_	_
 
 # newdoc id = TERM32_CHN-GS
-1	﻿中文	_	NN	NN	_	3	compound:nn	_	BeginSeg=Yes
+1	中文	_	NN	NN	_	3	compound:nn	_	BeginSeg=Yes
 2	计算机	_	NN	NN	_	3	compound:nn	_	_
 3	技术	_	NN	NN	_	6	nmod	_	_
 4	下	_	LC	LC	_	3	case	_	_
@@ -7753,7 +7753,7 @@
 38	。	_	PU	PU	_	21	punct	_	_
 
 # newdoc id = TERM34_CHN-GS
-1	﻿文字	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1	文字	_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	关联	_	NN	NN	_	5	conj	_	_
 3	或	_	CC	CC	_	5	cc	_	_
 4	语意	_	NN	NN	_	5	compound:nn	_	_
@@ -8949,7 +8949,7 @@
 27	。	_	PU	PU	_	7	punct	_	_
 
 # newdoc id = TERM38_CHN-GS
-1	﻿与	_	VV	VV	_	0	root	_	BeginSeg=Yes
+1	与	_	VV	VV	_	0	root	_	BeginSeg=Yes
 2	时间	_	NN	NN	_	3	compound:nn	_	_
 3	赛跑	_	NN	NN	_	5	nmod:assmod	_	_
 4	的	_	DEG	DEG	_	3	case	_	_
