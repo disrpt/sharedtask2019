@@ -11,7 +11,7 @@ Citations:
 
 ## Introduction
 
-﻿The RST Spanish-Chinese Treebank is a corpus of specialized texts in Spanish and their parallel texts in Chinese. All the texts are annotated manually with discourse relations under the theoretical framework Rhetorical Structure Theory (RST) (Mann and Thompson, 1988). RSTTool (O’Donnell, 2000) is used to annotate this corpus. The annotation results are saved by rstWeb (Zeldes, 2016). 
+The RST Spanish-Chinese Treebank is a corpus of specialized texts in Spanish and their parallel texts in Chinese. All the texts are annotated manually with discourse relations under the theoretical framework Rhetorical Structure Theory (RST) (Mann and Thompson, 1988). RSTTool (O’Donnell, 2000) is used to annotate this corpus. The annotation results are saved by rstWeb (Zeldes, 2016). 
 
 Totally, 100 texts are included in this corpus. The genres of these texts are: (a) scientific abstract; (b) advertisement; (c) news and (d) announcement. The topics of the corpus are: (a) terminology; (b) culture; (c) language; (d) economy; (e) education; (f) art and (g) international affairs.
 
