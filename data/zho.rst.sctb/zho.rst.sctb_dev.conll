@@ -327,26 +327,24 @@
 19	。	_	PU	PU	_	8	punct	_	_
 
 # newdoc id = EEP_CHN7-GS
-1		_	VV	VV	_	0	root	_	BeginSeg=Yes
-2	第六	_	OD	OD	_	19	nummod	_	_
-3	届	_	M	M	_	2	mark:clf	_	_
-4	北京	_	NR	NR	_	6	dep	_	_
-5	·	_	PU	PU	_	6	punct	_	_
-6	西班牙	_	NR	NR	_	7	nmod:assmod	_	_
-7	电影节	_	NN	NN	_	19	nmod:assmod	_	_
-8	“	_	PU	PU	_	19	punct	_	_
-9	西班牙	_	NR	NR	_	10	nmod:assmod	_	_
-10	电影	_	NN	NN	_	12	nmod:assmod	_	_
-11	的	_	DEG	DEG	_	10	case	_	_
-12	传统	_	NN	NN	_	19	conj	_	_
-13	与	_	CC	CC	_	19	cc	_	_
-14	时代	_	NN	NN	_	16	compound:nn	_	_
-15	创新	_	NN	NN	_	16	compound:nn	_	_
-16	(	_	NN	NN	_	19	nmod:assmod	_	_
-17	2011-201	_	CD	CD	_	19	dep	_	_
-18	4	_	CD	CD	_	19	dep	_	_
-19	)	_	NN	NN	_	1	dobj	_	_
-20	”	_	PU	PU	_	19	punct	_	_
+1	第六	_	OD	OD	_	6	nummod	_	BeginSeg=Yes
+2	届	_	M	M	_	1	mark:clf	_	_
+3	北京	_	NR	NR	_	5	dep	_	_
+4	·	_	PU	PU	_	5	punct	_	_
+5	西班牙	_	NR	NR	_	6	nmod:assmod	_	_
+6	电影节	_	NN	NN	_	0	root	_	_
+7	“	_	PU	PU	_	11	punct	_	_
+8	西班牙	_	NR	NR	_	9	nmod:assmod	_	_
+9	电影	_	NN	NN	_	11	nmod:assmod	_	_
+10	的	_	DEG	DEG	_	9	case	_	_
+11	传统	_	NN	NN	_	6	dep	_	_
+12	与	_	CC	CC	_	14	cc	_	_
+13	时代	_	NN	NN	_	14	compound:nn	_	_
+14	创新	_	NN	NN	_	11	conj	_	_
+15	(	_	NN	NN	_	16	punct	_	_
+16	2011-2014	_	CD	CD	_	11	dep	_	_
+17	)	_	NN	NN	_	16	punct	_	_
+18	”	_	PU	PU	_	11	punct	_	_
 
 1	9月	_	NT	NT	_	2	compound:nn	_	BeginSeg=Yes
 2	18日	_	NT	NT	_	22	nmod:tmod	_	_

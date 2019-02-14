@@ -1717,67 +1717,66 @@
 36	。	_	PU	PU	_	5	punct	_	_
 
 # newdoc id = EEP_CHN4-GS
-1		_	NR	NR	_	9	nmod	_	BeginSeg=Yes
-2	第二	_	OD	OD	_	9	nummod	_	_
-3	届	_	M	M	_	2	mark:clf	_	_
-4	“	_	PU	PU	_	9	punct	_	_
-5	丝路	_	NN	NN	_	6	compound:nn	_	_
-6	国际	_	NN	NN	_	9	compound:nn	_	_
-7	论坛	_	NN	NN	_	9	compound:nn	_	_
-8	2015年	_	NT	NT	_	9	compound:nn	_	_
-9	会	_	NN	NN	_	14	nsubj	_	_
-10	”	_	PU	PU	_	9	punct	_	_
-11	在	_	P	P	_	13	case	_	_
-12	马	_	NR	NR	_	13	name	_	_
-13	德里	_	NR	NR	_	14	nmod:prep	_	_
-14	召开	_	VV	VV	_	55	acl	_	_
-15	10月	_	NT	NT	_	18	compound:nn	_	BeginSeg=Yes
-16	28日	_	NT	NT	_	18	conj	_	_
-17	和	_	CC	CC	_	18	cc	_	_
-18	29日	_	NT	NT	_	14	dep	_	_
-19	，	_	PU	PU	_	18	punct	_	_
-20	由	_	P	P	_	21	case	_	_
-21	国务院	_	NN	NN	_	22	nmod:prep	_	_
-22	发展	_	VV	VV	_	18	conj	_	_
-23	研究	_	NN	NN	_	24	compound:nn	_	_
-24	中心	_	NN	NN	_	22	dobj	_	_
-25	、	_	PU	PU	_	18	punct	_	_
-26	国际	_	NN	NN	_	27	compound:nn	_	_
-27	关系	_	NN	NN	_	18	conj	_	_
-28	和	_	CC	CC	_	27	cc	_	_
-29	可	_	AD	AD	_	30	advmod	_	_
-30	持续	_	VV	VV	_	27	dep	_	_
-31	发展	_	NN	NN	_	32	compound:nn	_	_
-32	中心	_	NN	NN	_	30	dobj	_	_
-33	、	_	PU	PU	_	18	punct	_	_
-34	中国	_	NR	NR	_	35	nsubj	_	_
-35	驻	_	VV	VV	_	18	conj	_	_
-36	西班牙	_	NR	NR	_	37	nmod:assmod	_	_
-37	大使馆	_	NN	NN	_	35	dobj	_	_
-38	和	_	CC	CC	_	18	cc	_	_
-39	和	_	P	P	_	44	case	_	_
-40	托雷	_	NR	NR	_	44	nmod	_	_
-41	多	_	CD	CD	_	44	dep	_	_
-42	国际	_	NN	NN	_	44	compound:nn	_	_
-43	和平	_	NN	NN	_	44	compound:nn	_	_
-44	中心	_	NN	NN	_	46	nmod:prep	_	_
-45	共同	_	AD	AD	_	46	advmod	_	_
-46	主办	_	VV	VV	_	18	dep	_	_
-47	的	_	DEC	DEC	_	14	mark	_	_
-48	第二	_	OD	OD	_	55	nummod	_	_
-49	届	_	M	M	_	48	mark:clf	_	_
-50	“	_	PU	PU	_	55	punct	_	_
-51	丝路	_	NN	NN	_	52	compound:nn	_	_
-52	国际	_	NN	NN	_	55	compound:nn	_	_
-53	论坛	_	NN	NN	_	55	compound:nn	_	_
-54	2015年	_	NT	NT	_	55	compound:nn	_	_
-55	会	_	NN	NN	_	60	nsubj	_	_
-56	”	_	PU	PU	_	55	punct	_	_
-57	在	_	P	P	_	59	case	_	_
-58	马	_	NR	NR	_	59	name	_	_
-59	德里	_	NR	NR	_	60	nmod:prep	_	_
-60	召开	_	VV	VV	_	0	root	_	_
-61	。	_	PU	PU	_	60	punct	_	_
+1	第二	_	OD	OD	_	8	nummod	_	BeginSeg=Yes
+2	届	_	M	M	_	1	mark:clf	_	_
+3	“	_	PU	PU	_	8	punct	_	_
+4	丝路	_	NN	NN	_	5	compound:nn	_	_
+5	国际	_	NN	NN	_	8	compound:nn	_	_
+6	论坛	_	NN	NN	_	8	compound:nn	_	_
+7	2015年	_	NT	NT	_	8	compound:nn	_	_
+8	会	_	NN	NN	_	13	nsubj	_	_
+9	”	_	PU	PU	_	8	punct	_	_
+10	在	_	P	P	_	12	case	_	_
+11	马	_	NR	NR	_	12	name	_	_
+12	德里	_	NR	NR	_	13	nmod:prep	_	_
+13	召开	_	VV	VV	_	54	acl	_	_
+14	10月	_	NT	NT	_	17	compound:nn	_	BeginSeg=Yes
+15	28日	_	NT	NT	_	17	conj	_	_
+16	和	_	CC	CC	_	17	cc	_	_
+17	29日	_	NT	NT	_	13	dep	_	_
+18	，	_	PU	PU	_	17	punct	_	_
+19	由	_	P	P	_	20	case	_	_
+20	国务院	_	NN	NN	_	21	nmod:prep	_	_
+21	发展	_	VV	VV	_	17	conj	_	_
+22	研究	_	NN	NN	_	23	compound:nn	_	_
+23	中心	_	NN	NN	_	21	dobj	_	_
+24	、	_	PU	PU	_	17	punct	_	_
+25	国际	_	NN	NN	_	26	compound:nn	_	_
+26	关系	_	NN	NN	_	17	conj	_	_
+27	和	_	CC	CC	_	26	cc	_	_
+28	可	_	AD	AD	_	29	advmod	_	_
+29	持续	_	VV	VV	_	26	dep	_	_
+30	发展	_	NN	NN	_	31	compound:nn	_	_
+31	中心	_	NN	NN	_	29	dobj	_	_
+32	、	_	PU	PU	_	17	punct	_	_
+33	中国	_	NR	NR	_	34	nsubj	_	_
+34	驻	_	VV	VV	_	17	conj	_	_
+35	西班牙	_	NR	NR	_	36	nmod:assmod	_	_
+36	大使馆	_	NN	NN	_	34	dobj	_	_
+37	和	_	CC	CC	_	17	cc	_	_
+38	和	_	P	P	_	43	case	_	_
+39	托雷	_	NR	NR	_	43	nmod	_	_
+40	多	_	CD	CD	_	43	dep	_	_
+41	国际	_	NN	NN	_	43	compound:nn	_	_
+42	和平	_	NN	NN	_	43	compound:nn	_	_
+43	中心	_	NN	NN	_	45	nmod:prep	_	_
+44	共同	_	AD	AD	_	45	advmod	_	_
+45	主办	_	VV	VV	_	17	dep	_	_
+46	的	_	DEC	DEC	_	13	mark	_	_
+47	第二	_	OD	OD	_	54	nummod	_	_
+48	届	_	M	M	_	47	mark:clf	_	_
+49	“	_	PU	PU	_	54	punct	_	_
+50	丝路	_	NN	NN	_	51	compound:nn	_	_
+51	国际	_	NN	NN	_	54	compound:nn	_	_
+52	论坛	_	NN	NN	_	54	compound:nn	_	_
+53	2015年	_	NT	NT	_	54	compound:nn	_	_
+54	会	_	NN	NN	_	59	nsubj	_	_
+55	”	_	PU	PU	_	54	punct	_	_
+56	在	_	P	P	_	58	case	_	_
+57	马	_	NR	NR	_	58	name	_	_
+58	德里	_	NR	NR	_	59	nmod:prep	_	_
+59	召开	_	VV	VV	_	0	root	_	_
+60	。	_	PU	PU	_	59	punct	_	_
 
 1	论坛	_	NN	NN	_	2	nsubj	_	BeginSeg=Yes
 2	旨在	_	VV	VV	_	0	root	_	_
@@ -1917,12 +1916,11 @@
 33	。	_	PU	PU	_	25	punct	_	_
 
 # newdoc id = EEP_CHN5-GS
-1		_	VV	VV	_	0	root	_	BeginSeg=Yes
-2	第一	_	OD	OD	_	6	nummod	_	_
-3	届	_	M	M	_	2	mark:clf	_	_
-4	中西	_	NN	NN	_	6	compound:nn	_	_
-5	交流	_	NN	NN	_	6	compound:nn	_	_
-6	发展论坛	_	NN	NN	_	1	dobj	_	_
+1	第一	_	OD	OD	_	5	nummod	_	BeginSeg=Yes
+2	届	_	M	M	_	1	mark:clf	_	_
+3	中西	_	NN	NN	_	5	compound:nn	_	_
+4	交流	_	NN	NN	_	5	compound:nn	_	_
+5	发展论坛	_	NN	NN	_	0	root	_	_
 
 1	西班牙	_	NR	NR	_	7	nmod:assmod	_	BeginSeg=Yes
 2	工业	_	NN	NN	_	6	conj	_	_
@@ -3900,9 +3898,8 @@
 39	。	_	PU	PU	_	13	punct	_	_
 
 # newdoc id = ICP_CHN3-GS
-1		_	VV	VV	_	0	root	_	BeginSeg=Yes
-2	文化	_	NN	NN	_	3	compound:nn	_	_
-3	活动	_	NN	NN	_	1	dobj	_	_
+1	文化	_	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
+2	活动	_	NN	NN	_	0	root	_	_
 
 1	北京	_	NR	NR	_	3	nmod	_	BeginSeg=Yes
 2	塞万提斯	_	CD	CD	_	3	dep	_	_
