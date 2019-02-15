@@ -30,27 +30,32 @@ The shared task repository currently comprises the following directories (to be 
 
   * data - individual corpora from various languages and frameworks. 
     * Folders are given names in the scheme `LANG.FRAMEWORK.CORPUS`, e.g. `eng.rst.gum` is the directory for the GUM corpus, which is in English and annotated in the framework of Rhetorical Structure Theory (RST).
-    * Note that three corpora (eng.rst.rstdt, eng.pdtb.pdtb, zho.pdtb.cdtb) **do not contain text** and text therefore needs to be reconstructed using `utils/process_underscores.py`.
+    * Note that four corpora (eng.rst.rstdt, eng.pdtb.pdtb, tur.pdtb.tdb, zho.pdtb.cdtb) **do not contain text** and text therefore needs to be reconstructed using `utils/process_underscores.py`.
   * sample - sample data to illustrate formats, provided ahead of the release of training data (this data will be included in training data).
   * utils - scripts for validating, evaluating and generating data formats. The official scorer is `seg_eval.py`.
 
 See the README files in individual data directories for more details on each dataset.
 
+## Surprise language
+
+At the release of the test data, a surprise language dataset was added: Turkish connective data from the Turkish from the Turkish Discourse Bank (TDB). Since the existence of the surprise language was not originally announced, and some systems may not have resources to handle the additional language, evaluation on the Turkish dataset is optional and will be reported separately in the shared task results.
+
 ## Statistics
 
-| corpus | lang | framework | train_toks | train_sents | train_docs | dev_toks | dev_sents | dev_docs | total_sents_notest | total_toks_notest | total_docs_notest | seg_style | underscored | SpaceAfter | syntax | has_multitoks |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| deu.rst.pcc | deu | rst | 26,831 | 1,773 | 142 | 3,152 | 207 | 17 | 1,980 | 29,983 | 159 | EDU | no | no | UD | no |
-| eng.pdtb.pdtb | eng | pdtb | 1,061,222 | 44,563 | 1,992 | 39,768 | 1,703 | 79 | 46,266 | 1,100,990 | 2,071 | Conn | yes | no | UD (gold) | no |
-| eng.rst.gum | eng | rst | 67,098 | 3,600 | 78 | 15,593 | 784 | 18 | 4,384 | 82,691 | 96 | EDU | no | yes | UD (gold) | no |
-| eng.rst.rstdt | eng | rst | 166,849 | 6,672 | 309 | 17,309 | 717 | 38 | 7,389 | 184,158 | 347 | EDU | yes | no | UD (gold) | no |
-| eng.sdrt.stac | eng | sdrt | 36,445 | 7,689 | 29 | 4,747 | 981 | 6 | 8,670 | 41,192 | 35 | EDU | no | no | UD | no |
-| eus.rst.ert | eus | rst | 21,122 | 990 | 84 | 7,533 | 350 | 28 | 1,340 | 28,655 | 112 | EDU | no | no | other | no |
-| fra.sdrt.annodis | fra | sdrt | 22,278 | 880 | 64 | 4,987 | 227 | 11 | 1,107 | 27,265 | 75 | EDU | no | no | UD | no |
-| nld.rst.nldt | nld | rst | 17,566 | 1,202 | 56 | 3,789 | 257 | 12 | 1,459 | 21,355 | 68 | EDU | no | no | UD | no |
-| por.rst.cstn | por | rst | 44,808 | 1,595 | 110 | 6,233 | 232 | 14 | 1,827 | 51,041 | 124 | EDU | no | yes | UD | yes |
-| rus.rst.rrt | rus | rst | 214,484 | 9,859 | 140 | 29,412 | 1,327 | 19 | 11,186 | 243,896 | 159 | EDU | no | no | UD | no |
-| spa.rst.rststb | spa | rst | 43,034 | 1,577 | 203 | 7,531 | 256 | 32 | 1,833 | 50,565 | 235 | EDU | no | no | UD | no |
-| spa.rst.sctb | spa | rst | 10,249 | 304 | 32 | 2,450 | 74 | 9 | 378 | 12,699 | 41 | EDU | no | no | UD | no |
-| zho.pdtb.cdtb | zho | pdtb | 52,061 | 2,049 | 125 | 11,178 | 438 | 21 | 2,487 | 63,239 | 146 | Conn | yes | no | other (gold) | no |
-| zho.rst.sctb | zho | rst | 8,963 | 344 | 32 | 2,104 | 87 | 9 | 431 | 11,067 | 41 | EDU | no | no | UD (V1) | no |
+| corpus | lang | framework | train_toks | train_sents | train_docs | dev_toks | dev_sents | dev_docs | test_toks | test_sents | test_docs | total_toks | total_sents | total_docs | seg_style | underscored | SpaceAfter | syntax | has_multitoks |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| deu.rst.pcc | deu | rst | 26,831 | 1,773 | 142 | 3,152 | 207 | 17 | 3,239 | 213 | 17 | 33,222 | 2,193 | 176 | EDU | no | no | UD | no |
+| eng.pdtb.pdtb | eng | pdtb | 1,061,222 | 44,563 | 1,992 | 39,768 | 1,703 | 79 | 55,658 | 2,364 | 91 | 1,156,648 | 48,630 | 2,162 | Conn | yes | no | UD (gold) | no |
+| eng.rst.gum | eng | rst | 67,098 | 3,600 | 78 | 15,593 | 784 | 18 | 15,924 | 890 | 18 | 98,615 | 5,274 | 114 | EDU | no | yes | UD (gold) | no |
+| eng.rst.rstdt | eng | rst | 166,849 | 6,672 | 309 | 17,309 | 717 | 38 | 21,666 | 929 | 38 | 205,824 | 8,318 | 385 | EDU | yes | no | UD (gold) | no |
+| eng.sdrt.stac | eng | sdrt | 36,445 | 7,689 | 29 | 4,747 | 981 | 6 | 6,549 | 1,350 | 6 | 47,741 | 10,020 | 41 | EDU | no | no | UD | no |
+| eus.rst.ert | eus | rst | 21,122 | 990 | 84 | 7,533 | 350 | 28 | 6,658 | 320 | 28 | 35,313 | 1,660 | 140 | EDU | no | no | other | no |
+| fra.sdrt.annodis | fra | sdrt | 22,278 | 880 | 64 | 4,987 | 227 | 11 | 5,146 | 211 | 11 | 32,411 | 1,318 | 86 | EDU | no | no | UD | no |
+| nld.rst.nldt | nld | rst | 17,566 | 1,202 | 56 | 3,789 | 257 | 12 | 3,565 | 248 | 12 | 24,920 | 1,707 | 80 | EDU | no | no | UD | no |
+| por.rst.cstn | por | rst | 44,808 | 1,595 | 110 | 6,233 | 232 | 14 | 3,615 | 123 | 12 | 54,656 | 1,950 | 136 | EDU | no | yes | UD | yes |
+| rus.rst.rrt | rus | rst | 214,484 | 9,859 | 140 | 29,412 | 1,327 | 19 | 28,768 | 1,327 | 19 | 272,664 | 12,513 | 178 | EDU | no | no | UD | no |
+| spa.rst.rststb | spa | rst | 43,034 | 1,577 | 203 | 7,531 | 256 | 32 | 8,026 | 303 | 32 | 58,591 | 2,136 | 267 | EDU | no | no | UD | no |
+| spa.rst.sctb | spa | rst | 10,249 | 304 | 32 | 2,450 | 74 | 9 | 3,813 | 100 | 9 | 16,512 | 478 | 50 | EDU | no | no | UD | no |
+| tur.pdtb.tdb | tur | pdtb | 398,203 | 25,080 | 159 | 50,272 | 3,179 | 19 | 47,880 | 2,937 | 19 | 496,355 | 31,196 | 197 | Conn | yes | yes | UD | yes |
+| zho.pdtb.cdtb | zho | pdtb | 52,061 | 2,049 | 125 | 11,178 | 438 | 21 | 10,075 | 404 | 18 | 73,314 | 2,891 | 164 | Conn | yes | no | other (gold) | no |
+| zho.rst.sctb | zho | rst | 8,960 | 344 | 32 | 2,102 | 87 | 9 | 3,380 | 132 | 9 | 14,442 | 563 | 50 | EDU | no | no | UD (V1) | no |
