@@ -14,6 +14,10 @@ https://sites.google.com/view/disrpt2019/
 
 The tasks are oriented towards finding the locus of discourse relations in texts. For frameworks that segment text into non-overlapping spans covering each entire documents (RST and SDRT), the task corresponds to finding the starting point of each discourse unit. For PDTB-style datasets, the task is to identify the spans of discourse connectives that explicitly identify the existence of a discourse relation.
 
+## Submitting a system
+
+Systems should be accompanied by a regular workshop paper in the ACL format, as described on the workshop website. During submission, you will be asked to supply a URL from which your system can be downloaded. If your system does not download necessary resources by itself (e.g. word embeddings), these resources should be included at the download URL. The system download should include a README file describing exactly how paper results can be reproduced. Please do not supply pre-trained model, but rather instructions on how to train the system using the downloaded resources. For any questions regarding system submissions, please contact the organizers.
+
 ## Important dates
 
   * Fri, December 28, 2018 - shared task sample data release
