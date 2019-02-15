@@ -22,6 +22,7 @@ if not PY3:
 
 def underscore_files(filenames):
 	for f_path in filenames:
+		skiplen = 0
 		with io.open(f_path, 'r', encoding='utf8') as fin:
 			lines = fin.readlines()
 
@@ -41,8 +42,16 @@ def underscore_files(filenames):
 						fields[2] = '_'
 					elif tok_col.lower() == lemma_col:
 						fields[2] = "*LOWER*"
-					fields[1] = len(tok_col)*'_'
+					if skiplen < 1:
+						fields[1] = len(tok_col)*'_'
+					else:
+						skiplen -=1
 					output.append("\t".join(fields))
+					if "-" in fields[0]:  # Multitoken
+						start, end = fields[0].split("-")
+						start = int(start)
+						end = int(end)
+						skiplen = end - start + 1
 				else:
 					output.append(line)
 			fout.write('\n'.join(output) + "\n")
@@ -75,44 +84,67 @@ def harvest_text(files):
 def restore_docs(path_to_underscores,text_dict):
 	dep_files = glob(path_to_underscores+os.sep+"*.conll")
 	tok_files = glob(path_to_underscores+os.sep+"*.tok")
-
+	skiplen = 0
+	token_dict = {}
 	for file_ in dep_files + tok_files:
 		lines = io.open(file_,encoding="utf8").readlines()
+		tokfile = True if ".tok" in file_ else False
 		output = []
 		underscore_len = 0  # Must match doc_len at end of file processing
 		doc_len = 0
+		parse_text = ""
 		for line in lines:
 			line = line.strip()
 			if "# newdoc id " in line:
+				if parse_text !="":
+					if not tokfile:
+						token_dict[docname] = parse_text
+				parse_text = ""
 				docname = re.search(r'# newdoc id ?= ?([^\s]+)',line).group(1)
 				if docname not in text_dict:
 					raise IOError("! Text for document name " + docname + " not found.\n Please check that your LDC data contains the file for this document.\n")
-				text = text_dict[docname]
+				if ".tok" in file_:
+					text = token_dict[docname]
+				else:
+					text = text_dict[docname]
 				doc_len = len(text)
 				underscore_len = 0
+
 			if line.startswith("# text"):
 				m = re.match(r'(# ?text ?= ?)(.+)',line)
 				if m is not None:
 					i = 0
 					sent_text = ""
-					for char in m.group(2):
+					for char in m.group(2).strip():
 						if char != " ":
 							sent_text += text[i]
+							i+=1
 						else:
 							sent_text += " "
 					line = m.group(1) + sent_text
 					output.append(line)
 			elif "\t" in line:
 				fields = line.split("\t")
-				underscore_len += len(fields[1])
-				fields[1] = text[:len(fields[1])]
-				if file_.endswith("conll"):
-					if fields[2] == '_':
+				if skiplen < 1:
+					underscore_len += len(fields[1])
+					fields[1] = text[:len(fields[1])]
+				if not "-" in fields[0]:
+					parse_text += fields[1]
+				if not tokfile:
+					if fields[2] == '_' and not "-" in fields[0]:
 						fields[2] = fields[1]
 					elif fields[2] == "*LOWER*":
 						fields[2] = fields[1].lower()
-				text = text[len(fields[1]):]
+				if skiplen < 1:
+					text = text[len(fields[1]):]
+				else:
+					skiplen -=1
 				output.append("\t".join(fields))
+				if "-" in fields[0]:  # Multitoken
+					start, end = fields[0].split("-")
+					start = int(start)
+					end = int(end)
+					skiplen = end - start + 1
 			else:
 				output.append(line)
 
@@ -120,7 +152,15 @@ def restore_docs(path_to_underscores,text_dict):
 			sys.stderr.write("\n! Tried to restore document " + docname + " but source text has different length than tokens in shared task file:\n" + \
 						  "  Source text in data/: " + str(doc_len) + " non-whitespace characters\n" + \
 						  "  Token underscores in " + file_+": " + str(underscore_len) + " non-whitespace characters\n")
+			with io.open("debug.txt",'w',encoding="utf8") as f:
+				f.write(text_dict[docname])
+				f.write("\n\n\n")
+				f.write(parse_text)
 			sys.exit(0)
+
+		if not tokfile and parse_text != "":
+			token_dict[docname] = parse_text
+
 		with io.open(file_, 'w', encoding='utf8', newline="\n") as fout:
 			fout.write("\n".join(output) + "\n")
 
@@ -128,7 +168,7 @@ def restore_docs(path_to_underscores,text_dict):
 
 
 p = ArgumentParser()
-p.add_argument("corpus",action="store",choices=["rstdt","pdtb","cdtb","all"],default="all",help="Name of the corpus to process or 'all'")
+p.add_argument("corpus",action="store",choices=["rstdt","pdtb","cdtb","tdb","all"],default="all",help="Name of the corpus to process or 'all'")
 p.add_argument("-m","--mode",action="store",choices=["add","del"],default="add",help="Use 'add' to restore data and 'del' to replace text with underscores")
 opts = p.parse_args()
 
@@ -146,6 +186,10 @@ if opts.mode == "del":  # Remove text from resources that need to be underscored
 	if opts.corpus == "cdtb" or opts.corpus == "all":
 		corpus_files = glob(os.sep.join(["..","data","zho.pdtb.cdtb","*.conll"])) + glob(os.sep.join(["..","data","zho.pdtb.cdtb","*.tok"]))
 		sys.stderr.write("o Found " + str(len(corpus_files)) + " files in " + os.sep.join(["..","data","zho.pdtb.cdtb"]) + "\n")
+		files += corpus_files
+	if opts.corpus == "tdb" or opts.corpus == "all":
+		corpus_files = glob(os.sep.join(["..","data","tur.pdtb.tdb","*.conll"])) + glob(os.sep.join(["..","data","tur.pdtb.tdb","*.tok"]))
+		sys.stderr.write("o Found " + str(len(corpus_files)) + " files in " + os.sep.join(["..","data","tur.pdtb.tdb"]) + "\n")
 		files += corpus_files
 	underscore_files(files)
 	sys.stderr.write("o Replaced text with underscores in " + str(len(files)) + " files\n")
@@ -182,5 +226,13 @@ if opts.corpus == "cdtb" or opts.corpus == "all":
 	files = glob(os.sep.join([cdtb_path,"*.raw"]))
 	docs2text = harvest_text(files)
 	restore_docs(os.sep.join(["..","data","zho.pdtb.cdtb"]),docs2text)
+if opts.corpus == "tdb" or opts.corpus == "all":
+	tdb_path = input("Enter path for Turkish Discourse Bank 1.0 raw/01/ folder:\n> ")
+	if not os.path.isdir(tdb_path):
+		sys.stderr.write("Can't find directory at: " + tdb_path + "\n")
+		sys.exit(0)
+	files = glob(os.sep.join([tdb_path,"*.txt"]))
+	docs2text = harvest_text(files)
+	restore_docs(os.sep.join(["..","data","tur.pdtb.tdb"]),docs2text)
 
 

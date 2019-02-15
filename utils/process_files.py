@@ -36,6 +36,7 @@ opts = p.parse_args()
 
 files = glob(opts.files)
 last_line = ""
+multitoken = False
 
 for infile in files:
 	sys.stderr.write("i Processing file " + os.path.basename(infile) + "\n")
@@ -71,6 +72,7 @@ for infile in files:
 		if "\t" in line:  # Token line
 			token_counter += 1
 			fields = line.split("\t")
+			multitoken = "-"  in fields[0]
 			if len(fields) != 10:
 				raise IOError("x Token line must contain 10 fields but " + str(len(fields)) + " found on line " + str(i) + "\n")
 			output.append(line)
@@ -82,7 +84,8 @@ for infile in files:
 				fields[9] = "Seg=B-Conn"
 			if "Seg=I-Conn" in line:
 				fields[9] = "Seg=I-Conn"
-			plain_output.append("\t".join(fields))
+			if not multitoken:  # No multitokens in .tok files
+				plain_output.append("\t".join(fields))
 		else:
 			if line.startswith("#"):
 				m = re.match(r'# ?(newdoc id|sent_id|text) ?= ?(.+)',line)
