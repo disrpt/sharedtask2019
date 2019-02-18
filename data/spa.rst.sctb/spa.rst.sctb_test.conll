@@ -841,7 +841,7 @@
 40	.	.	PUNCT	_	_	31	punct	_	_
 
 # newdoc id = FCEC_ESP2-GS
-1	﻿Objetivos	﻿Objetivo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
+1	Objetivos	Objetivo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	y	y	CCONJ	_	_	3	cc	_	_
 3	fines	fin	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	_
 

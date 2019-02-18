@@ -744,7 +744,7 @@
 344	)	_	_	_	_	_	_	_	_
 
 # newdoc id = FCEC_ESP1-GS
-1	﻿Carta	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Carta	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	bienvenida	_	_	_	_	_	_	_	_
 4	Queridos	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -1224,7 +1224,7 @@
 478	España-China	_	_	_	_	_	_	_	_
 
 # newdoc id = FICB_ESP4-GS
-1	﻿Exposición	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Exposición	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	fotos	_	_	_	_	_	_	_	_
 4	sobre	_	_	_	_	_	_	_	_

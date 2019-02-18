@@ -1,5 +1,5 @@
 # newdoc id = BMCS_ESP1-GS
-1	﻿Sección	﻿Sección	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	BeginSeg=Yes
+1	Sección	Sección	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	BeginSeg=Yes
 2	Cultural	cultural	ADJ	_	_	1	amod	_	_
 3	del	del	ADP	_	_	4	case	_	_
 4	Consulado	consulado	NOUN	_	_	1	nmod	_	_
@@ -308,7 +308,7 @@
 21	.	.	PUNCT	_	_	2	punct	_	_
 
 # newdoc id = BMCS_ESP2-GS
-1	﻿PROFESORES	﻿PROFESORES	ADV	_	_	11	advmod	_	BeginSeg=Yes
+1	PROFESORES	PROFESORES	ADV	_	_	11	advmod	_	BeginSeg=Yes
 2	Y	y	CCONJ	_	_	8	cc	_	_
 3	MÉTODOS	método	DET	_	Gender=Masc|Number=Plur|PronType=Tot	4	det	_	_
 4	Todos	todo	PROPN	_	Gender=Masc|Number=Plur	8	nsubj	_	BeginSeg=Yes
@@ -848,7 +848,7 @@
 26	.	.	PUNCT	_	_	14	punct	_	_
 
 # newdoc id = CCICE_ESP-GS
-1	﻿El	﻿el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	Tesoro	tesoro	PROPN	_	_	3	nsubj	_	_
 3	intentará	intentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 4	colocar	colocar	VERB	_	VerbForm=Inf	3	xcomp	_	_
@@ -994,7 +994,7 @@
 14	.	.	PUNCT	_	_	8	punct	_	_
 
 # newdoc id = CCICE_ESP1-GS
-1	﻿Norteamérica	﻿Norteamérica	ADV	_	_	3	advmod	_	BeginSeg=Yes
+1	Norteamérica	Norteamérica	ADV	_	_	3	advmod	_	BeginSeg=Yes
 2	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	iobj	_	_
 3	convierte	convertir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	_	_	7	case	_	_
@@ -1171,7 +1171,7 @@
 18	.	.	PUNCT	_	_	7	punct	_	_
 
 # newdoc id = CCICE_ESP2-GS
-1	﻿España	﻿España	PROPN	_	_	3	nsubj	_	BeginSeg=Yes
+1	España	España	PROPN	_	_	3	nsubj	_	BeginSeg=Yes
 2	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	iobj	_	_
 3	convierte	convertir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	_	_	6	case	_	_
@@ -1365,7 +1365,7 @@
 54	.	.	PUNCT	_	_	8	punct	_	_
 
 # newdoc id = EEP_ESP1-GS
-1	﻿Empresa	﻿Empresa	PROPN	_	Gender=Fem|Number=Sing	4	nsubj	_	BeginSeg=Yes
+1	Empresa	Empresa	PROPN	_	Gender=Fem|Number=Sing	4	nsubj	_	BeginSeg=Yes
 2	española	español	PROPN	_	Gender=Fem|Number=Sing	1	amod	_	_
 3	Aritex	Aritex	PROPN	_	_	1	flat	_	_
 4	colabora	colaborar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1471,7 +1471,7 @@
 9	.	.	PUNCT	_	_	3	punct	_	_
 
 # newdoc id = EEP_ESP2-GS
-1	﻿El	﻿el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	embajador	embajador	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	España	españa	PROPN	_	_	2	nmod	_	_
@@ -1755,7 +1755,7 @@
 16	https://www.salvadordalimuseum.cn/	https://www.salvadordalimuseum.cn/	SYM	_	_	6	dep	_	_
 
 # newdoc id = EEP_ESP3-GS
-1	﻿La	﻿la	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
+1	La	la	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	Secretaria	secretaria	NOUN	_	_	12	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Estado	estado	NOUN	_	_	2	nmod	_	_
@@ -2064,7 +2064,7 @@
 56	.	.	PUNCT	_	_	8	punct	_	_
 
 # newdoc id = EEP_ESP4-GS
-1	﻿Celebración	﻿Celebración	PROPN	_	Gender=Masc|Number=Sing	19	nsubj	_	BeginSeg=Yes
+1	Celebración	Celebración	PROPN	_	Gender=Masc|Number=Sing	19	nsubj	_	BeginSeg=Yes
 2	II	ii	PROPN	_	Number=Sing	1	flat	_	_
 3	Foro	foro	PROPN	_	_	1	flat	_	_
 4	Ruta	Ruta	PROPN	_	Gender=Fem|Number=Sing	1	appos	_	_
@@ -2343,7 +2343,7 @@
 44	.	.	PUNCT	_	_	4	punct	_	_
 
 # newdoc id = EEP_ESP5-GS
-1	﻿I	﻿i	CCONJ	_	_	2	cc	_	BeginSeg=Yes
+1	I	i	CCONJ	_	_	2	cc	_	BeginSeg=Yes
 2	Foro	foro	PROPN	_	_	0	root	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -2716,7 +2716,7 @@
 23	.	.	PUNCT	_	_	3	punct	_	_
 
 # newdoc id = FICB_ESP1-GS
-1	﻿Visita	﻿Visita	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	BeginSeg=Yes
+1	Visita	Visita	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	BeginSeg=Yes
 2	de	de	ADP	_	_	4	case	_	_
 3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	directores	director	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
@@ -2865,7 +2865,7 @@
 35	.	.	PUNCT	_	_	6	punct	_	_
 
 # newdoc id = FICB_ESP2-GS
-1	﻿Formación	﻿Formación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
+1	Formación	Formación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	_	_	3	case	_	_
 3	profesores	profesor	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	_
 4	de	de	ADP	_	_	5	case	_	_
@@ -3879,7 +3879,7 @@
 24	.	.	PUNCT	_	_	1	punct	_	_
 
 # newdoc id = ICP_ESP1-GS
-1	﻿Presentación	﻿Presentación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
+1	Presentación	Presentación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	institucional	institucional	ADJ	_	Number=Sing	1	amod	_	_
 
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -4084,7 +4084,7 @@
 23	.	.	PUNCT	_	_	3	punct	_	_
 
 # newdoc id = ICP_ESP2-GS
-1	﻿Exposición	﻿Exposición	NOUN	_	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
+1	Exposición	Exposición	NOUN	_	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	:	:	PUNCT	_	_	1	punct	_	_
 3	¿	¿	PUNCT	_	_	4	punct	_	_
 4	Cazadores	cazador	PROPN	_	Gender=Masc|Number=Plur	1	appos	_	_
@@ -4590,7 +4590,7 @@
 25	.	.	PUNCT	_	_	15	punct	_	_
 
 # newdoc id = ICP_ESP3-GS
-1	﻿Actividades	﻿Actividad	NOUN	_	Gender=Fem|Number=Plur	17	nsubj	_	BeginSeg=Yes
+1	Actividades	Actividad	NOUN	_	Gender=Fem|Number=Plur	17	nsubj	_	BeginSeg=Yes
 2	culturales	cultural	ADJ	_	Number=Plur	1	amod	_	_
 3	Además	además	ADV	_	_	6	advmod	_	BeginSeg=Yes
 4	de	de	ADP	_	_	3	fixed	_	_
@@ -4865,7 +4865,7 @@
 40	cult1pek@cervantes.es	cult1pek@cervantes.es	SYM	_	_	39	dep	_	_
 
 # newdoc id = ICP_ESP4-GS
-1	﻿Trabaja	﻿Trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
+1	Trabaja	Trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
 2	en	en	ADP	_	_	3	case	_	_
 3	español	español	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 4	Ser	ser	NOUN	_	_	3	appos	_	BeginSeg=Yes
@@ -5082,7 +5082,7 @@
 55	58799670	58799670	NUM	_	NumType=Card	54	nummod	_	_
 
 # newdoc id = TERM18_ESP-GS
-1	﻿﻿Tendencias	﻿﻿Tendencia	NOUN	_	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
+1	Tendencias	Tendencia	NOUN	_	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	generales	general	ADJ	_	Number=Plur	1	amod	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -5401,7 +5401,7 @@
 52	.	.	PUNCT	_	_	4	punct	_	_
 
 # newdoc id = TERM19_ESP-GS
-1	﻿﻿Dimensión	﻿﻿Dimensión	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	BeginSeg=Yes
+1	Dimensión	Dimensión	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	BeginSeg=Yes
 2	social	social	ADJ	_	Number=Sing	1	amod	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -5767,7 +5767,7 @@
 50	.	.	PUNCT	_	_	19	punct	_	_
 
 # newdoc id = TERM23_ESP-GS
-1	﻿﻿La	﻿﻿la	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
+1	La	la	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	creación	creación	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	términos	término	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
@@ -6113,7 +6113,7 @@
 20	.	.	PUNCT	_	_	4	punct	_	_
 
 # newdoc id = TERM25_ESP-GS
-1	﻿﻿La	﻿﻿la	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
+1	La	la	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	terminología	terminología	NOUN	_	Gender=Fem|Number=Sing	25	nsubj	_	_
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -6388,7 +6388,7 @@
 52	.	.	PUNCT	_	_	11	punct	_	_
 
 # newdoc id = TERM28_ESP-GS
-1	﻿﻿Metodología	﻿﻿Metodología	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	advcl	_	BeginSeg=Yes
+1	Metodología	Metodología	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	advcl	_	BeginSeg=Yes
 2	del	del	ADP	_	_	3	case	_	_
 3	vaciado	vaciado	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	1	obl	_	_
 4	de	de	ADP	_	_	5	case	_	_
@@ -6750,7 +6750,7 @@
 74	.	.	PUNCT	_	_	21	punct	_	_
 
 # newdoc id = TERM29_ESP-GS
-1	﻿﻿El	﻿﻿el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	y	y	CCONJ	_	_	5	cc	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -6964,7 +6964,7 @@
 64	.	.	PUNCT	_	_	20	punct	_	_
 
 # newdoc id = TERM30_ESP-GS
-1	﻿﻿Gestión	﻿﻿Gestión	NOUN	_	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
+1	Gestión	Gestión	NOUN	_	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	terminológica	terminológico	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	_
 3	y	y	CCONJ	_	_	4	cc	_	_
 4	proceso	proceso	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
@@ -7850,7 +7850,7 @@
 32	.	.	PUNCT	_	_	4	punct	_	_
 
 # newdoc id = TERM31_ESP-GS
-1	﻿﻿El	﻿﻿el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	BeginSeg=Yes
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	BeginSeg=Yes
 2	vaciado	vaciado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	amod	_	_
 3	terminológico	terminológico	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	automático	automático	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_

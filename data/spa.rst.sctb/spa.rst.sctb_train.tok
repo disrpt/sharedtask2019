@@ -1,5 +1,5 @@
 # newdoc id = BMCS_ESP1-GS
-1	﻿Sección	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Sección	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Cultural	_	_	_	_	_	_	_	_
 3	del	_	_	_	_	_	_	_	_
 4	Consulado	_	_	_	_	_	_	_	_
@@ -300,7 +300,7 @@
 299	.	_	_	_	_	_	_	_	_
 
 # newdoc id = BMCS_ESP2-GS
-1	﻿PROFESORES	_	_	_	_	_	_	_	BeginSeg=Yes
+1	PROFESORES	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Y	_	_	_	_	_	_	_	_
 3	MÉTODOS	_	_	_	_	_	_	_	_
 4	Todos	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -823,7 +823,7 @@
 296	.	_	_	_	_	_	_	_	_
 
 # newdoc id = CCICE_ESP-GS
-1	﻿El	_	_	_	_	_	_	_	BeginSeg=Yes
+1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Tesoro	_	_	_	_	_	_	_	_
 3	intentará	_	_	_	_	_	_	_	_
 4	colocar	_	_	_	_	_	_	_	_
@@ -964,7 +964,7 @@
 139	.	_	_	_	_	_	_	_	_
 
 # newdoc id = CCICE_ESP1-GS
-1	﻿Norteamérica	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Norteamérica	_	_	_	_	_	_	_	BeginSeg=Yes
 2	se	_	_	_	_	_	_	_	_
 3	convierte	_	_	_	_	_	_	_	_
 4	en	_	_	_	_	_	_	_	_
@@ -1136,7 +1136,7 @@
 170	.	_	_	_	_	_	_	_	_
 
 # newdoc id = CCICE_ESP2-GS
-1	﻿España	_	_	_	_	_	_	_	BeginSeg=Yes
+1	España	_	_	_	_	_	_	_	BeginSeg=Yes
 2	se	_	_	_	_	_	_	_	_
 3	convierte	_	_	_	_	_	_	_	_
 4	en	_	_	_	_	_	_	_	_
@@ -1326,7 +1326,7 @@
 188	.	_	_	_	_	_	_	_	_
 
 # newdoc id = EEP_ESP1-GS
-1	﻿Empresa	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Empresa	_	_	_	_	_	_	_	BeginSeg=Yes
 2	española	_	_	_	_	_	_	_	_
 3	Aritex	_	_	_	_	_	_	_	_
 4	colabora	_	_	_	_	_	_	_	_
@@ -1428,7 +1428,7 @@
 100	.	_	_	_	_	_	_	_	_
 
 # newdoc id = EEP_ESP2-GS
-1	﻿El	_	_	_	_	_	_	_	BeginSeg=Yes
+1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	embajador	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
 4	España	_	_	_	_	_	_	_	_
@@ -1705,7 +1705,7 @@
 275	https://www.salvadordalimuseum.cn/	_	_	_	_	_	_	_	_
 
 # newdoc id = EEP_ESP3-GS
-1	﻿La	_	_	_	_	_	_	_	BeginSeg=Yes
+1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Secretaria	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
 4	Estado	_	_	_	_	_	_	_	_
@@ -2007,7 +2007,7 @@
 300	.	_	_	_	_	_	_	_	_
 
 # newdoc id = EEP_ESP4-GS
-1	﻿Celebración	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Celebración	_	_	_	_	_	_	_	BeginSeg=Yes
 2	II	_	_	_	_	_	_	_	_
 3	Foro	_	_	_	_	_	_	_	_
 4	Ruta	_	_	_	_	_	_	_	_
@@ -2281,7 +2281,7 @@
 272	.	_	_	_	_	_	_	_	_
 
 # newdoc id = EEP_ESP5-GS
-1	﻿I	_	_	_	_	_	_	_	BeginSeg=Yes
+1	I	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Foro	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
 4	la	_	_	_	_	_	_	_	_
@@ -2645,7 +2645,7 @@
 217	.	_	_	_	_	_	_	_	_
 
 # newdoc id = FICB_ESP1-GS
-1	﻿Visita	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Visita	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	los	_	_	_	_	_	_	_	_
 4	directores	_	_	_	_	_	_	_	_
@@ -2789,7 +2789,7 @@
 142	.	_	_	_	_	_	_	_	_
 
 # newdoc id = FICB_ESP2-GS
-1	﻿Formación	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Formación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	profesores	_	_	_	_	_	_	_	_
 4	de	_	_	_	_	_	_	_	_
@@ -3769,7 +3769,7 @@
 123	.	_	_	_	_	_	_	_	_
 
 # newdoc id = ICP_ESP1-GS
-1	﻿Presentación	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Presentación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	institucional	_	_	_	_	_	_	_	_
 3	El	_	_	_	_	_	_	_	BeginSeg=Yes
 4	Instituto	_	_	_	_	_	_	_	_
@@ -3968,7 +3968,7 @@
 197	.	_	_	_	_	_	_	_	_
 
 # newdoc id = ICP_ESP2-GS
-1	﻿Exposición	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Exposición	_	_	_	_	_	_	_	BeginSeg=Yes
 2	:	_	_	_	_	_	_	_	_
 3	¿	_	_	_	_	_	_	_	_
 4	Cazadores	_	_	_	_	_	_	_	_
@@ -4460,7 +4460,7 @@
 490	.	_	_	_	_	_	_	_	_
 
 # newdoc id = ICP_ESP3-GS
-1	﻿Actividades	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Actividades	_	_	_	_	_	_	_	BeginSeg=Yes
 2	culturales	_	_	_	_	_	_	_	_
 3	Además	_	_	_	_	_	_	_	BeginSeg=Yes
 4	de	_	_	_	_	_	_	_	_
@@ -4728,7 +4728,7 @@
 266	cult1pek@cervantes.es	_	_	_	_	_	_	_	_
 
 # newdoc id = ICP_ESP4-GS
-1	﻿Trabaja	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Trabaja	_	_	_	_	_	_	_	BeginSeg=Yes
 2	en	_	_	_	_	_	_	_	_
 3	español	_	_	_	_	_	_	_	_
 4	Ser	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -4937,7 +4937,7 @@
 207	58799670	_	_	_	_	_	_	_	_
 
 # newdoc id = TERM18_ESP-GS
-1	﻿﻿Tendencias	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Tendencias	_	_	_	_	_	_	_	BeginSeg=Yes
 2	generales	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
 4	la	_	_	_	_	_	_	_	_
@@ -5250,7 +5250,7 @@
 311	.	_	_	_	_	_	_	_	_
 
 # newdoc id = TERM19_ESP-GS
-1	﻿﻿Dimensión	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Dimensión	_	_	_	_	_	_	_	BeginSeg=Yes
 2	social	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
 4	la	_	_	_	_	_	_	_	_
@@ -5609,7 +5609,7 @@
 357	.	_	_	_	_	_	_	_	_
 
 # newdoc id = TERM23_ESP-GS
-1	﻿﻿La	_	_	_	_	_	_	_	BeginSeg=Yes
+1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	creación	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
 4	términos	_	_	_	_	_	_	_	_
@@ -5944,7 +5944,7 @@
 333	.	_	_	_	_	_	_	_	_
 
 # newdoc id = TERM25_ESP-GS
-1	﻿﻿La	_	_	_	_	_	_	_	BeginSeg=Yes
+1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terminología	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
 4	la	_	_	_	_	_	_	_	_
@@ -6215,7 +6215,7 @@
 269	.	_	_	_	_	_	_	_	_
 
 # newdoc id = TERM28_ESP-GS
-1	﻿﻿Metodología	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Metodología	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	vaciado	_	_	_	_	_	_	_	_
 4	de	_	_	_	_	_	_	_	_
@@ -6570,7 +6570,7 @@
 353	.	_	_	_	_	_	_	_	_
 
 # newdoc id = TERM29_ESP-GS
-1	﻿﻿El	_	_	_	_	_	_	_	BeginSeg=Yes
+1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	diseño	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
 4	la	_	_	_	_	_	_	_	_
@@ -6782,7 +6782,7 @@
 210	.	_	_	_	_	_	_	_	_
 
 # newdoc id = TERM30_ESP-GS
-1	﻿﻿Gestión	_	_	_	_	_	_	_	BeginSeg=Yes
+1	Gestión	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terminológica	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
 4	proceso	_	_	_	_	_	_	_	_
@@ -7647,7 +7647,7 @@
 863	.	_	_	_	_	_	_	_	_
 
 # newdoc id = TERM31_ESP-GS
-1	﻿﻿El	_	_	_	_	_	_	_	BeginSeg=Yes
+1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	vaciado	_	_	_	_	_	_	_	_
 3	terminológico	_	_	_	_	_	_	_	_
 4	automático	_	_	_	_	_	_	_	_
