@@ -3842,7 +3842,7 @@
 8	egoera	egoera	NOUN	NOUN	_	5	obl	_	_
 9	hiperreaktibo	hiperreaktibo	ADJ	ADJ	_	8	amod	_	_
 10	honetan	hau	DET	DET	Case=Ine|Number=Sing	8	det	_	_
-11	,	,	PUNCT	PUNCT	_	5	punct	_	
+11	,	,	PUNCT	PUNCT	_	5	punct	_	_
 12	eta	eta	CONJ	CONJ	_	15	cc	_	BeginSeg=Yes
 13	p53-ren	p53-	NOUN	NOUN	Case=Gen	14	nmod	_	_
 14	bidezidorra	bidezidor	NOUN	NOUN	Case=Abs|Number=Sing	15	obl	_	_
@@ -3905,7 +3905,7 @@
 14	ezabatzaileak	ezabatzaile	NOUN	NOUN	Case=Abs|Number=Plur	15	nmod	_	_
 15	kontrolatutakoa	kontrolatu	VERB	VERB	Case=Abs|Number=Sing|VerbForm=Part	19	conj	_	_
 16	,	,	PUNCT	PUNCT	_	15	punct	_	_
-17	proliferazio	proliferazio	NOUN	NOUN	_	19	obl	_	
+17	proliferazio	proliferazio	NOUN	NOUN	_	19	obl	_	_
 18	aberrantea	aberrante	ADJ	ADJ	Case=Abs|Number=Sing	17	amod	_	_
 19	geldiarazi	geldiaraz	VERB	VERB	VerbForm=Part	9	advcl	_	_
 20	eta	eta	CONJ	CONJ	_	24	cc	_	_
