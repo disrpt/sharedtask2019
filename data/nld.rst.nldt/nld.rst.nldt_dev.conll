@@ -1933,7 +1933,7 @@
 32	minst	weinig	PRON	VNW|onbep|grad|stan|vrij|zonder|sup	PronType=Ind	30	fixed	30:fixed	_
 33	een	een	DET	LID|onbep|stan|agr	Definite=Ind	35	det	35:det	_
 34	klein	klein	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	35	amod	35:amod	_
-35	laagje	laagje	NOUN	N|soort|ev|dim|onz|stan	Gender=Neut|Number=Sing	23	ERROR_NO_LABEL_--	23:ERROR_NO_LABEL_--	_
+35	laagje	laagje	NOUN	N|soort|ev|dim|onz|stan	Gender=Neut|Number=Sing	28	obl:door	28:obl:door	_
 36	van	van	ADP	VZ|init	_	38	case	38:case	_
 37	donker	donker	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	38	amod	38:amod	_
 38	materiaal	materiaal	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	35	nmod	35:nmod:van	_
@@ -1985,7 +1985,7 @@
 # text = De beelden genomen door Voyager 2 en genomen vanaf de Aarde geven aan dat de rotatie van Hyperion chaotisch is .
 1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	BeginSeg=Yes
 2	beelden	beeld	NOUN	N|soort|mv|basis	Number=Plur	12	nsubj	12:nsubj	_
-3	genomen	nemen	VERB	WW|vd|vrij|zonder	VerbForm=Part	2	ERROR_NO_LABEL_NMOD	2:ERROR_NO_LABEL_NMOD	_
+3	genomen	nemen	VERB	WW|vd|vrij|zonder	VerbForm=Part	2	amod	2:amod	_
 4	door	door	ADP	VZ|init	_	5	case	5:case	_
 5	Voyager	Voyager	PROPN	SPEC|deeleigen	_	3	obl	3:obl:door	_
 6	2	2	NUM	TW|hoofd|vrij	_	5	flat	5:flat	_
@@ -2243,7 +2243,7 @@
 8	uit	uit	ADP	VZ|init	_	11	case	11:case	_
 9	deze	deze	DET	VNW|aanw|det|stan|prenom|met-e|rest	_	11	det	11:det	_
 10	traditionele	traditioneel	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	11	amod	11:amod	_
-11	top	top	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	ERROR_NO_LABEL	7:ERROR_NO_LABEL	_
+11	top	top	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	nmod:uit	7:nmod:uit	_
 12	5	5	NUM	TW|hoofd|vrij	_	11	appos	11:appos	_
 13	in	in	ADP	VZ|init	_	15	case	15:case	_
 14	uw	uw	PRON	VNW|bez|det|stan|vol|2|getal|prenom|zonder|agr	Person=2|PronType=Prs	15	nmod:poss	15:nmod:poss	_
@@ -4530,9 +4530,9 @@
 4	superaarde	superaarde	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	obj	5:obj	_
 5	verorberde	verorberen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	8	parataxis	8:parataxis	_
 6	,	,	PUNCT	LET	_	8	punct	8:punct	_
-7	dan	dan	ADV	BW	_	13	ERROR_NO_LABEL	13:ERROR_NO_LABEL	BeginSeg=Yes
+7	dan	dan	ADV	BW	_	13	advmod	13:advmod	BeginSeg=Yes
 8	zou	zullen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
-9	daar	daar	ADV	VNW|aanw|adv-pron|obl|vol|3o|getal	_	13	ERROR_NO_LABEL	13:ERROR_NO_LABEL	_
+9	daar	daar	ADV	VNW|aanw|adv-pron|obl|vol|3o|getal	_	13	advmod	13:advmod	_
 10	veel	veel	DET	VNW|onbep|grad|stan|prenom|zonder|agr|basis	_	11	det	11:det	_
 11	hitte	hitte	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	nsubj	8:nsubj|13:nsubj:xsubj	_
 12	bij	bij	ADP	VZ|init	_	9	case	9:case	_

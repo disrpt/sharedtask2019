@@ -1184,7 +1184,7 @@
 6	sterren	ster	NOUN	N|soort|mv|basis	Number=Plur	14	nsubj:pass	14:nsubj:pass	_
 7	inderdaad	inderdaad	ADV	BW	_	14	advmod	14:advmod	_
 8	,	,	PUNCT	LET	_	2	punct	2:punct	_
-9	kosmisch	kosmisch	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	10	ERROR_NO_LABEL	10:ERROR_NO_LABEL	BeginSeg=Yes
+9	kosmisch	kosmisch	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	10	advmod	10:advmod	BeginSeg=Yes
 10	gezien	gezien	VERB	WW|vd|vrij|zonder	VerbForm=Part	14	advcl	14:advcl	_
 11	,	,	PUNCT	LET	_	2	punct	2:punct	_
 12	pas	pas	ADV	BW	_	14	advmod	14:advmod	BeginSeg=Yes
@@ -1411,14 +1411,14 @@
 3	des	des	ADV	BW	_	5	obl	5:obl	_
 4	te	te	ADV	BW	_	3	fixed	3:fixed	_
 5	opvallender	opvallend	ADJ	ADJ|vrij|comp|zonder	Degree=Cmp	0	root	0:root	_
-6	omdat	omdat	SCONJ	VG|onder	_	5	ERROR_NO_LABEL_VMOD	5:ERROR_NO_LABEL_VMOD	BeginSeg=Yes
+6	omdat	omdat	SCONJ	VG|onder	_	13	mark	13:mark	BeginSeg=Yes
 7	snelle	snel	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	8	amod	8:amod	_
 8	helderheidsvariaties	helderheidsvariatie	NOUN	N|soort|mv|basis	Number=Plur	13	nsubj	13:nsubj	_
 9	in	in	ADP	VZ|init	_	12	case	12:case	_
 10	zeer	zeer	ADV	BW	_	11	advmod	11:advmod	_
 11	korte	kort	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	12	amod	12:amod	_
 12	tijd	tijd	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	nmod	13:nmod:in	_
-13	plaatsvinden	plaatsvinden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	6	ERROR_NO_LABEL_VMOD	6:ERROR_NO_LABEL_VMOD	_
+13	plaatsvinden	plaatsvinden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	5	advcl	6:advcl	_
 14	(	(	PUNCT	LET	_	5	punct	5:punct	BeginSeg=Yes
 15	een	een	DET	LID|onbep|stan|agr	Definite=Ind	16	det	16:det	_
 16	object	object	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	20	nsubj	20:nsubj	_
@@ -1541,7 +1541,7 @@
 12	verwant	verwant	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	6	acl:relcl	6:acl:relcl	_
 13	zijn	zijn	AUX	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
 14	,	,	PUNCT	LET	_	5	punct	5:punct	_
-15	zijn	zijn	VERB	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	16	ERROR_NO_LABEL_DET	16:ERROR_NO_LABEL_DET	BeginSeg=Yes
+15	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|PronType=Prs	16	nmod:poss	16:nmod:poss	_
 16	QSO's	QSO's	PROPN	SPEC|deeleigen	_	5	appos	5:appos	_
 17	(	(	PUNCT	LET	_	5	punct	5:punct	_
 18	quasi-stellar	quasi-stellar	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	16	nmod	16:nmod	_
@@ -2415,7 +2415,7 @@
 6	toegang	toegang	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	obj	1:obj	_
 7	tot	tot	ADP	VZ|init	_	9	case	9:case	_
 8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
-9	medicijnboot	medicijnboot	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	ERROR_NO_LABEL	6:ERROR_NO_LABEL	_
+9	medicijnboot	medicijnboot	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	nmod:tot	6:nmod:tot	_
 10	?	?	PUNCT	LET	_	1	punct	1:punct	_
 
 # sent_id = 2
@@ -2655,7 +2655,7 @@
 10	toegang	toegang	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	parataxis	1:parataxis	_
 11	tot	tot	ADP	VZ|init	_	13	case	13:case	_
 12	de	de	DET	LID|bep|stan|rest	Definite=Def	13	det	13:det	_
-13	medicijnboot	medicijnboot	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	ERROR_NO_LABEL	10:ERROR_NO_LABEL	_
+13	medicijnboot	medicijnboot	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	nmod:tot	10:nmod:tot	_
 14	.	.	PUNCT	LET	_	1	punct	1:punct	_
 
 # sent_id = 16
