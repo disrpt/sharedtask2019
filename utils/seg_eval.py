@@ -70,7 +70,7 @@ Arguments:
 
 __author__ = "Amir Zeldes"
 __license__ = "Apache 2.0"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 def parse_data(infile, string_input=False):
 	if not string_input:
@@ -110,9 +110,8 @@ def parse_data(infile, string_input=False):
 			labels.append(label)
 			counter +=1
 
-			if span_start > -1:  # Add last span
-				spans.append((span_start,span_end))
-				span_start = -1
+	if span_start > -1 and span_end > -1:  # Add last span
+		spans.append((span_start,span_end))
 
 	return tokens, labels, spans
 
