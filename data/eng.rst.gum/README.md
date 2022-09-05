@@ -21,7 +21,7 @@ online forum discussions
 
 The corpus is created as part of the course LING-367 (Computational Corpus Linguistics) at Georgetown University. 
 
-For more details see: http://corpling.uis.georgetown.edu/gum.
+For more details see: https://gucorpling.org/gum.
 
 ## DISRPT 2019 shared task information
 
